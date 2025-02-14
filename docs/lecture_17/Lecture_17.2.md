@@ -1,20 +1,4 @@
----
-title: Mini-Lecture 17.2 - Nature-based solutions for waste and
-  wastewater treatment
-
-keywords:
-
--   Nature-based solutions
-
--   Waste management
-
--   Wastewater treatment
-
-authors:
-
--   Yu Mo
-
----
+# Mini-Lecture 17.2 - Nature-based solutions for waste and wastewater treatment
 
 This lecture provides an overview of the applications of nature-based
 solutions in waste and wastewater treatment. Particularly, this lecture
@@ -24,18 +8,16 @@ lecture also discusses examples of applications of nature-based
 solutions to address landfill leachate treatment and urban wastewater
 treatment.
 
-# Learning objectives
+Learning objectives
 
--   Recognise the value of nature-based solutions in waste management
-    and wastewater treatment
+- Recognise the value of nature-based solutions in waste management
+  and wastewater treatment
 
--   Gain a basic understanding of the principles of designing
-    nature-based solutions for waste management and wastewater
-    treatment.
+- Gain a basic understanding of the principles of designing
+  nature-based solutions for waste management and wastewater
+  treatment.
 
-
-
-# Overview of the applications of nature-based solutions in waste and wastewater treatment
+## Overview of the applications of nature-based solutions in waste and wastewater treatment
 
 As the population grows, the challenges of waste and wastewater
 treatment increases; the generation of waste and wastewater is vast and
@@ -62,165 +44,165 @@ nature-based solutions in waste and wastewater treatment.
 **Table 17.2.1:** Overview of nature-based solutions in waste and wastewater treatment [@MEA2005]
 
 +----------------+----------------+----------------+----------------+
-| Services       | Hard           | Nature-based   | Co-benefits    |
-|                | engineering    | solution       |                |
-|                | options        |                |                |
+| Services | Hard | Nature-based | Co-benefits |
+| | engineering | solution | |
+| | options | | |
 +================+================+================+================+
-| WASTE          | -   Landfill   | -              | -   Carbon     |
-| TREATMENT      |                |  Incorporation |  sequestration |
-|                | -   Synthetic  |     of natural |                |
-|                |     soil       |     and        |                |
-|                |     modifiers  |    constructed | -   Habitat    |
-|                |                |     wetlands   |     provision  |
-|                |                |     in         |                |
-|                |                |     landfill   | -              |
-|                |                |     leachate   |   Biodiversity |
-|                |                |     treatment  |                |
-|                |                |                |  conservation  |
-|                |                |                |                |
-|                |                | -   Use of     | -   Urban      |
-|                |                |   phytocapping |    temperature |
-|                |                |     to reduce  |     control    |
-|                |                |     water      |                |
-|                |                |    percolating | -   Aesthetics |
-|                |                |     into       |                |
-|                |                |     landfill   | -   Mental     |
-|                |                |                |     health     |
-|                |                |                |                |
-|                |                | -   Use of     |                |
-|                |                |     green      |                |
-|                |                |     manure,    |                |
-|                |                |     biochar,   |                |
-|                |                |     etc, to    |                |
-|                |                |     improve    |                |
-|                |                |     soil       |                |
-|                |                |     properties |                |
-|                |                |                |                |
-|                |                | -   Use of     |                |
-|                |                |     hyper-     |                |
-|                |                |    accumulator |                |
-|                |                |     ph-        |                |
-|                |                | ytoremediation |                |
-|                |                |     plants to  |                |
-|                |                |     remove     |                |
-|                |                |                |                |
-|                |                |   contaminants |                |
-|                |                |     from the   |                |
-|                |                |     soil, or   |                |
-|                |                |     to reduce  |                |
-|                |                |     their      |                |
-|                |                |     bio-       |                |
-|                |                |   availability |                |
-|                |                |                |                |
-|                |                | -   Use of     |                |
-|                |                |  reconstructed |                |
-|                |                |     grassland, |                |
-|                |                |     heathland, |                |
-|                |                |     and        |                |
-|                |                |     wetland to |                |
-|                |                |     restore    |                |
-|                |                |     landfill   |                |
-|                |                |     sites      |                |
+| WASTE | - Landfill | - | - Carbon |
+| TREATMENT | | Incorporation | sequestration |
+| | - Synthetic | of natural | |
+| | soil | and | |
+| | modifiers | constructed | - Habitat |
+| | | wetlands | provision |
+| | | in | |
+| | | landfill | - |
+| | | leachate | Biodiversity |
+| | | treatment | |
+| | | | conservation  |
+| | | | |
+| | | - Use of | - Urban |
+| | | phytocapping | temperature |
+| | | to reduce | control  |
+| | | water | |
+| | | percolating | - Aesthetics |
+| | | into | |
+| | | landfill | - Mental |
+| | | | health |
+| | | | |
+| | | - Use of | |
+| | | green | |
+| | | manure, | |
+| | | biochar, | |
+| | | etc, to | |
+| | | improve | |
+| | | soil | |
+| | | properties | |
+| | | | |
+| | | - Use of | |
+| | | hyper- | |
+| | | accumulator | |
+| | | ph- | |
+| | | ytoremediation | |
+| | | plants to | |
+| | | remove | |
+| | | | |
+| | | contaminants | |
+| | | from the | |
+| | | soil, or | |
+| | | to reduce | |
+| | | their | |
+| | | bio- | |
+| | | availability | |
+| | | | |
+| | | - Use of | |
+| | | reconstructed | |
+| | | grassland, | |
+| | | heathland, | |
+| | | and | |
+| | | wetland to | |
+| | | restore | |
+| | | landfill | |
+| | | sites | |
 +----------------+----------------+----------------+----------------+
-| WASTEWATER     | -   Wastewater | For urban and  | -   Carbon     |
-| TREATMENT      |     treatment  | suburban       |  sequestration |
-|                |     plant      | source/point   |                |
-|                |                | source:        |                |
-|                |                |                | -   Habitat    |
-|                |                | -   Green roof |     provision  |
-|                |                |     and rain   |                |
-|                |                |     garden to  | -              |
-|                |                |     collect,   |   Biodiversity |
-|                |                |     store and  |   conservation |
-|                |                |     clean      |                |
-|                |                |     rainwater  |                |
-|                |                |     before     | -   Urban      |
-|                |                |     gradual    |    temperature |
-|                |                |     release    |     control    |
-|                |                |     into water |                |
-|                |                |     courses    |                |
-|                |                |                | -   Aesthetics |
-|                |                | -              |                |
-|                |                |    Constructed | -   Mental     |
-|                |                |     wetland    |     health     |
-|                |                |     for        |                |
-|                |                |     greywater  |                |
-|                |                |     treatment  |                |
-|                |                |                |                |
-|                |                | -              |                |
-|                |                |    Constructed |                |
-|                |                |     wetland    |                |
-|                |                |     for        |                |
-|                |                |     treating   |                |
-|                |                |     outflow    |                |
-|                |                |     from       |                |
-|                |                |     existing   |                |
-|                |                |     wastewater |                |
-|                |                |     treatment  |                |
-|                |                |     plants     |                |
-|                |                |                |                |
-|                |                | -              |                |
-|                |                | Biodegradation |                |
-|                |                |     and        |                |
-|                |                |  bioconversion |                |
-|                |                |     to improve |                |
-|                |                |     effluent   |                |
-|                |                |     from       |                |
-|                |                |     industrial |                |
-|                |                |     and        |                |
-|                |                |     municipal  |                |
-|                |                |     treatment  |                |
-|                |                |     plants     |                |
-|                |                |                |                |
-|                |                | For non-point  |                |
-|                |                | source:        |                |
-|                |                |                |                |
-|                |                | -   Growing    |                |
-|                |                |     perennial  |                |
-|                |                |     crops and  |                |
-|                |                |     winter     |                |
-|                |                |     crops to   |                |
-|                |                |     retain     |                |
-|                |                |     nutrients  |                |
-|                |                |     in soil    |                |
-|                |                |                |                |
-|                |                | -   Intercrop  |                |
-|                |                |     with       |                |
-|                |                |     legumes to |                |
-|                |                |     enhance    |                |
-|                |                |     nutrient   |                |
-|                |                |     uptake     |                |
-|                |                |                |                |
-|                |                | -   Restoring  |                |
-|                |                |     water flow |                |
-|                |                |     through    |                |
-|                |                |     wetlands   |                |
-|                |                |                |                |
-|                |                | -   Nature or  |                |
-|                |                |    constructed |                |
-|                |                |     wetland to |                |
-|                |                |     trap       |                |
-|                |                |     sediment   |                |
-|                |                |     and        |                |
-|                |                |     pollution  |                |
-|                |                |     runoff in  |                |
-|                |                |     farmed     |                |
-|                |                |     landscape  |                |
-|                |                |                |                |
-|                |                | -   Protecting |                |
-|                |                |     and        |                |
-|                |                |     restoring  |                |
-|                |                |     intertidal |                |
-|                |                |     habitat to |                |
-|                |                |     reduce     |                |
-|                |                |     nutrient   |                |
-|                |                |     and other  |                |
-|                |                |     pollution  |                |
-|                |                |     in coastal |                |
-|                |                |     water      |                |
+| WASTEWATER | - Wastewater | For urban and | - Carbon |
+| TREATMENT | treatment | suburban | sequestration |
+| | plant | source/point | |
+| | | source: | |
+| | | | - Habitat |
+| | | - Green roof | provision |
+| | | and rain | |
+| | | garden to | - |
+| | | collect, | Biodiversity |
+| | | store and | conservation |
+| | | clean |   |
+| | | rainwater | |
+| | | before | - Urban |
+| | | gradual | temperature |
+| | | release | control  |
+| | | into water | |
+| | | courses | |
+| | | | - Aesthetics |
+| | | - | |
+| | | Constructed | - Mental |
+| | | wetland | health |
+| | | for | |
+| | | greywater | |
+| | | treatment | |
+| | | | |
+| | | - | |
+| | | Constructed | |
+| | | wetland | |
+| | | for | |
+| | | treating | |
+| | | outflow | |
+| | | from | |
+| | | existing | |
+| | | wastewater | |
+| | | treatment | |
+| | | plants | |
+| | | | |
+| | | - | |
+| | | Biodegradation | |
+| | | and | |
+| | | bioconversion | |
+| | | to improve | |
+| | | effluent | |
+| | | from | |
+| | | industrial | |
+| | | and | |
+| | | municipal | |
+| | | treatment | |
+| | | plants | |
+| | | | |
+| | | For non-point | |
+| | | source: | |
+| | | | |
+| | | - Growing | |
+| | | perennial | |
+| | | crops and | |
+| | | winter | |
+| | | crops to | |
+| | | retain | |
+| | | nutrients | |
+| | | in soil | |
+| | | | |
+| | | - Intercrop | |
+| | | with | |
+| | | legumes to | |
+| | | enhance | |
+| | | nutrient | |
+| | | uptake | |
+| | | | |
+| | | - Restoring | |
+| | | water flow | |
+| | | through | |
+| | | wetlands | |
+| | | | |
+| | | - Nature or | |
+| | | constructed | |
+| | | wetland to | |
+| | | trap | |
+| | | sediment | |
+| | | and | |
+| | | pollution | |
+| | | runoff in | |
+| | | farmed | |
+| | | landscape | |
+| | | | |
+| | | - Protecting | |
+| | | and | |
+| | | restoring | |
+| | | intertidal | |
+| | | habitat to | |
+| | | reduce | |
+| | | nutrient | |
+| | | and other | |
+| | | pollution | |
+| | | in coastal | |
+| | | water | |
 +----------------+----------------+----------------+----------------+
 
-# Incorporating nature-based solutions into landfill management
+## Incorporating nature-based solutions into landfill management
 
 The two most commonly used nature-based solutions in waste treatment
 are:
@@ -236,18 +218,18 @@ leachate. @Bakhshoodeh2020 reviewed 85 papers across 20 countries to
 examine the performance of different types of constructed wetlands, and
 reported:
 
--   Hybrid constructed wetlands are more effective in removing
-    contaminants, showing average removals of 72.2 % for biochemical
-    oxygen demand (BOD), 56.2 % for chemical oxygen demand (COD), 61.0 %
-    for phosphate (PO~4~), 64.9 % for total Kjeldahl nitrogen (TKN),
-    67.3 % for total nitrogen (TN), 68.9 % for ammonia-nitrogen, and
-    51.8 ± 29% for total suspended solids (TSS)
+- Hybrid constructed wetlands are more effective in removing
+  contaminants, showing average removals of 72.2 % for biochemical
+  oxygen demand (BOD), 56.2 % for chemical oxygen demand (COD), 61.0 %
+  for phosphate (PO~4~), 64.9 % for total Kjeldahl nitrogen (TKN),
+  67.3 % for total nitrogen (TN), 68.9 % for ammonia-nitrogen, and
+  51.8 ± 29% for total suspended solids (TSS)
 
--   Vertical flow constructed wetlands are more effective in removing
-    heavy metals, showing average removal of 92.4 % for cadmium (Cd),
-    90.0 % for chromium (Cr), 93.3 % for nickel (Ni), 84.1 % for lead
-    (Pb), 89.3 % for zinc (Zn), 93.6 % for iron (Fe), and 77.1 % for
-    manganese (Mn).
+- Vertical flow constructed wetlands are more effective in removing
+  heavy metals, showing average removal of 92.4 % for cadmium (Cd),
+  90.0 % for chromium (Cr), 93.3 % for nickel (Ni), 84.1 % for lead
+  (Pb), 89.3 % for zinc (Zn), 93.6 % for iron (Fe), and 77.1 % for
+  manganese (Mn).
 
 Landfill restoration aims to return the land to beneficial use by
 placing an even layer of material on top of the landfill. Nature-based
@@ -263,7 +245,7 @@ pesticides, and irrigation. Native plants also better preserve
 biodiversity and the natural heritage as they provide shelter and food
 for native wildlife and pollinators.
 
-# Case study: Constructed wetlands treating landfill leachates in Ibadan, Nigeria
+## Case study: Constructed wetlands treating landfill leachates in Ibadan, Nigeria
 
 This case study presents the implementation and performance of a
 constructed wetland in treating leachate from a landfill site in Ibadan,
@@ -278,7 +260,7 @@ The wetland was built with a vertical subsurface-flow design with gravel
 as the filtration medium. The reactor incorporates layers of 0.2 metres
 of coarse- to medium-sized sand on top of supportive layers of 0.5
 metres of fine and coarse gravel. The sand layers were planted with
-*Ipomoea aquatica* (Forsk), a locally available plant found close to the
+_Ipomoea aquatica_ (Forsk), a locally available plant found close to the
 landfill site. Leachates were introduced into the site and were allowed
 to flow through the system by gravity. Table 17.2.2 shows the
 characteristics of the influent and effluents from the constructed
@@ -288,38 +270,40 @@ into surface waters.
 
 **Table 17.2.2:** Characteristics of the influent and effluents from the constructed wetlands [@Aluko2005]
 
-  Parameters (Unit)                        Influent   Effluent   Percentage removed   FEPA Standard\*
-  ---------------------------------------- ---------- ---------- -------------------- -----------------
-  Temperature (ºC)                         25.15      25.65      \-                   \<40
-  pH                                       8.35       7.5        \-                   6-7
-  Color (Hu)                               456.5      17.5       96                   7
-  Turbidity (FTU)                          132.0      6.0        95                   \-
-  Conductivity (µS/cm)                     4,515.0    1,393.5    69                   \-
-  Total Solids (mg/L)                      6,062.5    899.0      85                   \-
-  Total suspended solids (mg/L)            197.5      37.5       81                   30
-  Total dissolved solids (mg/L)            5,865.0    861.5      85                   2000
-  Alkalinity (mg/L)                        1,444.0    307.0      79                   \-
-  Chloride (mg/L)                          1,034.0    356.0      66                   600
-  Sulphate (mg/L)                          66.45      57.3       14                   500
-  Dissolved oxygen (DO) (mg/L)             1.895      5.4        184\*\*              \-
-  Biochemical oxygen demand (BOD) (mg/L)   712.0      99.5       86                   50
-  Chemical oxygen demand (COD) (mg/L)      3,365.0    560.5      83                   \-
-  Ammonia (mg/L)                           610.9      13.6       98                   \-
-  Nitrate (mg/L)                           1.06       3.67       246                  20
-  Phosphate (mg/L)                         0.595      0.14       76\*\*               5
-  Lead (mg/L)                              1.641      0.034      98                   \<1
-  Nickel (mg/L)                            0.875      0.161      82                   \<1
-  Cadmium (mg/L)                           0.164      0.032      81                   \<1
-  Iron (mg/L)                              198.1      3.608      98                   20
-  Manganese (mg/L)                         23.2       0.091      100                  5
-  Zinc (mg/L)                              1.271      0.353      72                   \<1
+Parameters (Unit) Influent Effluent Percentage removed FEPA Standard\*
+
+---
+
+Temperature (ºC) 25.15 25.65 \- \<40
+pH 8.35 7.5 \- 6-7
+Color (Hu) 456.5 17.5 96 7
+Turbidity (FTU) 132.0 6.0 95 \-
+Conductivity (µS/cm) 4,515.0 1,393.5 69 \-
+Total Solids (mg/L) 6,062.5 899.0 85 \-
+Total suspended solids (mg/L) 197.5 37.5 81 30
+Total dissolved solids (mg/L) 5,865.0 861.5 85 2000
+Alkalinity (mg/L) 1,444.0 307.0 79 \-
+Chloride (mg/L) 1,034.0 356.0 66 600
+Sulphate (mg/L) 66.45 57.3 14 500
+Dissolved oxygen (DO) (mg/L) 1.895 5.4 184\*\* \-
+Biochemical oxygen demand (BOD) (mg/L) 712.0 99.5 86 50
+Chemical oxygen demand (COD) (mg/L) 3,365.0 560.5 83 \-
+Ammonia (mg/L) 610.9 13.6 98 \-
+Nitrate (mg/L) 1.06 3.67 246 20
+Phosphate (mg/L) 0.595 0.14 76\*\* 5
+Lead (mg/L) 1.641 0.034 98 \<1
+Nickel (mg/L) 0.875 0.161 82 \<1
+Cadmium (mg/L) 0.164 0.032 81 \<1
+Iron (mg/L) 198.1 3.608 98 20
+Manganese (mg/L) 23.2 0.091 100 5
+Zinc (mg/L) 1.271 0.353 72 \<1
 
 \*Nigeria Federal Environmental Protection Agency standard for discharge
 into surface waters
 
 \*\*Percentage increase
 
-# Nature-based solutions for nutrient removal
+## Nature-based solutions for nutrient removal
 
 Human activity, mainly agriculture, has substantially increased the flux
 of phosphorus into the landscape. Such excessive nutrient inputs into
@@ -353,7 +337,7 @@ contribute to ozone depletion. Therefore, when planning for nature-based
 solutions, there should be careful consideration to also ensure minimal
 production of these greenhouse gases.
 
-# Case study: Floating wetlands treating urban wastewater in Pakistan
+## Case study: Floating wetlands treating urban wastewater in Pakistan
 
 This case study looks at the implementation of a large-scale floating
 treatment wetland (FTWs) installed on a wastewater stabilisation pond in
@@ -382,11 +366,11 @@ study demonstrates that FTW is a cost-effective approach for large-scale
 sewage and industrial wastewater treatment, especially for regions with
 limited or insufficient wastewater treatment infrastructures.
 
-![](assets/Figure_17.2.1.png){width=100%}
+![](assets/Figure_17.2.1.png)
 
 **Figure 17.2.1:** (a) A schematic representation of a hydroponic rootmat, and (b-d) the growth of FTWs (adapted from @Afzal2019)
 
-# Summary
+## Summary
 
 Nature-based solutions provide cost-effective methods for waste and
 wastewater treatment. They can treat effluent from existing waste and

@@ -1,19 +1,4 @@
----
-title: Mini-Lecture 17.1 - Nature-based solutions (NbS) for water supply
-
-keywords:
-
--   Nature-based solutions
-
--   Natural water regulation
-
--   Water quality
-
-authors:
-
--   Robyn Haggis
-
----
+# Mini-Lecture 17.1 - Nature-based solutions (NbS) for water supply
 
 This lecture will consider how nature-based solutions (NbS) can be
 strategically incorporated to support the delivery of freshwater supply.
@@ -21,18 +6,18 @@ A range of NbS services are illustrated, including their services for
 provisioning freshwater, enhancing water quality and preventing
 salination of water supplies.
 
-# Learning objectives
+Learning objectives
 
--   To recall a range of nature-based solutions which can support the
-    delivery of freshwater
+- To recall a range of nature-based solutions which can support the
+  delivery of freshwater
 
--   To consider the ways in which nature-based solutions can enhance
-    water quality
+- To consider the ways in which nature-based solutions can enhance
+  water quality
 
--   To recognise the value of integrating nature-based solutions with
-    built infrastructure solutions for water supply.
+- To recognise the value of integrating nature-based solutions with
+  built infrastructure solutions for water supply.
 
-# Introduction
+## Introduction
 
 Currently, one-third of people globally do not have access to safe
 drinking water, and 5.7 billion people could face some level of water
@@ -54,7 +39,7 @@ have a critical role to play in in regulating water flows, water quality
 and ensuring sustainable supplies going forward (see Figures 17.1.1 and
 17.1.2) [@UNEP2014].
 
-![](assets/Figure_17.1.1.png){width=100%}
+![](assets/Figure_17.1.1.png)
 
 **Figure 17.1.1:** The wider natural landscape of watersheds, ecosystems
 and underground aquifers have a key role to play in meeting
@@ -80,10 +65,10 @@ Furthermore, by mitigating climate impacts such as storm surges, NbS can
 prevent and reduce damage to built water infrastructure, such as water
 reservoirs [@Kapos2019] (see Lecture 16).
 
-![](assets/Figure_17.1.2.png){width=100%}
+![](assets/Figure_17.1.2.png)
 
 **Figure 17.1.2:** Nature-based solutions for water regulation
-[@Cohen-Shacham2016] 
+[@Cohen-Shacham2016]
 
 **Table 17.1.1:** Examples of NbS and services for water provision.
 Where these ecosystem functions have been degraded or lost, water
@@ -91,77 +76,77 @@ providers are likely to face increased costs to provide a regular supply
 of quality freshwater [@Tremolet2020;@UNEP2014].
 
 +----------------------------------+----------------------------------+
-| Example nature-based solution    | Example services                 |
+| Example nature-based solution | Example services |
 +==================================+==================================+
-| Protection of watersheds         | -   Cities depend on surrounding |
-|                                  |     rural areas for water        |
-|                                  |     supply. To protect the water |
-|                                  |     sources, it often means      |
-|                                  |     investing in rural areas far |
-|                                  |     beyond city boundaries       |
+| Protection of watersheds | - Cities depend on surrounding |
+| | rural areas for water |
+| | supply. To protect the water |
+| | sources, it often means |
+| | investing in rural areas far |
+| | beyond city boundaries |
 +----------------------------------+----------------------------------+
-| Restoration and protection of    | -   Regulation of peak flows,    |
-| upstream forests                 |     recharge of groundwater      |
-|                                  |     supplies                     |
+| Restoration and protection of | - Regulation of peak flows, |
+| upstream forests | recharge of groundwater |
+| | supplies |
 +----------------------------------+----------------------------------+
-| Restoration, protection and      | -   Regulation of peak flows,    |
-| management of riparian           |     recharge of groundwater      |
-| vegetation along rivers,         |     supplies                     |
-| including wetlands and           |                                  |
-| floodplains                      | -   Reduced sedimentation and    |
-|                                  |     nutrient pollution in water  |
-|                                  |     courses (riparian buffers    |
-|                                  |     have efficiency of \>70%)    |
+| Restoration, protection and | - Regulation of peak flows, |
+| management of riparian | recharge of groundwater |
+| vegetation along rivers, | supplies |
+| including wetlands and | |
+| floodplains | - Reduced sedimentation and |
+| | nutrient pollution in water |
+| | courses (riparian buffers |
+| | have efficiency of \>70%) |
 +----------------------------------+----------------------------------+
-| Reconnecting rivers to           | -   Regulation of peak flows,    |
-| floodplains                      |     recharge of groundwater      |
-|                                  |     supplies                     |
-|                                  |                                  |
-|                                  | -   Setting back or removing     |
-|                                  |     levees at the edge of river  |
-|                                  |     channels can help increase   |
-|                                  |     channel capacity and reduce  |
-|                                  |     exposure to floodwaters and  |
-|                                  |     erosion risk. Providing more |
-|                                  |     room for meandering and      |
-|                                  |     healthy floodplains enables  |
-|                                  |     the creation of forest and   |
-|                                  |     wetland habitats that store  |
-|                                  |     water and decrease           |
-|                                  |     sedimentation                |
+| Reconnecting rivers to | - Regulation of peak flows, |
+| floodplains | recharge of groundwater |
+| | supplies |
+| | |
+| | - Setting back or removing |
+| | levees at the edge of river |
+| | channels can help increase |
+| | channel capacity and reduce |
+| | exposure to floodwaters and |
+| | erosion risk. Providing more |
+| | room for meandering and |
+| | healthy floodplains enables |
+| | the creation of forest and |
+| | wetland habitats that store |
+| | water and decrease |
+| | sedimentation |
 +----------------------------------+----------------------------------+
-| Creation of green roofs and      | -   Capture rainfall for         |
-| rainwater harvesting systems in  |     domestic use. Regulate       |
-| urban areas                      |     runoff and delay peak flows, |
-|                                  |     preventing urban water       |
-|                                  |     supplies from being          |
-|                                  |     contaminated through sewer   |
-|                                  |     overflow                     |
+| Creation of green roofs and | - Capture rainfall for |
+| rainwater harvesting systems in | domestic use. Regulate |
+| urban areas | runoff and delay peak flows, |
+| | preventing urban water |
+| | supplies from being |
+| | contaminated through sewer |
+| | overflow |
 +----------------------------------+----------------------------------+
-| Creation of permeable pavements  | -   Help water infiltration and  |
-| and green spaces in urban areas  |     recharge of water supplies   |
-|                                  |     during drought. Support      |
-|                                  |     water infiltration and       |
-|                                  |     mitigation of flooding and   |
-|                                  |     sewer overflow during flood  |
-|                                  |     events                       |
+| Creation of permeable pavements | - Help water infiltration and |
+| and green spaces in urban areas | recharge of water supplies |
+| | during drought. Support |
+| | water infiltration and |
+| | mitigation of flooding and |
+| | sewer overflow during flood |
+| | events |
 +----------------------------------+----------------------------------+
-| Improved agricultural management | -   Land use within catchment    |
-| practices                        |     areas has a major influence  |
-|                                  |     on determining whether       |
-|                                  |     watersheds are healthy and   |
-|                                  |     can deliver environmental    |
-|                                  |     services, and impacts        |
-|                                  |     erosion and associated       |
-|                                  |     sedimentation                |
+| Improved agricultural management | - Land use within catchment |
+| practices | areas has a major influence |
+| | on determining whether |
+| | watersheds are healthy and |
+| | can deliver environmental |
+| | services, and impacts |
+| | erosion and associated |
+| | sedimentation |
 +----------------------------------+----------------------------------+
-| Protection of coastal ecosystems | -   Coastal ecosystems can       |
-| such as oyster and coral reefs   |     protect coastlines and water |
-| and mangroves                    |     supplies from saline         |
-|                                  |     intrusion                    |
+| Protection of coastal ecosystems | - Coastal ecosystems can |
+| such as oyster and coral reefs | protect coastlines and water |
+| and mangroves | supplies from saline |
+| | intrusion |
 +----------------------------------+----------------------------------+
 
-# Provision and regulation of freshwater flows
+## Provision and regulation of freshwater flows
 
 Nature-based solutions support freshwater provision through services
 including water infiltration and storage, recharging aquifers, ponds and
@@ -183,7 +168,7 @@ discharges from the Weija dam (through regulating peak flows), reducing
 desilting requirements and costs, and reducing water treatment
 requirements.
 
-![](assets/Figure_17.1.3.png){width=100%}
+![](assets/Figure_17.1.3.png)
 
 **Figure 17.1.3:** Location of the Atewa Forest, at the source of the
 Ayensu, Birim and Densu Rivers which together provide water for 5
@@ -208,7 +193,7 @@ provide key functions to cities, including delaying runoff during
 storms, and preventing contamination of urban water supplies due to
 sewer overflow.
 
-# Regulation and maintenance of water quality, including reduced sedimentation
+## Regulation and maintenance of water quality, including reduced sedimentation
 
 A major challenge of meeting water-related development needs is ensuring
 and maintaining water quality [@UNEP2014]. Pollution of water
@@ -245,7 +230,7 @@ removing sediments, heavy metals and other pollutants from water
 supplies, which can protect groundwater from contamination (Figure
 17.1.4) [@UNEP2014; @Gopal1999].
 
-![](assets/Figure_17.1.4.png){width=100%}
+![](assets/Figure_17.1.4.png)
 
 **Figure 17.1.4:** Natural wetlands and reed ponds can contribute to
 enhanced water quality [@Browder2019]. The Muthurajawela integrated
@@ -258,14 +243,14 @@ spaces and permeable pavements in urban areas can reduce stormwater
 runoff and contamination of urban water supplies, including from sewer
 overflow (Figure 17.1.5) [@Yao2015].
 
-![](assets/Figure_17.1.5.png){width=100%}
+![](assets/Figure_17.1.5.png)
 
 **Figure 17.1.5:** Bioswales can be implemented in urban areas to
 enhance water quality of urban water supplies, through capturing and
 storing rainfall and preventing stormwater runoff and overflow
 [@Yao2015]. Photograph from @UNEP2014.
 
-# Water temperature control, biological control and turbidity control
+## Water temperature control, biological control and turbidity control
 
 Water temperature directly and indirectly affects aquatic ecosystems and
 their ability to provide water purification services [@UNEP2014].
@@ -275,7 +260,7 @@ heat from industrial activities [@UNEP2014]. NbS can help to mitigate
 thermal pollution through the provision of shade by riparian vegetation
 (Figure 17.1.6).
 
-![](assets/Figure_17.1.6.png){width=100%}
+![](assets/Figure_17.1.6.png)
 
 **Figure 17.1.6:** Riparian vegetation can provide shade to waterways
 and help to reduce thermal pollution [@UNEP2014]. Photograph from
@@ -294,7 +279,7 @@ sedimentation of rivers and reservoirs can help combat turbidity. As
 such, NbS that stabilise soils, reduce runoff from floods, and reduce
 sedimentation of watercourses contribute to mitigating turbidity.
 
-![](assets/Figure_17.1.7.png){width=100%}
+![](assets/Figure_17.1.7.png)
 
 **Figure 17.1.7:** The Thirlmere reservoir in the UK had such high
 turbidity in 2015 that it was put out of service [@Tremolet2020].
@@ -319,8 +304,7 @@ control should be based on an understanding of the ecological context
 and suitability of the NbS, including its ability to assimilate
 pollutants [@Honlah2019].
 
-
-# Protecting water supplies from saline intrusion and being mindful of caveats for NbS implementation
+## Protecting water supplies from saline intrusion and being mindful of caveats for NbS implementation
 
 Coastal water supplies are likely to be impacted under future climate
 change as a result of saline intrusion by saltwater, as storm surges and
@@ -332,7 +316,7 @@ coastal areas from erosion and saltwater intrusion, in similar ways as
 engineered solutions such as dykes and levees (Figure 17.1.8)
 [@Kapos2019]. This reduces the need for desalination water treatment.
 
-![](assets/Figure_17.1.8.png){width=100%}
+![](assets/Figure_17.1.8.png)
 
 **Figure 17.1.8:** Coastal ecosystems such as beaches and native
 vegetation can help to prevent terrestrial inundation of seawater and
@@ -363,95 +347,95 @@ service providers. Examples are shown here [@Tremolet2020;
 @Browder2019; @UNEP2014].
 
 +----------------------------------+----------------------------------+
-| Benefit type                     | Example                          |
+| Benefit type | Example |
 +==================================+==================================+
-| Net cost savings                 | Cost savings for water providers |
-|                                  | can offset the costs of          |
-|                                  | implementing NbS. Watershed      |
-|                                  | degradation impacts drinking     |
-|                                  | water for more than 700 million  |
-|                                  | people, and costs global cities  |
-|                                  | US\$5.4 billion in water         |
-|                                  | treatment annually. Worldwide,   |
-|                                  | annual costs to replace lost     |
-|                                  | reservoir storage capacity due   |
-|                                  | to sedimentation---in the form   |
-|                                  | of constructing new or raising   |
-|                                  | existing dams--- are estimated   |
-|                                  | at \$10 - \$20 billion.          |
+| Net cost savings | Cost savings for water providers |
+| | can offset the costs of |
+| | implementing NbS. Watershed |
+| | degradation impacts drinking |
+| | water for more than 700 million |
+| | people, and costs global cities |
+| | US\$5.4 billion in water |
+| | treatment annually. Worldwide, |
+| | annual costs to replace lost |
+| | reservoir storage capacity due |
+| | to sedimentation---in the form |
+| | of constructing new or raising |
+| | existing dams--- are estimated |
+| | at \$10 - \$20 billion. |
 +----------------------------------+----------------------------------+
-| Reduced operation and            | Water service providers          |
-| maintenance costs                | typically rely on grey           |
-|                                  | infrastructure and costly water  |
-|                                  | treatment processes in order to  |
-|                                  | deliver safe water supplies. NbS |
-|                                  | can reduce water pollution and   |
-|                                  | lead to lower maintenance        |
-|                                  | requirements and associated      |
-|                                  | costs by water treatment plants. |
-|                                  | The Nature Conservancy estimated |
-|                                  | that a 10% reduction in sediment |
-|                                  | can result in a reduction of     |
-|                                  | 2.6% in operation and            |
-|                                  | maintenance costs for water      |
-|                                  | providers.                       |
+| Reduced operation and | Water service providers |
+| maintenance costs | typically rely on grey |
+| | infrastructure and costly water |
+| | treatment processes in order to |
+| | deliver safe water supplies. NbS |
+| | can reduce water pollution and |
+| | lead to lower maintenance |
+| | requirements and associated |
+| | costs by water treatment plants. |
+| | The Nature Conservancy estimated |
+| | that a 10% reduction in sediment |
+| | can result in a reduction of |
+| | 2.6% in operation and |
+| | maintenance costs for water |
+| | providers. |
 +----------------------------------+----------------------------------+
-| Energy cost savings              | Many water treatment processes   |
-|                                  | rely on large quantities of      |
-|                                  | energy. By reducing water        |
-|                                  | treatment requirements, water    |
-|                                  | providers can save on energy     |
-|                                  | costs.                           |
+| Energy cost savings | Many water treatment processes |
+| | rely on large quantities of |
+| | energy. By reducing water |
+| | treatment requirements, water |
+| | providers can save on energy |
+| | costs. |
 +----------------------------------+----------------------------------+
-| Capital cost savings             | NbS such as forest restoration   |
-|                                  | can provide an alternative to    |
-|                                  | engineered infrastructure. For   |
-|                                  | example, New York City, which    |
-|                                  | gets its water supply from 3     |
-|                                  | watersheds (75% forested and     |
-|                                  | privately owned) invested in a   |
-|                                  | working forests pollution        |
-|                                  | prevention programme in addition |
-|                                  | to existing agricultural         |
-|                                  | management best practices to     |
-|                                  | address watercourse pollution.   |
-|                                  | This provided an alternative to  |
-|                                  | building a \$US8-10 billion      |
-|                                  | water treatment plant.           |
-|                                  |                                  |
-|                                  | NbS can reduce requirements for  |
-|                                  | additional materials such as     |
-|                                  | flocculants in water treatment   |
-|                                  | processes. For example, to       |
-|                                  | address increasing sedimentation |
-|                                  | of water courses, water          |
-|                                  | providers need to use greater    |
-|                                  | quantities of water filtration   |
-|                                  | materials such as flocculants,   |
-|                                  | which requires additional        |
-|                                  | capital investment compared to   |
-|                                  | NbS.                             |
+| Capital cost savings | NbS such as forest restoration |
+| | can provide an alternative to |
+| | engineered infrastructure. For |
+| | example, New York City, which |
+| | gets its water supply from 3 |
+| | watersheds (75% forested and |
+| | privately owned) invested in a |
+| | working forests pollution |
+| | prevention programme in addition |
+| | to existing agricultural |
+| | management best practices to |
+| | address watercourse pollution. |
+| | This provided an alternative to |
+| | building a \$US8-10 billion |
+| | water treatment plant. |
+| | |
+| | NbS can reduce requirements for |
+| | additional materials such as |
+| | flocculants in water treatment |
+| | processes. For example, to |
+| | address increasing sedimentation |
+| | of water courses, water |
+| | providers need to use greater |
+| | quantities of water filtration |
+| | materials such as flocculants, |
+| | which requires additional |
+| | capital investment compared to |
+| | NbS. |
 +----------------------------------+----------------------------------+
-| Reduced asset damage             | Turbidity from sedimentation in  |
-|                                  | water courses can damage dams    |
-|                                  | and reservoirs. By implementing  |
-|                                  | NbS, damage can be prevented,    |
-|                                  | and additional cost savings      |
-|                                  | incurred through reduced         |
-|                                  | dredging needs.                  |
+| Reduced asset damage | Turbidity from sedimentation in |
+| | water courses can damage dams |
+| | and reservoirs. By implementing |
+| | NbS, damage can be prevented, |
+| | and additional cost savings |
+| | incurred through reduced |
+| | dredging needs. |
 +----------------------------------+----------------------------------+
-| Resilience                       | NbS can increase the resilience  |
-|                                  | of urban and other water         |
-|                                  | supplies in the face of climate  |
-|                                  | change.                          |
+| Resilience | NbS can increase the resilience |
+| | of urban and other water |
+| | supplies in the face of climate |
+| | change. |
 +----------------------------------+----------------------------------+
-| Co-benefits                      | NbS generate various             |
-|                                  | co-benefits, including improved  |
-|                                  | air quality, aesthetic value and |
-|                                  | carbon sequestration.            |
+| Co-benefits | NbS generate various |
+| | co-benefits, including improved |
+| | air quality, aesthetic value and |
+| | carbon sequestration. |
 +----------------------------------+----------------------------------+
 
-# Summary
+## Summary
 
 Freshwater supplies originate in the broader watershed and are impacted
 by ecosystems and land use practices within the wider landscape context.

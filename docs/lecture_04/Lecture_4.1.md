@@ -1,26 +1,17 @@
----
-title: Mini-Lecture 4.1 -- Overview of future infrastructure demand and
-  drivers
-keywords:
--   Infrastructure drivers
--   Infrastructure demand
--   Shared Socio-economic Pathways (SSPs)
-authors:
--   Orlando Roman
----
+# Mini-Lecture 4.1 -- Overview of future infrastructure demand and drivers
 
 This mini-lecture provides an overview of the future uncertainty for
 infrastructure demand, some methods to provide forecasts using scenario
 analysis, and a preliminary description of common infrastructure
 drivers.
 
-# Learning objectives
+Learning objectives
 
--   Recognise the importance of defining uncertainty in future
-    infrastructure planning
--   Identify potential drivers of infrastructure demand.
+- Recognise the importance of defining uncertainty in future
+  infrastructure planning
+- Identify potential drivers of infrastructure demand.
 
-# Introduction
+## Introduction
 
 Demand for infrastructure is driven by complex future social, economic
 and technological changes, which are highly uncertain and difficult to
@@ -45,12 +36,12 @@ recognising uncertainty. Finally, we will describe the main future
 trends in developing countries and their consequences for infrastructure
 demand.
 
-![](assets/Figure_4.1.1.jpg){width=100%}
+![](assets/Figure_4.1.1.jpg)
 
 **Figure 4.1.1:** World Population Forecast by 2100 (based on data from
 @UNDESA2019)
 
-# Infrastructure as long-lived assets
+## Infrastructure as long-lived assets
 
 Emerging markets and developing economies will require annual
 infrastructure investments of around USD1 trillion, according to the
@@ -61,7 +52,7 @@ for more than 66% of the total investment needed by 2040. Furthermore,
 from 2016 to 2040, approximately USD 94 trillion (USD 3.7 trillion per
 year) will be needed globally.
 
-![](assets/Figure_4.1.2.jpg){width=100%}
+![](assets/Figure_4.1.2.jpg)
 
 **Figure 4.1.2:** Growing annual infrastructure investment requirements
 by sector (based on data from @GIHub2020)
@@ -80,7 +71,7 @@ predict-then-act approach is not recommended for these long-lived
 assets, but rather to predict a range of possible futures in recognition
 of this uncertainty.
 
-# Scenario analysis for infrastructure investments
+## Scenario analysis for infrastructure investments
 
 During the last decades, there was an important body of literature on
 scenario analysis, as a means of developing possible futures and asking
@@ -107,11 +98,11 @@ of this forecasting exercise (presenting multiple future scenarios) as
 opposed to normative scenarios (building toward one vision of the
 future).
 
-![](assets/Figure_4.1.3.jpg){width=100%}
+![](assets/Figure_4.1.3.jpg)
 
 **Figure 4.1.3:** The challenge space of SSPs [@ONeill2014]
 
-# Shared Socio-economic Pathways (SSPs)
+## Shared Socio-economic Pathways (SSPs)
 
 SSPs can be differentiated from each other in terms of their challenges
 of mitigation and adaptation. The models that inform SSPs include, at a
@@ -123,76 +114,76 @@ scenarios.
 Commonly, five SSP narratives are used and are summarised as follows
 [@ONeill2017]:
 
--   **SSP1**: Sustainability -- Taking the Green Road, in which the
-    world shifts gradually toward a more sustainable path. This scenario
-    has low challenges to mitigation and adaptation.
+- **SSP1**: Sustainability -- Taking the Green Road, in which the
+  world shifts gradually toward a more sustainable path. This scenario
+  has low challenges to mitigation and adaptation.
 
--   **SSP2**: Middle of the Road in which historical trends in social,
-    economic and technological changes continue. This scenario has
-    medium challenges to mitigation and adaptation.
+- **SSP2**: Middle of the Road in which historical trends in social,
+  economic and technological changes continue. This scenario has
+  medium challenges to mitigation and adaptation.
 
--   **SSP3**: Regional Rivalry -- A Rocky Road, in which nationalism and
-    regional conflicts push countries to focus on their own goals and
-    needs. This scenario has high challenges to mitigation and
-    adaptation.
+- **SSP3**: Regional Rivalry -- A Rocky Road, in which nationalism and
+  regional conflicts push countries to focus on their own goals and
+  needs. This scenario has high challenges to mitigation and
+  adaptation.
 
--   **SSP4**: Inequality -- A Road Divided, in which there are high
-    inequalities and technological disparities between different
-    regions. This scenario has low challenges to mitigation and high
-    challenges to adaptation.
+- **SSP4**: Inequality -- A Road Divided, in which there are high
+  inequalities and technological disparities between different
+  regions. This scenario has low challenges to mitigation and high
+  challenges to adaptation.
 
--   **SSP5**: Fossil-fuelled Development -- Taking the Highway, in which
-    there is rapid technological progress and growth by exploitation of
-    natural resources. This scenario has high challenges to mitigation
-    and low challenges to adaptation.
+- **SSP5**: Fossil-fuelled Development -- Taking the Highway, in which
+  there is rapid technological progress and growth by exploitation of
+  natural resources. This scenario has high challenges to mitigation
+  and low challenges to adaptation.
 
 Therefore, we can see how different socio-economic and technological
 projections can help us navigate the uncertain future.
 
-# Infrastructure drivers
+## Infrastructure drivers
 
 When confronting with the difficult task of forecasting infrastructure
 demand, there are many drivers that may have a potential impact on the
 future. Some of the most important drivers that can influence
 infrastructure demand are described as follows:
 
--   **Population growth**, is the most common driver of infrastructure
-    demand. There are many global, regional and local population
-    forecasts and the proportional growth of population and demand is
-    easy to compute.
+- **Population growth**, is the most common driver of infrastructure
+  demand. There are many global, regional and local population
+  forecasts and the proportional growth of population and demand is
+  easy to compute.
 
--   **Economic Development**, can modify future demand given that there
-    is a close relationship between economic development and level of
-    consumption. On the other hand, infrastructure can produce economic
-    development as well.
+- **Economic Development**, can modify future demand given that there
+  is a close relationship between economic development and level of
+  consumption. On the other hand, infrastructure can produce economic
+  development as well.
 
--   **Consumption patterns**, are related to economic development but
-    are also influenced by changes in culture or behaviour. For example,
-    an increase in recycling and efficient use of energy and water will
-    shape the future demand of infrastructure.
+- **Consumption patterns**, are related to economic development but
+  are also influenced by changes in culture or behaviour. For example,
+  an increase in recycling and efficient use of energy and water will
+  shape the future demand of infrastructure.
 
--   **Technology**, is usually related to the supply side (new ways of
-    production) but can also influence demand (efficiency, new
-    transportation modes).
+- **Technology**, is usually related to the supply side (new ways of
+  production) but can also influence demand (efficiency, new
+  transportation modes).
 
--   **Urbanisation, migration and tourism**, are of particular
-    importance in developing countries in which an important increase of
-    rural-to-urban migration is expected.
+- **Urbanisation, migration and tourism**, are of particular
+  importance in developing countries in which an important increase of
+  rural-to-urban migration is expected.
 
--   **Demographics (age and gender)**, can influence consumption
-    patterns and shape the overall demand for infrastructure.
+- **Demographics (age and gender)**, can influence consumption
+  patterns and shape the overall demand for infrastructure.
 
 Figure 4.1.4 shows the forecasting of individual infrastructure drivers
 using the SSP scenarios. Here, the large differences in the different
 narratives in terms of population, education, urbanisation and GDP are
 evident.
 
-![](assets/Figure_4.1.4.jpg){width=100%}
+![](assets/Figure_4.1.4.jpg)
 
 **Figure 4.1.4:** Forecasting of different drivers under the SSPs
 [@Riahi2017]
 
-# Summary
+## Summary
 
 In this mini-lecture, the complexity that the future poses on
 infrastructure was described. This mini-lecture explains the concept of

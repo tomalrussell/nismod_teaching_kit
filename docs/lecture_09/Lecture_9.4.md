@@ -1,12 +1,4 @@
----
-title: Mini-Lecture 9.4 - Modelling energy networks and simulating service delivery
-keywords:
--   Energy networks
--   Simulation modelling
--   Spatial modelling
-authors:
--   Aman Majid
----
+# Mini-Lecture 9.4 - Modelling energy networks and simulating service delivery
 
 This lecture will cover how to model energy networks to analyse service
 delivery under climatic disruptions. We will cover the fundamentals of
@@ -14,17 +6,17 @@ spatial and simulation modelling of energy systems, as well as
 understand how risks and impacts of climate hazards can be quantified
 through such models.
 
-# Learning objectives
+Learning objectives
 
--   Identify the critical processes within energy infrastructure systems
--   Define an energy system simulation model in terms of its spatial and
-    temporal dimensions
--   Illustrate the quantification of climate risks in energy systems
-    through simulation modelling.
+- Identify the critical processes within energy infrastructure systems
+- Define an energy system simulation model in terms of its spatial and
+  temporal dimensions
+- Illustrate the quantification of climate risks in energy systems
+  through simulation modelling.
 
-# Introduction to energy networks
+## Introduction to energy networks
 
-![](assets/Figure_9.4.1.png){width=100%}
+![](assets/Figure_9.4.1.png)
 
 **Figure 9.4.1:** Schematic illustration of an energy system
 [@DECC2010].
@@ -56,9 +48,9 @@ infrastructure systems are inherently dependent upon energy (e.g. water,
 transport, digital telecoms), the risk of cascading failures is
 important to understand.
 
-# Modelling: Creating a spatial representation
+## Modelling: Creating a spatial representation
 
-![](assets/Figure_9.4.2.png){width=100%}
+![](assets/Figure_9.4.2.png)
 
 **Figure 9.4.2:** An illustration of a spatial energy system model from
 the United Kingdom [@Russell2020].
@@ -67,9 +59,9 @@ The first step in modelling energy networks usually entails creating a spatial r
 The amount of spatial detail you wish to capture is dependent upon your purpose. For large analyses, such as at a national or global level, an analyst may wish to map the major generation sites and the high voltage transmission lines. Meanwhile, for regional scale analyses, this level of detail may not suffice, and hence the analyst may seek to capture embedded generation sites, as well as the low voltage distribution networks.
 We can create network models using Geographical Information Systems (GIS) software. Though there are numerous tools available to us for this purpose, a commonly used software is QGIS [@Graser2013], which is freely available and has a wide array of documentation. The use of QGIS for infrastructure research is common.
 
-# Modelling: Creating a temporal representation
+## Modelling: Creating a temporal representation
 
-![](assets/Figure_9.4.3.png){width=100%}
+![](assets/Figure_9.4.3.png)
 
 **Figure 9.4.3:** Schematic of a directed graph (network) model with
 temporal dimensions
@@ -95,15 +87,15 @@ of households can capture the hourly and seasonal features of energy
 demand in the specific region.
 
 Collating temporal information related to an energy network can be a
-data-intensive exercise. Typically, it requires the use of *stochastic*
+data-intensive exercise. Typically, it requires the use of _stochastic_
 models to describe the random variables in the system (e.g. wind energy
 output). Stochastic processes are variables whose values change through
 time according to probabilistic laws (e.g. wind speed).
 
-# Modelling: Simulating the system
+## Modelling: Simulating the system
 
 After we've set up an energy network model, we are then ready to begin
-the process of *simulation*. Simulation models are a digital
+the process of _simulation_. Simulation models are a digital
 representation of a real-world system, which allow us to explore
 'what-if' scenarios. In the context of energy networks, such models
 enable us to simulate the effects of building new infrastructure and
@@ -111,14 +103,14 @@ policy interventions, as well as understand the impacts of potential
 climatic hazards. For example, simulation models could facilitate us to
 answer the following questions:
 
--   How might a proposed operations management policy influence the operation of the network?
--   How might a specific set of climatic hazards impact a regional energy system?
-    -   Is there a disruption in supply?
-    -   What is the spatial and temporal scale of the disruption?
-    -   How resilient is the system to these hazards?
-    -   Which are the most vulnerable assets in the network to these
-        hazards?
-    -   How widely might the damage spread?
+- How might a proposed operations management policy influence the operation of the network?
+- How might a specific set of climatic hazards impact a regional energy system?
+  - Is there a disruption in supply?
+  - What is the spatial and temporal scale of the disruption?
+  - How resilient is the system to these hazards?
+  - Which are the most vulnerable assets in the network to these
+    hazards?
+  - How widely might the damage spread?
 
 Simulation models of energy systems can vary depending on the level of
 complexity the analyst wishes to capture. However, there are two common
@@ -132,7 +124,7 @@ short-circuit calculations [@Thurner2018]. For large system-scale
 analyses of power networks, the former approach is normally preferred to
 ensure model tractability and computational efficiency.
 
-# Risk analysis: Simulating climate hazards
+## Risk analysis: Simulating climate hazards
 
 At this stage, we are ready to simulate and understand the effects of
 climatic hazards on a given energy network. To date, studies have
@@ -143,7 +135,7 @@ geospatial network and to stress-test nodes and arcs that fall within
 the most hazardous zones (see Figure 9.4.4) [@Koks2019]. In this
 approach, the failure sampling is governed by the hazards tested for.
 
-![](assets/Figure_9.4.4.png){width=100%}
+![](assets/Figure_9.4.4.png)
 
 **Figure 9.4.4:** Methodological setup to quantify climate risks across
 an energy system [@Koks2019]
@@ -151,19 +143,19 @@ an energy system [@Koks2019]
 By simulating disruptions in the function of the most vulnerable assets
 within the network, we can quantify the following types of information:
 
--   The **redundancy** in the network. In other words, can adequate
-    levels of supply be maintained by rerouting supply?
+- The **redundancy** in the network. In other words, can adequate
+  levels of supply be maintained by rerouting supply?
 
--   The **relationship** between number of customers affected and the
-    number of assets exposed.
+- The **relationship** between number of customers affected and the
+  number of assets exposed.
 
--   The **spatial exposure** of the network. In other words, which parts
-    of the system are the most vulnerable?
+- The **spatial exposure** of the network. In other words, which parts
+  of the system are the most vulnerable?
 
--   The **resilience** of the system. That is, how long does it take for
-    the system to restore a normal level of service?
+- The **resilience** of the system. That is, how long does it take for
+  the system to restore a normal level of service?
 
-# Summary
+## Summary
 
 This lecture has introduced the basic functions of energy systems and
 how these networks are modelled. We have shown how spatial

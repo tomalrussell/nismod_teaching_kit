@@ -1,14 +1,4 @@
----
-title: "Mini-Lecture 1.3 -- Infrastructure services and sustainable
-  development"
-keywords:
--   Infrastructure services
--   Sustainable Development Goals (SDGs)
-authors:
--   Daniel Adshead
----
-
-## Short description
+# Mini-Lecture 1.3 -- Infrastructure services and sustainable development
 
 This mini-lecture will delve deeper into the links between
 infrastructure and sustainable development through the range of services
@@ -17,18 +7,16 @@ with examples. The lecture will consider the complementarity and
 substitutability of services provided by various infrastructure types
 within the infrastructure system.
 
-## Learning objectives
+Learning objectives
 
--   To describe the concept of an infrastructure service and to give
-    examples of the multiple ways it can influence development targets
+- To describe the concept of an infrastructure service and to give
+  examples of the multiple ways it can influence development targets
 
--   To differentiate between direct and indirect influences of
-    infrastructure on development
+- To differentiate between direct and indirect influences of
+  infrastructure on development
 
--   To provide examples of when infrastructure may provide complementary
-    or substitutable services.
-
-# Lecture content
+- To provide examples of when infrastructure may provide complementary
+  or substitutable services.
 
 ## Introduction
 
@@ -91,27 +79,27 @@ achievement of the target will be enhanced through the provision of
 improved infrastructure services that the infrastructure delivers. These
 may be direct or indirect:
 
--   Direct influences on an SDG target include cases in which the SDG
-    target is described directly in terms of the service that an
-    infrastructure system provides, for example, target 7.1 (*By 2030,
-    ensure universal access to affordable, reliable and modern energy
-    services*).
+- Direct influences on an SDG target include cases in which the SDG
+  target is described directly in terms of the service that an
+  infrastructure system provides, for example, target 7.1 (_By 2030,
+  ensure universal access to affordable, reliable and modern energy
+  services_).
 
--   Indirect influences on an SDG target include cases in which the SDG
-    target is not described specifically in terms of the service that an
-    infrastructure system provides, but for which evidence indicates
-    that achievement of the target will be enhanced through the
-    provision of improved infrastructure services. For example, target
-    3.9 (*By 2030, substantially reduce the number of deaths and
-    illnesses from hazardous chemicals and air, water and soil pollution
-    and contamination*) can be indirectly influenced by improved energy,
-    transportation, water and waste services.
+- Indirect influences on an SDG target include cases in which the SDG
+  target is not described specifically in terms of the service that an
+  infrastructure system provides, but for which evidence indicates
+  that achievement of the target will be enhanced through the
+  provision of improved infrastructure services. For example, target
+  3.9 (_By 2030, substantially reduce the number of deaths and
+  illnesses from hazardous chemicals and air, water and soil pollution
+  and contamination_) can be indirectly influenced by improved energy,
+  transportation, water and waste services.
 
 Overall, networked infrastructure systems such as energy or road
 networks or water supply systems are found to influence all 17 of the
 SDGs, including 121 of the 169 targets (72%) [@Thacker2019].
 
-![](assets/Fig_1.3.1.png){width=100%}
+![](assets/Fig_1.3.1.png)
 
 **Figure 1.3.1:** Summary of the influence of infrastructure across all
 SDGs. Circles represent the individual targets of each SDG. Circles are
@@ -135,8 +123,8 @@ Figure 1.3.2 gives a visual representation of how services provided by
 networked and non-networked types of infrastructure can contribute to
 the achievement of SDG 1 (No Poverty). As a specific example
 [@Thacker2018], we can assess infrastructure's potential influences
-on target 1.3 (*to implement nationally appropriate social protection
-systems and measures for all*), which may enhance achievement of the
+on target 1.3 (_to implement nationally appropriate social protection
+systems and measures for all_), which may enhance achievement of the
 target through services including:
 
 - Effective information management systems (digital communications)
@@ -156,7 +144,7 @@ may be undertaken so as to improve water and waste sector outcomes
 through the incorporation of drainage systems and waste management
 connectivity.
 
-![](assets/Fig_1.3.2.png){width=100%}
+![](assets/Fig_1.3.2.png)
 
 **Figure 1.3.2:** Graphical representation of the influence of networked
 and non-networked infrastructure on the targets of SDG 1. The specific
@@ -173,8 +161,8 @@ Infrastructure sectors may provide unique functions (services), that is,
 individual and independent contributions toward achievement of the
 target, which may complement one another. By influencing the target in
 different ways, the impacts of each sector toward target progress are
-additive and non-substitutable. For example, target 4.a (*Effective
-learning environments for all*) can benefit from contributions from the
+additive and non-substitutable. For example, target 4.a (_Effective
+learning environments for all_) can benefit from contributions from the
 energy, water, waste and digital communications sectors, which each
 provide a unique contribution to improving conditions in schools and
 other education facilities [@Thacker2019].
@@ -197,7 +185,7 @@ show a high degree of substitutability, while solid waste provides most
 of its contributions as a unique or complementary infrastructure
 service.
 
-![](assets/Fig_1.3.3.png){width=100%}
+![](assets/Fig_1.3.3.png)
 
 **Figure 1.3.3: a.** Counts of the number of different infrastructure
 sectors that influence the SDG targets (where 5 is the maximum) that are
@@ -207,8 +195,6 @@ when more than one sector can influence a target. Interdependencies are
 classified as unique when different sectors influence a target in a
 different way (top right) and shared when different sectors influence a
 target in the same way (bottom left) [@Thacker2019]
-
-##
 
 ## Summary
 

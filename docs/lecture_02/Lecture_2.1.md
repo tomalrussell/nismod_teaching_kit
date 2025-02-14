@@ -1,13 +1,4 @@
----
-title: Mini-Lecture 2.1 - Infrastructure systems and greenhouse gas
-  emissions
-keywords:
--   Infrastructure
--   Greenhouse gas emissions
--   Emissions gap
-authors:
--   Sapphire Vital
----
+# Mini-Lecture 2.1 - Infrastructure systems and greenhouse gas emissions
 
 This mini-lecture outlines global infrastructure systems' contribution
 to greenhouse gas emissions. It provides an overview of the emissions
@@ -16,19 +7,18 @@ Nationally Determined Contributions (NDC). Against this backdrop, the
 lecture highlights key reduction activities within critical
 infrastructure systems.
 
-# Learning objectives
+Learning objectives
 
--   Indicate infrastructure systems' contribution to greenhouse gas
-    emissions
--   Describe projected global emissions gap based on NDC commitments
--   Identify effective emissions reduction solutions for infrastructure
-    systems.
+- Indicate infrastructure systems' contribution to greenhouse gas
+  emissions
+- Describe projected global emissions gap based on NDC commitments
+- Identify effective emissions reduction solutions for infrastructure
+  systems.
 
-# Introduction
+## Introduction
 
 Based on the most recent data, global greenhouse gas emissions reached
-approximately 59.1 GtCO~2~e (gigatonnes of carbon dioxide equivalent) in
-2019. Over the last decade, greenhouse gas emissions have grown annually
+approximately 59.1 GtCO~2~e (gigatonnes of carbon dioxide equivalent) in 2019. Over the last decade, greenhouse gas emissions have grown annually
 at an average rate of 1.4% with no significant or sustained decline.
 Throughout 2020 and 2021, a decline has been observed due to the
 COVID-19 pandemic. However, unless COVID-19 recovery plans inculcate
@@ -52,7 +42,7 @@ mitigation efforts. Further, given the global presence of aging
 infrastructure, infrastructure systems offer us an ideal opportunity to
 alter our carbon intensive trajectory.
 
-# Greenhouse gas emissions from the infrastructure sector
+## Greenhouse gas emissions from the infrastructure sector
 
 Taking a more in-depth look, the infrastructure system of systems
 generates approximately three quarters of global greenhouse gas
@@ -62,7 +52,7 @@ infrastructure systems produced approximately 75% of 2018 global
 emissions. The breakdown devised from a variety of data sources is
 detailed in Figure 2.1.1 below.
 
-![](assets/Figure_2.1.1.png){width=100%}
+![](assets/Figure_2.1.1.png)
 
 **Figure 2.1.1:** Global greenhouse gas emissions sector breakdown
 [@Olivier2020; @Malmodin2018; @Wakeel2016; @Deemer2016]
@@ -89,7 +79,7 @@ energy consumption in the lifecycle of Information and Communication
 Technology [@Malmodin2018]; energy is consumed in the manufacture and
 operation of user equipment, access networks, and service providers.
 
-# Nationally Determined Contributions' emissions gap
+## Nationally Determined Contributions' emissions gap
 
 The Paris Agreement requires its signatories to commit to emissions
 reduction through non-binding Nationally Determined Contributions
@@ -123,12 +113,12 @@ long-term strategies that are in line with the Paris Agreement.
 Countries need to simultaneously update their NDCs to reflect these
 plans and other related goals [@UnitedNations2020].
 
-![](assets/Figure_2.1.2.png){width=100%}
+![](assets/Figure_2.1.2.png)
 
 **Figure 2.1.2**: 2030 emissions gap based on current policies
 [@UnitedNations2020]
 
-# Key emission reduction actions
+## Key emission reduction actions
 
 What actions can we take to bridge the emissions gap? Mitigation action
 involves the two broad areas of greenhouse gas emissions reduction and
@@ -143,45 +133,45 @@ safeguard water reserves.
 actions
 
 +----------------------------------+----------------------------------+
-| **Greenhouse Gas Emissions       |                                  |
-| Reduction with Grey and Green    |                                  |
-| Infrastructure Actions**         |                                  |
+| **Greenhouse Gas Emissions | |
+| Reduction with Grey and Green | |
+| Infrastructure Actions** | |
 +==================================+==================================+
-| **Infrastructure Options**       | **Nature-Based solutions (see    |
-|                                  | Lectures 15-18)**                |
+| **Infrastructure Options** | **Nature-Based solutions (see |
+| | Lectures 15-18)** |
 +----------------------------------+----------------------------------+
-| -   Renewable energy generation: | -   Restoration of degraded      |
-|     solar, wind, hydropower,     |     ecosystems (e.g. mangrove    |
-|     biomass, ocean technologies, |     restoration, grassland       |
-|     geothermal                   |     restoration, restoration of  |
-|                                  |     beach and dune systems,      |
-|                                  |     wetland restoration)         |
+| - Renewable energy generation: | - Restoration of degraded |
+| solar, wind, hydropower, | ecosystems (e.g. mangrove |
+| biomass, ocean technologies, | restoration, grassland |
+| geothermal | restoration, restoration of |
+| | beach and dune systems, |
+| | wetland restoration) |
 +----------------------------------+----------------------------------+
-| -   Energy efficiency            | -   Protection of existing       |
-|                                  |     ecosystems (e.g. protection  |
-|                                  |     of salt marshes, coral       |
-|                                  |     reefs, oyster reefs,         |
-|                                  |     protection of grasslands and |
-|                                  |     intact forests)              |
+| - Energy efficiency | - Protection of existing |
+| | ecosystems (e.g. protection |
+| | of salt marshes, coral |
+| | reefs, oyster reefs, |
+| | protection of grasslands and |
+| | intact forests) |
 +----------------------------------+----------------------------------+
-| -   Low-carbon transport:        | -   Improved management          |
-|     electric vehicles,           |     practices (e.g. agricultural |
-|     low-carbon fuel, efficiency  |     management practices such as |
-|     improvements                 |     agroforestry, improved       |
-|                                  |     grazing land management)     |
+| - Low-carbon transport: | - Improved management |
+| electric vehicles, | practices (e.g. agricultural |
+| low-carbon fuel, efficiency | management practices such as |
+| improvements | agroforestry, improved |
+| | grazing land management) |
 +----------------------------------+----------------------------------+
-| -   Zero-energy buildings:       | -   Creation of new ecosystems   |
-|     energy efficient appliances  |     (e.g. urban green spaces,    |
-|     and lighting, low-carbon     |     green roofs on buildings,    |
-|     fuel                         |     constructed treatment        |
-|                                  |     wetlands)                    |
+| - Zero-energy buildings: | - Creation of new ecosystems |
+| energy efficient appliances | (e.g. urban green spaces, |
+| and lighting, low-carbon | green roofs on buildings, |
+| fuel | constructed treatment |
+| | wetlands) |
 +----------------------------------+----------------------------------+
-| -   Low-carbon industry:         |                                  |
-|     efficiency improvements,     |                                  |
-|     low-carbon fuel              |                                  |
+| - Low-carbon industry: | |
+| efficiency improvements, | |
+| low-carbon fuel | |
 +----------------------------------+----------------------------------+
-| -   Reduction of fossil fuel     |                                  |
-|     subsidies                    |                                  |
+| - Reduction of fossil fuel | |
+| subsidies | |
 +----------------------------------+----------------------------------+
 
 Some initiatives are considered to be low hanging fruit given their
@@ -200,7 +190,7 @@ activities should not be supported. Rather, emissions reduction
 initiatives should be advanced through top-down measures to redesign
 infrastructure systems and bottom-up lifestyle changes.
 
-# Summary
+## Summary
 
 The current picture of global emissions is bleak as greenhouse gas
 emissions continue to rise. Infrastructure systems are major

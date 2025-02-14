@@ -1,12 +1,4 @@
----
-title: Mini-Lecture 12.1 - What are the future challenges?
-keywords:
--   Climate change
--   Socio-economic change
--   Future risk
-authors:
--   Jasper Verschuur
----
+# Mini-Lecture 12.1 - What are the future challenges?
 
 This lecture introduces the future challenges faced by decision-makers
 when planning long-term infrastructure projects. It describes four
@@ -14,14 +6,14 @@ drivers that can influence risk in the future: (1) climate change, (2)
 environmental change, (3) socio-economic change and (4) changes in
 societal dependencies on infrastructure.
 
-# Learning objectives
+Learning objectives
 
--   Understand how risk has changed over time
--   Identify the different drivers of changing risk
--   Learn what dependencies and feedbacks exist between infrastructure
-    and society.
+- Understand how risk has changed over time
+- Identify the different drivers of changing risk
+- Learn what dependencies and feedbacks exist between infrastructure
+  and society.
 
-# Introduction
+## Introduction
 
 We have seen in the previous lectures that risk is defined as the
 interplay between the hazard, the population and assets that are
@@ -46,19 +38,19 @@ In this lecture we will briefly introduce the four main drivers of
 change in future risk:
 
 1. Changes in the climate which may cause the frequency and
-magnitude of hazards to change
+   magnitude of hazards to change
 2. Changes in the environment which may cause the frequency and
-magnitude of hazards to change
+   magnitude of hazards to change
 3. Changes in the use of existing infrastructure systems and need
-for new infrastructure systems due to socio-economic changes
+   for new infrastructure systems due to socio-economic changes
 4. Changes in societal dependencies with regards to infrastructure.
 
-![](assets/Figure_12.1.1.png){width=100%}
+![](assets/Figure_12.1.1.png)
 
 **Figure 12.1.1:** Global reported natural disaster by type between
 1970-2019 [@owidnaturaldisasters]
 
-# Introduction to climate change
+## Introduction to climate change
 
 We start by looking at how climate change might affect the frequency and
 magnitude of the hazards. Some hazards are more sensitive to changes in
@@ -84,7 +76,7 @@ specific and needs localized analysis in order to capture this.
 In mini-lectures 12.2-4, we will investigate this problem in more detail
 and illustrate how to model future hazards.
 
-# Introduction to environmental drivers
+## Introduction to environmental drivers
 
 Apart from changes in the climate system that might affect the
 occurrence of natural hazards, changes in environmental factors can also
@@ -116,12 +108,12 @@ after deforestation happened [@Lehmann2019].
 These two examples highlight that changing land-use patterns might have
 unintended consequences on the occurrence of hazards.
 
-![](assets/Figure_12.1.2.png){width=100%}
+![](assets/Figure_12.1.2.png)
 
 **Figure 12.1.2:** The effect of deforestation on the occurrence of
 landslides in four regions worldwide [@Lehmann2019]
 
-# Introduction to socio-economic growth
+## Introduction to socio-economic growth
 
 The spatial locations of assets, and how society depends on these
 assets, determines the extent to which assets and populations are
@@ -139,18 +131,18 @@ mainly associated with socio-economic growth in hazard-prone areas
 The socio-economic growth can be further disentangled into three
 underlying drivers.
 
--   **Population changes:** New urban areas are created in hazard prone
-    areas leading to an increased exposure. This gives rise to new
-    infrastructure provision in expanding areas.
+- **Population changes:** New urban areas are created in hazard prone
+  areas leading to an increased exposure. This gives rise to new
+  infrastructure provision in expanding areas.
 
--   **Economic growth:** Economic growth increases the value of assets
-    at risk.
+- **Economic growth:** Economic growth increases the value of assets
+  at risk.
 
--   **Changing living standards:** Changes in living standards influence
-    the use and need for existing and new assets. For instance,
-    connecting initially unconnected households to the electricity and
-    water network increases the total population dependent on such
-    services.
+- **Changing living standards:** Changes in living standards influence
+  the use and need for existing and new assets. For instance,
+  connecting initially unconnected households to the electricity and
+  water network increases the total population dependent on such
+  services.
 
 Often these changes occur in tandem; rapidly growing economies see an
 increase in population and wealth in existing and newly developed urban
@@ -158,12 +150,12 @@ areas that demand more infrastructure services. Figure 12.1.4 shows the
 rapid urban expansion in multiple cities between 1975 and 2015, showing
 how cities are expanding in different ways.
 
-![](assets/Figure_12.1.3.jpg){width=100%}
+![](assets/Figure_12.1.3.jpg)
 
 **Figure 12.1.3:** The urban expansion over time for cities in Sri
 Lanka, Viet Nam, China, Bangladesh, Israel, Pakistan [@EspaceMondial]
 
-# Introduction to infrastructure dependencies
+## Introduction to infrastructure dependencies
 
 The aforementioned drivers of risk are mainly external drivers, meaning
 that external processes determine whether an area or asset will
@@ -184,14 +176,14 @@ Figure 12.1.5 below, showing that increasing the reservoir storage and
 water supply can lead to an increasing dependency and vulnerability when
 the reservoir levels are low, resulting in larger economic damages.
 
-![](assets/Figure_12.1.4.png){width=100%}
+![](assets/Figure_12.1.4.png)
 
 **Figure 12.1.4:** A schematic diagram of the reservoir effect as a
 result of positive feedback processes between infrastructure and
 society, which can increase the vulnerability of the dependent
 population [@DiBaldassarre2018]
 
-# Summary
+## Summary
 
 In this lecture, we have given a brief introduction to how risk changes
 over time and identified the four main drivers of future hazard risk.

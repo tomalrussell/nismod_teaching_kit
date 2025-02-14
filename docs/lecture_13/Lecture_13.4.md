@@ -1,13 +1,4 @@
----
-title: Mini-Lecture 13.4 -- Future infrastructure needs in practice
-keywords:
--   Infrastructure needs
--   St Lucia
--   Curaçao
-authors:
--   Lena Fuldauer
--   Daniel Adshead
----
+# Mini-Lecture 13.4 -- Future infrastructure needs in practice
 
 This mini-lecture provides practical examples of identifying future
 infrastructure needs, based on population growth, tourism growth and
@@ -15,16 +6,16 @@ climate scenarios. Examples are taken from applications of a methodology
 to assess future infrastructure needs, usage and risk in the small
 islands of Curaçao and Saint Lucia.
 
-# Learning objectives  {#learning-objectives-1}
+Learning objectives {#learning-objectives-1}
 
--   Recall an example of how population and tourism scenarios are used
-    to project future infrastructure demand
--   Describe how a worst-case climate scenario can be used to identify
-    changes in infrastructure use
--   Explain how future infrastructure exposure for one asset can been
-    calculated.
+- Recall an example of how population and tourism scenarios are used
+  to project future infrastructure demand
+- Describe how a worst-case climate scenario can be used to identify
+  changes in infrastructure use
+- Explain how future infrastructure exposure for one asset can been
+  calculated.
 
-# Introduction to case study examples on future infrastructure needs
+## Introduction to case study examples on future infrastructure needs
 
 In the previous mini-lectures 13.1-13.3, we have explored the drivers
 and ways in which we can predict the future need for infrastructure,
@@ -40,14 +31,14 @@ predicting future infrastructure needs, including:
 
 1. Future changes in infrastructure demand: population, tourism, economic growth
 2. Changes in the use of infrastructure due to climate change (using an
-    example of how future climate projections in the dry season reduce
-    river flow and thereby reduce the capacity of existing and future
-    planned treatment plants)
+   example of how future climate projections in the dry season reduce
+   river flow and thereby reduce the capacity of existing and future
+   planned treatment plants)
 3. Location-specific future infrastructure assets and related infrastructure needs
 4. Location-specific future infrastructure assets and their exposure to
-    future hazards.
+   future hazards.
 
-# Estimating future infrastructure needs using population and tourism projections in practice
+## Estimating future infrastructure needs using population and tourism projections in practice
 
 As described in mini-lecture 13.1, future infrastructure needs can be
 estimated using changes in population or economic growth, amongst other
@@ -68,7 +59,7 @@ which reflect various economic growth potentials for Curaçao, were
 utilised in order to create a low, moderate, and high growth scenario
 capturing future uncertainty (Figure 13.4.1).
 
-![](assets/Figure_13.4.1.png){width=100%}
+![](assets/Figure_13.4.1.png)
 
 **Figure 13.4.1:** Curaçao's future waste scenarios until 2050
 [@Fuldauer2019]. Calculations were based on waste generation factors
@@ -81,7 +72,7 @@ Various infrastructure strategies were then created (see mini-lecture
 scenario, in order to evaluate the performance of these strategies under
 the various population and economic growth scenarios [@Fuldauer2019].
 
-# Estimating future infrastructure usage using climate scenarios in practice
+## Estimating future infrastructure usage using climate scenarios in practice
 
 As described in mini-lecture 13.3, infrastructure supply and use can
 also change in the future, including due to climate change. Notably, the
@@ -90,10 +81,10 @@ not always tell the full story due to factors affecting the way it is
 distributed and used across a country.
 
 Examples of this include chronic drought and reduced river flow impacts
-on water infrastructure. While water treatment capacity *at a national
-level* was shown to be sufficient to meet annual water demand in Saint
+on water infrastructure. While water treatment capacity _at a national
+level_ was shown to be sufficient to meet annual water demand in Saint
 Lucia, the analysis accounted for the fact that chronic impacts of
-climate change on river flows during the *dry season* leave many
+climate change on river flows during the _dry season_ leave many
 communities with major water shortages throughout much of the year.
 Often, these periods correspond with peak holiday periods where many
 tourists arrive on the island. Figure 13.4.2 shows the possible extent
@@ -109,24 +100,24 @@ infrastructure strategy, which includes adaptation to chronic river
 runoff, can help eliminate the shortage and ensure continuous water
 supply, including in the dry season (Figure 13.4.4).
 
-![](assets/Figure_13.4.2.png){width=100%}
+![](assets/Figure_13.4.2.png)
 
 **Figure 13.4.2:** Inaction with respect to water infrastructure into
 the future
 
-![](assets/Figure_13.4.3.png){width=100%}
+![](assets/Figure_13.4.3.png)
 
 **Figure 13.4.3:** Business-as-usual investment in infrastructure into
 the future leaves peak shortage in the dry season
 
-![](assets/Figure_13.4.4.png){width=100%}
+![](assets/Figure_13.4.4.png)
 
 **Figure 13.4.4:** A national infrastructure strategy, including water
 loss reductions and infrastructure investments, can be a useful strategy
 to adapt to reduced chronic river runoff and associated reduced
 wastewater treatment capacity
 
-# Estimating future infrastructure needs from proposed assets in practice
+## Estimating future infrastructure needs from proposed assets in practice
 
 As described in mini-lecture 13.2, there are various ways in which
 future infrastructure needs can be identified. Such infrastructure
@@ -143,7 +134,7 @@ A database of five large infrastructure investments, which are to be
 constructed in the coming years, was provided by the Government of Saint
 Lucia (Figure 13.4.5)
 
-![](assets/Figure_13.4.5.png){width=100%}
+![](assets/Figure_13.4.5.png)
 
 **Figure 13.4.5:** Location of new infrastructure investments in Saint
 Lucia [@Adshead2020]
@@ -159,7 +150,7 @@ conflicts of resources and space with the cruise ship arrivals port in
 the capital Castries. The analysis calculated the estimated
 infrastructure needs of the port, which are summarised in Figure 13.4.6.
 
-![](assets/Figure_13.4.6.png){width=100%}
+![](assets/Figure_13.4.6.png)
 
 **Figure 13.4.6:** Estimated infrastructure need from proposed
 relocation and expansion of cargo port [@Adshead2020]
@@ -171,7 +162,7 @@ increased infrastructure needs from the electricity, water, wastewater
 and water sectors resulting from the relocation and expansion of the
 cargo port.
 
-# Estimating future hazard exposure from proposed infrastructure assets
+## Estimating future hazard exposure from proposed infrastructure assets
 
 In the previous section, we analysed the potential infrastructure needs
 resulting from proposed infrastructure assets. Here, we superimpose
@@ -188,7 +179,7 @@ the critical services it provides for more than 70 Sustainable
 Development Goal (SDG) targets are potentially exposed
 [@Fuldauer2021b].
 
-![](assets/Figure_13.4.7.png){width=100%}
+![](assets/Figure_13.4.7.png)
 
 **Figure 13.4.7:** New proposed port in Saint Lucia exposed to storm
 surge, flash flood and landslides [@Adshead2020]
@@ -203,7 +194,7 @@ exposed:
 - 6% exposed to flash floods
 - 4% exposed to landslides
 
-![](assets/Figure_13.4.8.png){width=100%}
+![](assets/Figure_13.4.8.png)
 
 **Figure 13.4.8:** Proposed north-south road (red) potentially exposed
 to storm surges, flash floods and landslides [@Adshead2020]
@@ -217,7 +208,7 @@ appropriately considered. A comprehensive approach to adaptation of
 infrastructure systems as part of the overall goal of achieving
 sustainability will be essential.
 
-# Summary
+## Summary
 
 This mini-lecture provided an overview of practical examples of
 identifying future infrastructure needs, based on population growth,

@@ -1,13 +1,4 @@
----
-title: Mini-Lecture 8.3 -- Characterising hazards and risk calculations
-  for infrastructure networks
-keywords:
-- Probabilistic hazards
-- Loss-probability curves
-- Risk calculations
-authors:
-- Raghav Pant
----
+# Mini-Lecture 8.3 -- Characterising hazards and risk calculations for infrastructure networks
 
 This mini-lecture introduces the theory of quantifying hazards for
 infrastructure risk analysis. The concept of loss-probability curves and
@@ -15,7 +6,7 @@ the calculations of expected risks are also discussed. The lecture
 provides some useful data sources of openly available global hazard
 maps, that are used widely in risk analysis.
 
-# Learning objectives
+Learning objectives
 
 - Introduce the concept of hazard exceedance probabilities
 
@@ -23,7 +14,7 @@ maps, that are used widely in risk analysis.
 
 - Show how to calculate expected risks for discrete probabilities and losses.
 
-# Quantifying a hazard
+## Quantifying a hazard
 
 As introduced in mini-lecture 8.2, an extreme weather event only becomes
 a hazard when it causes adverse effects to exposed and vulnerable
@@ -33,88 +24,88 @@ considered hazard events suitable for spatial risk analysis.
 
 For spatial risk analysis, extreme hazard models are created over a
 2-dimensional surface area $\mathbf{x}$, and are characterized by a
-*load* $\mathbf{h}\left( \mathbf{x} \right) \equiv \mathbf{h}$ sampled
-from a *probability density function* $g_{H}(\mathbf{h})$. The most
+_load_ $\mathbf{h}\left( \mathbf{x} \right) \equiv \mathbf{h}$ sampled
+from a _probability density function_ $g_{H}(\mathbf{h})$. The most
 extreme hazards are chosen to be the ones that exceed a particular
-*threshold load* ($\mathbf{h}_{\text{tr}}$) and are sampled from an
+_threshold load_ ($\mathbf{h}_{\text{tr}}$) and are sampled from an
 exceedance probability (EP) curve that satisfies equation (1). Here
 $\mathbb{P}\left\lbrack \mathbf{h} > \mathbf{h}_{\text{tr}} \right\rbrack$
 denotes the probability that a chosen hazard load will exceed the
 threshold level, and
 $\int_{\mathbf{0}}^{\mathbf{h}\ }{g_{H}\left( \mathbf{h} \right)d\mathbf{h}}$
-is the *cumulative density function* of hazard loading.
+is the _cumulative density function_ of hazard loading.
 
 $\text{EP}\left( \mathbf{h} \right)\mathbb{= \ P}\left\lbrack \mathbf{h} > \mathbf{h}_{\text{tr}} \right\rbrack = 1 - \ \int_{\mathbf{0}}^{\mathbf{h}\ }{g_{H}\left( \mathbf{h} \right)d\mathbf{h}}$
 (1)
 
-The reciprocal of the exceedance probability is called the *return
-period* of an event.
+The reciprocal of the exceedance probability is called the _return
+period_ of an event.
 
 In simplistic terms, the above means that if we were given a model for
 creating flood events, we might use the following criteria to sample
 possible extreme events:
 
 - Not all flooding would be a problem -- 5cm of flood depth might be
-    okay, but 1metre of flood depth might be catastrophic. Hence, we may
-    select model outputs with
-    $\mathbf{h} > \mathbf{h}_{\text{tr}} = 1metre$ at several locations.
+  okay, but 1metre of flood depth might be catastrophic. Hence, we may
+  select model outputs with
+  $\mathbf{h} > \mathbf{h}_{\text{tr}} = 1metre$ at several locations.
 
 - The exceedance probability is a good indicator for selecting events
-    -- an event that has 0.001 probability of being exceeded (i.e.
-    $\text{EP}\left( \mathbf{h} \right) = 0.001$) would be a rare event
-    and possibly a hazard. This is a 1 in 1000-year return period flood
-    event.
+  -- an event that has 0.001 probability of being exceeded (i.e.
+  $\text{EP}\left( \mathbf{h} \right) = 0.001$) would be a rare event
+  and possibly a hazard. This is a 1 in 1000-year return period flood
+  event.
 
-# Hazard information used in practice
+## Hazard information used in practice
 
 Figure 8.3.1 shows a river flooding hazard map for Uruguay, from a global flood modelling product known as FATHOM [@wing2020toward]. River flooding occurs when the rivers overtop their banks, and the water inundates the surrounding areas. The map shows the following information:
 
--   The river flood hazard here is defined as an event for which the river flows at every location have 0.001 exceedance probability values, i.e. at every location the selected flow is the one that has a 1 in 1000 chance of being exceeded.
+- The river flood hazard here is defined as an event for which the river flows at every location have 0.001 exceedance probability values, i.e. at every location the selected flow is the one that has a 1 in 1000 chance of being exceeded.
 
--   The flood depths in metres are the hazard loads here. Very high flood depths at specific locations (in darkest shades of blue) would make potential areas vulnerable to flooding.
+- The flood depths in metres are the hazard loads here. Very high flood depths at specific locations (in darkest shades of blue) would make potential areas vulnerable to flooding.
 
 There are now several open-source hazard products at global scales which are being used widely for vulnerability and risk analysis. A few resources include:
 
--   Global river and coastal flood maps: Historical and future hazard maps at different return periods (2, 5, 10, 25, 50, 100, 250, 500, 1000 years). All data is available at a 30 arc-seconds resolution (~1km at equator) [@gassert2015aqueduct].
+- Global river and coastal flood maps: Historical and future hazard maps at different return periods (2, 5, 10, 25, 50, 100, 250, 500, 1000 years). All data is available at a 30 arc-seconds resolution (~1km at equator) [@gassert2015aqueduct].
 
--   Global hazard maps for earthquakes for different return periods (250, 475, 975, 1500, 2475 years) both Peak Ground Acceleration and spectral acceleration. Data is available at 0.072 degrees (~8km at equator).
+- Global hazard maps for earthquakes for different return periods (250, 475, 975, 1500, 2475 years) both Peak Ground Acceleration and spectral acceleration. Data is available at 0.072 degrees (~8km at equator).
 
--   Global dataset of 10,000 synthetic tropical cyclones paths with cyclone characteristics (e.g., wind speed, pressure) on a global scale. Wind speed probabilities are derived globally (10 metre, 10 minutes sustained speed) for different return periods (10 to 10,000 years) at 10km resolution [@Bloemendaal2019storm].
+- Global dataset of 10,000 synthetic tropical cyclones paths with cyclone characteristics (e.g., wind speed, pressure) on a global scale. Wind speed probabilities are derived globally (10 metre, 10 minutes sustained speed) for different return periods (10 to 10,000 years) at 10km resolution [@Bloemendaal2019storm].
 
-![](assets/Figure_8.3.1.png){width=100%}
+![](assets/Figure_8.3.1.png)
 
 **Figure 8.3.1:** A 1 in 1000 exceedance probability river flood map for Uruguay showing areas with different flood depths in metres. Created from FATHOM data [@wing2020toward].
 
-# Generating loss-exceedance probability curves
+## Generating loss-exceedance probability curves
 
 A key result in risk analysis is the distribution of the vulnerability
 outcomes (losses) for different hazard events sampled from a probability
 distribution. A comprehensive approach to generating such curves
 includes the following steps:
 
--   Simulate several thousand sample hazard events from a probability
-    distribution ($g_{H}(\mathbf{h,}t)$) over space and time -- for
-    example, flood models can generate 10,000 flood events over a
-    50-year timeline over a country.
+- Simulate several thousand sample hazard events from a probability
+  distribution ($g_{H}(\mathbf{h,}t)$) over space and time -- for
+  example, flood models can generate 10,000 flood events over a
+  50-year timeline over a country.
 
--   Intersect each hazard event with the infrastructure assets (e.g.
-    electricity substations, roads, etc.).
+- Intersect each hazard event with the infrastructure assets (e.g.
+  electricity substations, roads, etc.).
 
--   Simulate the failure of an asset based on a *fragility curve* for a
-    given hazard load ($\mathbf{h}$) (fragility is further explained in
-    mini-lecture 10.2).
+- Simulate the failure of an asset based on a _fragility curve_ for a
+  given hazard load ($\mathbf{h}$) (fragility is further explained in
+  mini-lecture 10.2).
 
--   Estimate infrastructure network losses ($l$(*t*)) associated with
-    each hazard event for each year.
+- Estimate infrastructure network losses ($l$(_t_)) associated with
+  each hazard event for each year.
 
--   Find the mean losses over each year $\bar{l}$, by taking the
-    average of losses for the same year.
+- Find the mean losses over each year $\bar{l}$, by taking the
+  average of losses for the same year.
 
--   Plot the probability distribution of losses $\bar{l}$ or plot
-    a curve of loss vs the exceedance probability of a loss, i.e.,
-    $\mathbb{P}\left\lbrack L > \bar{l} \right\rbrack$.
+- Plot the probability distribution of losses $\bar{l}$ or plot
+  a curve of loss vs the exceedance probability of a loss, i.e.,
+  $\mathbb{P}\left\lbrack L > \bar{l} \right\rbrack$.
 
-# Risk calculations from loss-probability curves
+## Risk calculations from loss-probability curves
 
 Figures 8.3.2 shows the loss-exceedance probability curves that are
 created from the steps outlined in the previous section. These curves
@@ -140,13 +131,13 @@ $\text{EP}_{k}$ and losses $l_{k}$.
 
 $EAL = \ \frac{1}{2}\sum_{k = 1}^{m}{\left( \text{EP}_{k + 1} - \text{EP}_{k} \right)\left( l_{k} + l_{k + 1} \right)}$ (2)
 
-![](assets/Figure_8.3.2.png){width=100%}
+![](assets/Figure_8.3.2.png)
 
 **Figure 8.3.2:** Minimum and maximum daily loss vs exceedance
 probability curves for river flooding of the national road network. From
 a climate risk analysis study in Viet Nam [@oh2019addressing].
 
-# Nuances in infrastructure risk assessments
+## Nuances in infrastructure risk assessments
 
 The overall risk calculations and exceedance probability curves being
 done here apply to any infrastructure network risk analysis problem that
@@ -174,7 +165,7 @@ creating good network flow models. Across Lecture 9 transport, water and
 energy flow models are presented to show the nuances for each type of
 infrastructure network.
 
-# Summary
+## Summary
 
 In this lecture, we explained the general theory of sampling hazard
 events from hazard models. We introduced the concept of exceedance

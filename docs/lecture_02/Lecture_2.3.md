@@ -1,13 +1,4 @@
----
-title: Mini-Lecture 2.3 - Determining key infrastructure sectors for
-  mitigation action by assessing cross sectoral co-benefits
-keywords:
--   Mitigation
--   Co-benefits
--   Sustainable Development Goals
-authors:
--   Sapphire Vital
----
+# Mini-Lecture 2.3 - Determining key infrastructure sectors for mitigation action by assessing cross sectoral co-benefits
 
 Mini-lecture 2.3 provides an overview of infrastructure and mitigation
 action's potential co-benefits using the United Nation's Sustainable
@@ -15,44 +6,44 @@ Development Goal (SDG) framework. Through the methodologies presented,
 the lecture highlights key infrastructure sectors for mitigation action
 and far-reaching cross-sectoral sustainable development.
 
-# Learning objectives
+Learning objectives
 
--   Indicate infrastructure's influence on sustainable development using
-    the SDG framework
--   Indicate mitigation action's influence on sustainable development
-    using the SDG framework
--   Utilise the SDG framework to pinpoint key infrastructure sectors for
-    mitigation action based on mutual SDG influence.
+- Indicate infrastructure's influence on sustainable development using
+  the SDG framework
+- Indicate mitigation action's influence on sustainable development
+  using the SDG framework
+- Utilise the SDG framework to pinpoint key infrastructure sectors for
+  mitigation action based on mutual SDG influence.
 
-# Introduction
+## Introduction
 
 Using the first steps of the Nationally Determined Contribution (NDC)
 target development approach from mini-lecture 2.2, we can recognise the
 following trends:
 
--   **Step 1 - Assess national infrastructure development priorities:**
-    Globally there is a presence of ageing infrastructure and rapid
-    population growth that necessitates increased infrastructure
-    services [@Thacker2019].
+- **Step 1 - Assess national infrastructure development priorities:**
+  Globally there is a presence of ageing infrastructure and rapid
+  population growth that necessitates increased infrastructure
+  services [@Thacker2019].
 
--   **Step 2 - Estimate their mitigation potential:** Globally the
-    infrastructure sector accounts for approximately 75% of greenhouse
-    gas emissions. Mitigation potential is vast.
+- **Step 2 - Estimate their mitigation potential:** Globally the
+  infrastructure sector accounts for approximately 75% of greenhouse
+  gas emissions. Mitigation potential is vast.
 
--   **Step 3 - Evaluate resiliency and adaptation needs:** Given the
-    present and impending impacts of climate change, countries,
-    particularly the vulnerable developing countries and small island
-    developing states, urgently need to build resilience into
-    infrastructure systems. Critical services such as energy generation,
-    water and wastewater treatment, and digital communications need to
-    be adapted to the changing climate to ensure their continued use and
-    prevent further negative impacts.
+- **Step 3 - Evaluate resiliency and adaptation needs:** Given the
+  present and impending impacts of climate change, countries,
+  particularly the vulnerable developing countries and small island
+  developing states, urgently need to build resilience into
+  infrastructure systems. Critical services such as energy generation,
+  water and wastewater treatment, and digital communications need to
+  be adapted to the changing climate to ensure their continued use and
+  prevent further negative impacts.
 
--   **Step 4 - Assess implementation capability:** The implementation
-    costs of traditionally extensive and technology-intensive
-    infrastructure system components are typically high and require
-    specific technical expertise over their design, construction,
-    commissioning, and maintenance periods.
+- **Step 4 - Assess implementation capability:** The implementation
+  costs of traditionally extensive and technology-intensive
+  infrastructure system components are typically high and require
+  specific technical expertise over their design, construction,
+  commissioning, and maintenance periods.
 
 Given this overarching knowledge there is a need to assess, as directed
 by Steps 5 and 6, the cross-sectoral sustainable development benefits of
@@ -64,7 +55,7 @@ development, mitigation action, and sustainable development. Points of
 intersection present opportunities to utilise limited resources to reach
 multiple objectives simultaneously [@Northrop2016].
 
-# Revision of the SDG framework
+## Revision of the SDG framework
 
 The widely accepted SDG framework was developed after the end of tenure
 of the Millennium Development Goals (MDGs). The MDGs and other
@@ -77,12 +68,12 @@ development needs common to countries across the world
 [@LeBlanc2015]. The 17 goals consist of 169 targets which focus and
 guide implementation action.
 
-![](assets/Figure_2.3.1.jpg){width=100%}
+![](assets/Figure_2.3.1.jpg)
 
 **Figure 2.3.1:** 17 Sustainable Development Goals
 [@UnitedNations2021]
 
-# Infrastructure's influence on the SDGs
+## Infrastructure's influence on the SDGs
 
 Infrastructure development has the potential to contribute significantly
 to sustainable development. Research undertaken to quantify the
@@ -110,12 +101,12 @@ These results pinpoint sectors most influenced by infrastructure
 development and illuminate key development entry points that can
 initiate extensive impact.
 
-![](assets/Figure_2.3.2.png){width=100%}
+![](assets/Figure_2.3.2.png)
 
 **Figure 2.3.2:** Number of direct and indirect infrastructure SDG
 influences [@Thacker2019]
 
-# Mitigation action's influence on the SDGs
+## Mitigation action's influence on the SDGs
 
 Similar research has been conducted on mapping mitigation with the SDGs.
 @FusoNerini2019 revealed that climate action, including both mitigation
@@ -132,7 +123,7 @@ Additionally, mitigation action in low energy demand, low material
 consumption, and low greenhouse gas-intensive food consumption was found
 to have the most SDG synergies [@IPCC2018].
 
-![](assets/Figure_2.3.3.png){width=100%}
+![](assets/Figure_2.3.3.png)
 
 **Figure 2.3.3:** Synergies and tradeoffs between the SDGs and energy
 supply, energy demand, and land management [@IPCC2018]
@@ -141,7 +132,7 @@ Similar to the research on infrastructure's SDG influence, these studies
 illustrate the sustainable development impact of well-planned mitigation
 action [@Vital2020].
 
-# Identifying key mitigation action in the infrastructure system by superimposing infrastructure and mitigation SDG influence
+## Identifying key mitigation action in the infrastructure system by superimposing infrastructure and mitigation SDG influence
 
 Evaluating the overlap between infrastructure and mitigation SDG
 influence extracts the potential sustainable impact of mitigation action
@@ -151,7 +142,7 @@ influences all 17 SDGs through 50% of the targets. Based on the number
 of targets, the energy, digital communication, and transportation
 systems were the top performers (see Figure 2.3.4).
 
-![](assets/Figure_2.3.4.png){width=100%}
+![](assets/Figure_2.3.4.png)
 
 **Figure 2.3.4:** Direct and indirect SDG influences from mitigation
 action within infrastructure systems [@Vital2019]
@@ -173,12 +164,12 @@ burning often done by women (contributing to SDGs 3 and 5). This
 illustrates the far-reaching sustainable development co-benefits of
 mitigation action in the infrastructure sector [@Vital2019].
 
-![](assets/Figure_2.3.5.png){width=100%}
+![](assets/Figure_2.3.5.png)
 
 **Figure 2.3.5:** SDGs influenced by each networked infrastructure
 system. Those not influenced are depicted in greyscale. [@Vital2019]
 
-# Summary  {#summary-1}
+## Summary
 
 This mini-lecture provided insight into evaluating the sustainable
 development impact of mitigation actions within networked infrastructure

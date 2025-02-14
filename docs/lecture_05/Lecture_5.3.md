@@ -1,13 +1,4 @@
----
-title: Mini-Lecture 5.3 - Integrating climate and development targets in
-  infrastructure planning
-keywords:
--   Climate-compatible development
--   Nationally Determined Contributions (NDCs)
--   Mitigation
-authors:
--   Dan Adshead
----
+# Mini-Lecture 5.3 - Integrating climate and development targets in infrastructure planning
 
 This lecture looks beyond the Sustainable Development Goals (SDGs) at
 how infrastructure planning can be further shaped by climate change
@@ -17,21 +8,21 @@ alignment of these two agendas in the run-up to the next Conference of
 the Parties (COP) as countries aim to set a vision for climate and
 development.
 
-# Learning objectives
+Learning objectives
 
--   To describe the policy relevance of the concept of
-    'climate-compatible development'
+- To describe the policy relevance of the concept of
+  'climate-compatible development'
 
--   To relate methods by which researchers have attempted to understand
-    interactions between climate and development targets in policy
-    documents.
+- To relate methods by which researchers have attempted to understand
+  interactions between climate and development targets in policy
+  documents.
 
-# Introduction
+## Introduction
 
 The Nationally Determined Contributions (NDCs) provide a formalised
 mechanism for countries to communicate their commitments to maintaining
 climate change to under 2° C. Although climate targets are reflected in
-SDG 13 (*Take urgent action to combat climate change and its impacts*),
+SDG 13 (_Take urgent action to combat climate change and its impacts_),
 actions to mitigate greenhouse gases can also contribute to a country's
 wider development targets, for example by supporting access to clean
 energy, reducing health effects of indoor and outdoor air pollution, and
@@ -52,17 +43,17 @@ Finally, it will consider ways in which identified country-specific
 challenges can be used to define targets as part of a sustainable
 infrastructure strategy.
 
-# Setting the scene: opportunities for climate and development coordination
+## Setting the scene: opportunities for climate and development coordination
 
 The Paris Agreement’s ‘ambition mechanism’ stipulates that the 195 countries party to the agreement are expected to update and communicate their pledges (NDCs) to further reduce greenhouse gas emissions on a five-year basis and strengthen their mitigation and adaptation responses to climate change [@UNFCCC2015]. Meanwhile, national governments must continue to address development challenges and improve upon performance across a range of social, economic, and environmental outcomes to achieve the 2030 Agenda (SDGs). This provides a great opportunity for policy integration: by requiring each party to draft its commitments in the form of Nationally Determined Contributions, the Paris Agreement offers a formalised mechanism through which to assess and compare countries’ approaches to integrating mitigation and national development goals, specifically those set according to the SDG framework [@Adshead2021a].
 While the world’s highest emitters are generally advanced economies or large, industrialised powerhouses such as China and India, non-Annex countries, which include most countries from the developing world, are not legally bound to reduce emissions by the agreement. This creates an opportunity to incentivise mitigation action by linking it directly to associated development outcomes which will be of interest to policymakers [@Adshead2021a].
 The challenges of defining a framework for merging climate change mitigation – and adaptation – actions with development outcomes suited to a wide range of global contexts has brought about the concept of ‘climate-compatible development’ (Figure 5.3.1) [@Mitchell2010], which has provided an appealing triple-win framework for the assessment of development projects across multiple sectors [@Suckall2015; @England2018]. It has, however, faced critiques and calls for reconceptualisation in order to better align the mitigation and development agendas [@Janetos2012; @Winkler2015].
 
-![](assets/Fig_5.3.1.png){width=100%}
+![](assets/Fig_5.3.1.png)
 
 **Figure 5.3.1**: The ‘climate-compatible development’ framework, linking adaptation, mitigation, and development strategies [@Mitchell2010]
 
-# Identifying the infrastructure link between SDGs and NDCs
+## Identifying the infrastructure link between SDGs and NDCs
 
 Previous initiatives have examined the points of intersection between
 the Paris Agreement and the SDGs.
@@ -79,7 +70,7 @@ management, and sustainable agriculture, can be identified
 activities [@Dickin2018]. Figure 5.3.2 indicates the distribution of
 NDC activities in relation to all 17 SDGs.
 
-![](assets/Fig_5.3.2.png){width=100%}
+![](assets/Fig_5.3.2.png)
 
 **Figure 5.3.2:** Distribution of NDC activities in relation to the
 Sustainable Development Goals [@Dzebo2019]
@@ -90,7 +81,7 @@ sectors (e.g. 6, 7, 9, 11), when we consider all targets, actions,
 policy measures, and needs highlighted in countries' NDCs, including the
 adaptation components.
 
-![](assets/Fig_5.3.3.png){width=100%}
+![](assets/Fig_5.3.3.png)
 
 **Figure 5.3.3:** Linkages between NDCs and infrastructure-focused SDGs
 [@ClimateWatchData2020]
@@ -103,7 +94,7 @@ the mitigation component of climate targets, we can aim to narrow down
 specific actions that might be incorporated as part of an infrastructure
 strategy to fill these gaps.
 
-# Global mitigation ambition in infrastructure
+## Global mitigation ambition in infrastructure
 
 While most countries commit to a certain level of emissions reduction in
 their NDCs, which may be presented by sector, these commitments must be
@@ -136,7 +127,7 @@ Many countries in Africa and Asia emphasise mitigation measures in
 agriculture, which accounts for a large share of national income
 [@Adshead2021a].
 
-# A closer alignment of climate and development targets in infrastructure planning
+## A closer alignment of climate and development targets in infrastructure planning
 
 In the current NDC landscape, many countries are incentivised to justify
 lower levels of ambition -- due to low historical emissions -- rather
@@ -164,7 +155,7 @@ the impacts of specific NDC actions according to the challenges faced in
 their countries. This type of analysis produces more concrete proposals
 for action [@Adshead2021a].
 
-# Summary
+## Summary
 
 This lecture has introduced the importance of methods that draw on the
 'climate-compatible development' framework. It has assessed ways in

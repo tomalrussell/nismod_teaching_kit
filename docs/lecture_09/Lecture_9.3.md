@@ -1,11 +1,4 @@
----
-title: Mini-Lecture 9.3 - Modelling of water
-  infrastructure networks and service delivery
-keywords:
--   Water infrastructure
-authors:
--   Olivia Becher
----
+# Mini-Lecture 9.3 - Modelling of water infrastructure networks and service delivery
 
 This mini-lecture provides an overview of what constitutes a water
 infrastructure network, how water infrastructure is distinct from other
@@ -14,15 +7,15 @@ affect water supplies. The type of causes of water supply disruption,
 from asset-related failures to source-related failures, are discussed in
 turn.
 
-# Learning objectives
+Learning objectives
 
--   Be able to identify the components of water infrastructure systems
--   To recognise the characteristics that make water infrastructure
-    stand-out compared to other infrastructure systems
--   To be able to explain the full range of water infrastructure
-    disruptions and how they can be modelled.
+- Be able to identify the components of water infrastructure systems
+- To recognise the characteristics that make water infrastructure
+  stand-out compared to other infrastructure systems
+- To be able to explain the full range of water infrastructure
+  disruptions and how they can be modelled.
 
-# Introduction
+## Introduction
 
 Water infrastructure systems are made up of the assets that abstract
 (intakes), treat (water treatment plants), pump (pumping stations),
@@ -37,22 +30,22 @@ the Thames, UK. As evident, intakes are assets that abstract water from
 the natural network of water resources, i.e. from rivers, lakes and
 groundwater.
 
--   Raw water may be stored in reservoirs or dams before being treated
-    at a treatment plant
+- Raw water may be stored in reservoirs or dams before being treated
+  at a treatment plant
 
--   Treated water may be stored in tanks before or after being pumped to
-    communities via a network of pipes
+- Treated water may be stored in tanks before or after being pumped to
+  communities via a network of pipes
 
--   Wastewater is then transported from communities via a sewer network
-    to be treated by wastewater treatment plants, before being returned
-    to the rivers and the natural system.
+- Wastewater is then transported from communities via a sewer network
+  to be treated by wastewater treatment plants, before being returned
+  to the rivers and the natural system.
 
 Given that the treatment and pumping of water relies on a reliable
 supply of electricity, the electricity supply nodes which serve water
 assets are also an important element of the water infrastructure system
 to consider.
 
-![](assets/Figure_9.3.1.jpg){width=100%}
+![](assets/Figure_9.3.1.jpg)
 
 **Figure 9.3.1:** Locations of water infrastructure asset along a
 section of the river Thames [@Mortazavi-Naeini2019]
@@ -63,7 +56,7 @@ different standards and protocols for water management, for example, for
 the level of treatment, the capacity and form of storage, and the kind
 of connection to consumers (e.g. household-level, versus standpipes).
 
-# Global datasets on water
+## Global datasets on water
 
 Although water infrastructure datasets on treatment plants, intakes and
 pumping stations are hard to come by even at national scales, there is a
@@ -95,15 +88,17 @@ sources available on water infrastructure:
 **Table 9.3.1:** Overview of some examples of global data sources for
 water infrastructure
 
-  **Datasets**                                          **Source**
-  ----------------------------------------------------- ---------------------------------------------------------
-  Reservoirs and dams                                   [Global Dam Watch](http://globaldamwatch.org/)
-  Rivers                                                [HydroSHEDS](https://www.hydrosheds.org/)
-  Runoff                                                [ISI-MIP](https://esg.pik-potsdam.de/search/isimip/)
-  Connections to piped water supply and sewer systems   [Joint Monitoring Programme](https://washdata.org/data)
-  Water use                                             [FAO, AquaSTAT](http://www.fao.org/aquastat/)
+**Datasets** **Source**
 
-# Hazard interactions with water infrastructure
+---
+
+Reservoirs and dams [Global Dam Watch](http://globaldamwatch.org/)
+Rivers [HydroSHEDS](https://www.hydrosheds.org/)
+Runoff [ISI-MIP](https://esg.pik-potsdam.de/search/isimip/)
+Connections to piped water supply and sewer systems [Joint Monitoring Programme](https://washdata.org/data)
+Water use [FAO, AquaSTAT](http://www.fao.org/aquastat/)
+
+## Hazard interactions with water infrastructure
 
 All infrastructure is vulnerable to a range of climate extremes, with
 floods, earthquakes and hurricanes imposing a heavy financial burden in
@@ -112,14 +107,14 @@ to other infrastructure because both water resources and assets are
 vulnerable to climate and hydrological extremes.
 
 1. Flood inundation poses a climate-related risk to **water assets**.
-In the event that critical water infrastructures or electricity supply
-assets fail due to flooding, they would have to be taken out of
-operation, causing further disruptions in the network.
+   In the event that critical water infrastructures or electricity supply
+   assets fail due to flooding, they would have to be taken out of
+   operation, causing further disruptions in the network.
 2. Hydrological droughts are among the most widely studied
-climate-related risks to **water resources**. Depending on the
-capacity of water storage infrastructure, the system may be able to
-buffer against droughts, protecting dependent populations from water
-shortages.
+   climate-related risks to **water resources**. Depending on the
+   capacity of water storage infrastructure, the system may be able to
+   buffer against droughts, protecting dependent populations from water
+   shortages.
 
 Thus, multiple hazards disrupt water infrastructure in different ways,
 which are summarised in Table 9.3.2 below:
@@ -128,57 +123,57 @@ which are summarised in Table 9.3.2 below:
 infrastructure
 
 +---------+---------+---------+---------+---------+---------+---------+
-| **Sub-s | **      | **      | **Land  | **Hurr  | **Earth | **Dr    |
+| **Sub-s | ** | ** | **Land | **Hurr | **Earth | **Dr |
 | ector** | Asset** | Flood** | slide** | icane** | quake** | ought** |
-|         |         |         |         |         |         |         |
-|         |         | **(plu  |         |         |         |         |
-|         |         | vial/** |         |         |         |         |
-|         |         |         |         |         |         |         |
-|         |         | **ri    |         |         |         |         |
-|         |         | ver/coa |         |         |         |         |
-|         |         | stal)** |         |         |         |         |
+| | | | | | | |
+| | | **(plu | | | | |
+| | | vial/** | | | | |
+| | | | | | | |
+| | | **ri | | | | |
+| | | ver/coa | | | | |
+| | | stal)** | | | | |
 +=========+=========+=========+=========+=========+=========+=========+
-|         | Sources | **N**   | **N**   | **N**   | **N**   | **Y**   |
-|         | (s      |         |         |         |         |         |
-|         | prings, |         |         |         |         |         |
-|         | wells,  |         |         |         |         |         |
-|         | rivers) |         |         |         |         |         |
+| | Sources | **N** | **N** | **N** | **N** | **Y** |
+| | (s | | | | | |
+| | prings, | | | | | |
+| | wells, | | | | | |
+| | rivers) | | | | | |
 +---------+---------+---------+---------+---------+---------+---------+
-| **      | Dams    | **N**   | **N**   | **N**   | **Y**   | **Y**   |
-| Water** | and     |         |         |         |         |         |
-|         | re      |         |         |         |         |         |
-|         | servoir |         |         |         |         |         |
+| ** | Dams | **N** | **N** | **N** | **Y** | **Y** |
+| Water** | and | | | | | |
+| | re | | | | | |
+| | servoir | | | | | |
 +---------+---------+---------+---------+---------+---------+---------+
-|         | Water   | **Y**   | **Y**   | **N**   | **Y**   | **Y**   |
-|         | tr      |         |         |         |         |         |
-|         | eatment |         |         |         |         |         |
-|         | plants  |         |         |         |         |         |
+| | Water | **Y** | **Y** | **N** | **Y** | **Y** |
+| | tr | | | | | |
+| | eatment | | | | | |
+| | plants | | | | | |
 +---------+---------+---------+---------+---------+---------+---------+
-|         | Pumping | **Y**   | **Y**   | **N**   | **Y**   | **N**   |
-|         | s       |         |         |         |         |         |
-|         | tations |         |         |         |         |         |
+| | Pumping | **Y** | **Y** | **N** | **Y** | **N** |
+| | s | | | | | |
+| | tations | | | | | |
 +---------+---------+---------+---------+---------+---------+---------+
-|         | Potable | **N**   | **N**   | **N**   | **N**   | **Y**   |
-|         | storage |         |         |         |         |         |
-|         | tanks   |         |         |         |         |         |
+| | Potable | **N** | **N** | **N** | **N** | **Y** |
+| | storage | | | | | |
+| | tanks | | | | | |
 +---------+---------+---------+---------+---------+---------+---------+
-|         | Pi      | **N**   | **Y**   | **N**   | **N**   | **N**   |
-|         | pelines |         |         |         |         |         |
+| | Pi | **N** | **Y** | **N** | **N** | **N** |
+| | pelines | | | | | |
 +---------+---------+---------+---------+---------+---------+---------+
-| **Waste | Was     | **Y**   | **Y**   | **N**   | **Y**   | **N**   |
-| water** | tewater |         |         |         |         |         |
-|         | tr      |         |         |         |         |         |
-|         | eatment |         |         |         |         |         |
-|         | plants  |         |         |         |         |         |
+| **Waste | Was | **Y** | **Y** | **N** | **Y** | **N** |
+| water** | tewater | | | | | |
+| | tr | | | | | |
+| | eatment | | | | | |
+| | plants | | | | | |
 +---------+---------+---------+---------+---------+---------+---------+
-|         | Sewers  | **N**   | **Y**   | **N**   | **Y**   | **N**   |
+| | Sewers | **N** | **Y** | **N** | **Y** | **N** |
 +---------+---------+---------+---------+---------+---------+---------+
 
 The following sections explore the modelling approaches employed to
 analyse the risk that flood and drought hazards pose to water
 infrastructure systems.
 
-# Risks to water network infrastructure
+## Risks to water network infrastructure
 
 Water supply disruptions can be caused by flood damage to water
 infrastructure assets or dependent electricity supply infrastructure.
@@ -186,7 +181,7 @@ Figure 9.3.2 illustrates a network model of water infrastructure,
 comprising water infrastructure assets, such as water treatment plants
 and network connections to demand centres, in England and Wales.
 
-![](assets/Figure_9.3.2.jpg){width=100%}
+![](assets/Figure_9.3.2.jpg)
 
 **Figure 9.3.2:** Network model of water infrastructure, comprising
 water infrastructure assets, such as water treatment plants and network
@@ -208,7 +203,7 @@ failures and associated network disruptions can be randomly simulated to
 identify hotspots of critical assets or worst-case failure scenarios in
 water networks.
 
-# Risks to water resources
+## Risks to water resources
 
 Water resources variations - such as water shortages and harmful water
 quality events - also pose a major risk to water supplies. Water
@@ -231,7 +226,7 @@ droughts [@Borgomeo2014]. Level of Service is used as a risk metric,
 shown in Figure 9.3.3, quantifying the probability of exceeding planned
 frequencies of water shortages of varying severity.
 
-![](assets/Figure_9.3.3.jpg){width=100%}
+![](assets/Figure_9.3.3.jpg)
 
 **Figure 9.3.3:** Thresholds of reservoir storage over a given year that
 are associated with water use restrictions of different levels of
@@ -241,7 +236,7 @@ The kinds of risk analysis discussed in this lecture are widely applied
 to guiding water infrastructure planning decisions, which will be
 discussed in future sections.
 
-# Summary
+## Summary
 
 This mini-lecture provides an overview of the components of water
 infrastructure systems, how systems are affected by hazards and how the

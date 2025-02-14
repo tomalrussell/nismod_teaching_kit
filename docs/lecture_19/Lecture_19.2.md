@@ -1,20 +1,4 @@
----
-title: Mini-Lecture 19.2 -- Common challenges in infrastructure
-  governance
-
-keywords:
-
--   Enabling environment
-
--   Governance challenges
-
--   Infrastructure development contexts
-
-authors:
-
--   Nicholas Chow
-
----
+# Mini-Lecture 19.2 -- Common challenges in infrastructure governance
 
 This mini-lecture highlights important challenges in infrastructure
 governance using the framework of the enabling environment to identify
@@ -24,23 +8,23 @@ continuity, and stakeholder engagement. Succinct examples illustrate
 specific instances of enabling environment factors impacting governance
 and management of infrastructure.
 
-# Learning objectives
+Learning objectives
 
--   Define the enabling environment in the context of infrastructure
-    development and governance
--   Develop an understanding of common infrastructure challenges seen
-    across multiple sectors and national contexts
--   Recognise the unintentional negative impacts of systems and metrics
-    on effective infrastructure governance.
+- Define the enabling environment in the context of infrastructure
+  development and governance
+- Develop an understanding of common infrastructure challenges seen
+  across multiple sectors and national contexts
+- Recognise the unintentional negative impacts of systems and metrics
+  on effective infrastructure governance.
 
-# Infrastructure governance context: Enabling environment
+## Infrastructure governance context: Enabling environment
 
 Infrastructure projects are planned, financed, constructed, and operated
 in unique governance and social settings that shift over time and space.
 This complex setting is referred to as the enabling environment. One
 definition for the term offered by the United Nations Office for Project
-Services is *"a series of structural elements that...support achievement
-of development objectives in infrastructure".* In the academic
+Services is _"a series of structural elements that...support achievement
+of development objectives in infrastructure"._ In the academic
 literature, however, the term is broadly applied and is used to
 encompass a multitude of factors. Thus, the literature has yet to come
 to a consensus on its definition and constituent components. Research is
@@ -49,7 +33,7 @@ constituent categories include the policy, legal, and regulatory
 environments, as well as the capacity of agencies to manage
 infrastructure, and human societal factors.
 
-![](assets/19.2.1.png){width=100%}
+![](assets/19.2.1.png)
 
 **Figure 19.2.1:** A simplified classification of the components of the
 enabling environment for infrastructure development
@@ -69,9 +53,9 @@ discuss:
 
 4.  Participatory planning
 
-# Balancing regulation and enforcement
+## Balancing regulation and enforcement
 
-![](assets/19.2.2.png){width=100%}
+![](assets/19.2.2.png)
 
 **Figure 19.2.2:** A simplified classification of the components of the
 enabling environment highlighting the components most relevant to
@@ -109,9 +93,9 @@ ensure reasonable compliance and safety, without unreasonable burden.
 Through this process, infrastructure actors should have the autonomy to
 flexibly meet their goals and regulatory requirements.
 
-# Transboundary governance
+## Transboundary governance
 
-![](assets/19.2.3.png){width=100%}
+![](assets/19.2.3.png)
 
 **Figure 19.2.3:** A simplified classification of the components of the
 enabling environment, highlighting the components most relevant to
@@ -147,9 +131,9 @@ governance endeavours, but also demonstrates in his work that
 subnational resource conflict is a burgeoning concern for infrastructure
 that is widely unattended to.
 
-# Political continuity
+## Political continuity
 
-![](assets/19.2.4.png){width=100%}
+![](assets/19.2.4.png)
 
 **Figure 19.2.4:** A simplified classification of the components of the
 enabling environment, highlighting the components most relevant to
@@ -183,9 +167,9 @@ practice, among others, has led to utilities being routinely underfunded
 [@Rozenberg2019], as customers pay rates that have stagnated in
 comparison to the cost of operations.
 
-# Participatory planning
+## Participatory planning
 
-![](assets/19.2.5.png){width=100%}
+![](assets/19.2.5.png)
 
 **Figure 19.2.5:** A simplified classification of the components of the
 enabling environment, highlighting the components most relevant to
@@ -198,14 +182,14 @@ outcomes. Importantly, thoughtful stakeholder engagement can minimise
 systemic biases by giving voice to otherwise marginalised stakeholders
 like low-income households. @Parfitt2004 distinguishes the benefits of
 participation by its intended outcome: whether it is undertaken as a
-*means* or an *end*.
+_means_ or an _end_.
 
-As a *means*, participation is a way to extract, interpret, and
+As a _means_, participation is a way to extract, interpret, and
 integrate local knowledge into infrastructure development, operations,
 and governance. It is a useful way to validate assumptions, collect
 new data, anticipate **environmental** and **community** impacts, and
 understand the **cultural, human and technical capacities** of the
-workforce. As an *end*, participation does not necessarily seek to
+workforce. As an _end_, participation does not necessarily seek to
 gather information to inform infrastructure processes, but instead seeks
 to educate and engage. It builds trust in the project, a sense of
 community **ownership**, and thus an investment in its success. Through
@@ -223,7 +207,7 @@ Cochabamba Water War, where communities protesting the increasing price
 of water effectively shut down facility operations by disrupting
 workers.
 
-# Summary
+## Summary
 
 In this mini-lecture, we established a simplified framework for the
 enabling environment and used that as a tool to give a brief

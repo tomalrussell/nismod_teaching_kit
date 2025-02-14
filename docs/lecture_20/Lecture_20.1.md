@@ -1,20 +1,4 @@
----
-title: Mini-Lecture 20.1 - Summary and learning outcomes for
-  infrastructure sustainability and resilience
-
-keywords:
-
--   Infrastructure resilience
-
--   Decision-making
-
--   Uncertainty
-
-authors:
-
--   Prof Jim Hall
-
----
+# Mini-Lecture 20.1 - Summary and learning outcomes for infrastructure sustainability and resilience
 
 This mini-lecture draws together themes and conclusions from the whole
 course. We examine how the concepts and learning in this course factors
@@ -22,17 +6,15 @@ into decision-making about sustainable and resilient infrastructure. We
 present a generic risk management cycle and highlight the main
 challenges in decision-making, relating to valuation and uncertainty.
 
-# Learning objectives
+Learning objectives
 
--   Place the learnings from the previous lectures into the context of
-    infrastructure decision-making
--   Critically review concepts of infrastructure sustainability and
-    resilience
--   Recognise the fundamental challenges of valuation and uncertainty.
+- Place the learnings from the previous lectures into the context of
+  infrastructure decision-making
+- Critically review concepts of infrastructure sustainability and
+  resilience
+- Recognise the fundamental challenges of valuation and uncertainty.
 
-
-
-# Decision making for sustainable and resilient infrastructure
+## Decision making for sustainable and resilient infrastructure
 
 The materials in this course aim to improve decision-making about
 infrastructure systems. We regard infrastructure decisions as being
@@ -54,17 +36,17 @@ Figure 20.1.1 also recognises how these decision-making processes are
 embedded within institutional and societal contexts, which has been
 discussed in terms of the 'enabling environment' in Lecture 19.
 
-![](assets/Figure_20.1.1.png){width=100%}
+![](assets/Figure_20.1.1.png)
 
 **Figure 20.1.1:** Iterative risk management framework [@IPCC2014]
 
-# Sustainability as the goal of infrastructure systems
+## Sustainability as the goal of infrastructure systems
 
 In Lecture 1, we examined the relationship between infrastructure
 systems and sustainability. We explained the mutual relationship between
 infrastructure and the United Nations Sustainable Development Goals
 (SDGs), in which the SDGs help to define the purpose of infrastructure
-and also constrain *how* infrastructure is delivered. The SDGs thereby
+and also constrain _how_ infrastructure is delivered. The SDGs thereby
 provide a framework for what infrastructure is aiming to achieve. Some
 of the SDGs, like water (SDG 6) and energy (SDG 7) are clearly related
 to infrastructure services, as is SDG 9, which has infrastructure in the
@@ -92,7 +74,7 @@ a piece of infrastructure, or we can adopt a multi-attribute, or
 multi-objective, approach to decision-making. We have seen both versions
 of decision making in these lectures.
 
-# Where does resilience fit into decision-making?
+## Where does resilience fit into decision-making?
 
 Resilience is often cited as a desirable attribute of infrastructure
 systems. It surely is. But it seems to be a different type of attribute
@@ -124,7 +106,7 @@ this is what is quantified in a fragility curve. But we can extend risk
 analysis to incorporate the duration of disturbance, which is a function
 of emergency coping capacity.
 
-# Where do infrastructure options come from?
+## Where do infrastructure options come from?
 
 The focus of this course has been on analysis -- analysing performance
 of, and risks to, infrastructure systems. We have explained how to
@@ -144,7 +126,7 @@ they complement each other and compensate for each other's deficiencies.
 You will wish to consider the sequence of interventions, and how that
 sequence can be adapted, depending on uncertain future conditions.
 
-# Dealing with uncertainty
+## Dealing with uncertainty
 
 Uncertainty about what the future holds is one of the greatest
 challenges in decision-making. We think about two sources of
@@ -169,7 +151,7 @@ Good decision-making processes carefully examine future uncertainties
 and use appropriate methods for factoring these uncertainties into
 decisions.
 
-# Summary
+## Summary
 
 Infrastructure is delivered through decision-making processes. To make a
 decision, we need some options and alternatives and some goals or values
@@ -177,6 +159,6 @@ to distinguish between those alternatives. We are typically also faced
 with uncertainty. A creative process is required to identify
 options/alternatives that might contribute to solving a problem.
 Typically, we will put together a combination of alternatives into a
-*portfolio* which is implemented in a staged way, through time. It may
+_portfolio_ which is implemented in a staged way, through time. It may
 be dynamically adapted through time, which helps us to cope with
 inevitable uncertainties.

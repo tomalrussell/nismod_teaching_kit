@@ -1,36 +1,20 @@
----
-title: Mini-Lecture 19.1 -- Introduction to the key dimensions of
-  infrastructure governance
-
-keywords:
-
--   Infrastructure resilience
-
--   Asset lifecycles
-
--   Levels of governance
-
-authors:
-
--   Nicholas Chow
-
----
+# Mini-Lecture 19.1 -- Introduction to the key dimensions of infrastructure governance
 
 This lecture introduces the ideas of resilience management for
 infrastructure, the key timelines for asset management, and the
 differences in objectives and alignment of multi-level stakeholders.
 
-# Learning objectives
+Learning objectives
 
--   Understand how governance supports infrastructure resilience through
-    the four 'R's
--   Recognise an infrastructure lifecycle diagram and understand why
-    governance is important throughout the entire process
--   Identify infrastructure stakeholders at different governance levels
-    and how poorly aligned goals can conflict in achieving desired
-    outcomes.
+- Understand how governance supports infrastructure resilience through
+  the four 'R's
+- Recognise an infrastructure lifecycle diagram and understand why
+  governance is important throughout the entire process
+- Identify infrastructure stakeholders at different governance levels
+  and how poorly aligned goals can conflict in achieving desired
+  outcomes.
 
-# Introduction
+## Introduction
 
 Infrastructure governance describes the set of actions, frameworks, and
 arrangements that define the interactions and operational procedures
@@ -66,7 +50,7 @@ infrastructure governance for resilience:
 2. The importance of infrastructure life cycles in governance
 3. The need for multi-level infrastructure governance.
 
-# Building resilience through infrastructure governance
+## Building resilience through infrastructure governance
 
 Resilience is the ability of infrastructure to "resist, absorb, recover
 from or successfully adapt to adversity or change in conditions"
@@ -79,7 +63,7 @@ support infrastructure system resilience thinking: resistance,
 reliability, redundancy, and response. Each of these encompass both
 physical and governance resilience aspects (Figure 19.1.1).
 
-![](assets/19.1.1.png){width=100%}
+![](assets/19.1.1.png)
 
 **Figure 19.1.1:** The four pillars of infrastructure resilience showing
 an example of governance actions that support each. Adapted from
@@ -102,7 +86,7 @@ customers, ADR programmes (such as effective metering) are not
 implementable, and thus more targeted governance strategies are
 required.
 
-# The importance of infrastructure lifecycles in governance
+## The importance of infrastructure lifecycles in governance
 
 Infrastructure assets typically have expected useful lifetimes of 30-100
 years (depending on the sector and asset), though we've seen that many
@@ -112,7 +96,7 @@ perspective of management and governance, and lifecycles are often
 distinguished into: infrastructure planning, asset delivery, and service
 management components (Figure 19.1.2).
 
-![](assets/19.1.2.png){width=100%}
+![](assets/19.1.2.png)
 
 **Figure 19.1.2:** A typical infrastructure management timeline broken
 down into the planning, delivery, and management phases, as well as
@@ -130,15 +114,14 @@ well as securing financing for the project. This latter finance
 component commonly includes borrowing and lending policies and legal
 protections for private investments. In the asset delivery phase,
 projects face physical construction challenges, and governance most
-prominently takes the form of: 1) design and construction standards, and
-2) transparency and procurement regulations. Both of these work to
+prominently takes the form of: 1) design and construction standards, and 2) transparency and procurement regulations. Both of these work to
 ensure the asset's quality while protecting workers physically and
 customers monetarily. Lastly, in the management phase, while the
 infrastructure is focused on service delivery, governance is most
 relevant in monitoring and reporting regulations, maintenance standards,
 and environmental impacts.
 
-# The need for multi-level infrastructure governance
+## The need for multi-level infrastructure governance
 
 Within even a single infrastructure sector, there are stakeholders
 acting across different levels of infrastructure services, commonly
@@ -170,14 +153,14 @@ from multiple levels within infrastructure service provision. Figure
 19.1.3 below shows a framework similarly identifying multi-level actors
 across the energy and transportation sectors.
 
-![](assets/19.1.3.png){width=100%}
+![](assets/19.1.3.png)
 
 **Figure 19.1.3:** A generalised framework for mapping infrastructure
 actors impacting governance at the sub-national, national, and
 international levels, showing simplified examples of key actors across
 different infrastructure sectors. Adapted from @Lovell2018.
 
-# Summary
+## Summary
 
 In this lecture, we learned that the term infrastructure governance is
 broadly applied to mean the management, planning, financing,

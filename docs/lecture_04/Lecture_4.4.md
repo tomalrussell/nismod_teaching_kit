@@ -1,25 +1,17 @@
----
-title: Mini-Lecture 4.4 -- Infrastructure demand forecasts in practice
-keywords:
--   Population growth
--   Socio-economic development
--   Infrastructure demand
-authors:
--   Orlando Roman
----
+# Mini-Lecture 4.4 -- Infrastructure demand forecasts in practice
 
 This mini-lecture shows four practical examples of demand forecasting
 applications in Curaçao, Saint Lucia, Palestine and Ghana. These case
 studies provide examples of forecasting estimation based on population
 growth, tourism and economic development.
 
-# Learning objectives
+Learning objectives
 
--   Describe forecast estimation for different contexts
--   Identify differences in future demand across infrastructure sectors
-    in practice.
+- Describe forecast estimation for different contexts
+- Identify differences in future demand across infrastructure sectors
+  in practice.
 
-# Overview of demand projections in practice
+## Overview of demand projections in practice
 
 This mini-lecture will showcase different applications of the National
 Infrastructure Systems MODel -- International (NISMOD-Int) for demand
@@ -36,21 +28,21 @@ infrastructure sectors: waste, electricity and water. Additionally,
 infrastructure needs are also discussed in terms of future performance
 of current systems and why they need to be restructured.
 
-# Waste generation projections for Curaçao
+## Waste generation projections for Curaçao
 
 For the waste sector in Curaçao, population, tourism and economic growth were used as future demand drivers. Expected waste generation for population and tourists were merged to construct low, moderate and high waste generation scenarios, as shown in Figure 4.4.1. The projections show a broad range of waste generation by 2050, varying between 260 and 375 thousand tonnes per year.
 
-![](assets/Figure_4.4.1.jpg){width=100%}
+![](assets/Figure_4.4.1.jpg)
 
 **Figure 4.4.1**: Waste Generation Projections for Curaçao [@Fuldauer2019]
 
 Waste management in Curaçao currently depends heavily on landfills, which are due to run out of capacity in the near future. Figure 4.4.2 shows that, at the current rate of waste generation, and without other interventions, landfills will be full by 2030. Therefore, waste management in the future will need new options, such as waste treatment and recycling plants, waste reduction programmes and as the last option (following the waste hierarchy described in mini-lecture 4.2), new landfills for final disposal.
 
-![](assets/Figure_4.4.2.jpg){width=100%}
+![](assets/Figure_4.4.2.jpg)
 
 **Figure 4.4.2**: Waste demand and current supply [@Adshead2018]
 
-# Electricity demand in Saint Lucia
+## Electricity demand in Saint Lucia
 
 In the Saint Lucia case study, energy demand was also estimated based on
 population and tourism growth, as in Curaçao. Figure 4.4.3 shows three
@@ -58,7 +50,7 @@ projections to 2050 for cruise-ship tourists, stay-over tourists and the
 residential population. Not only do the numbers vary but also the
 trajectories (i.e. population can increase or decrease by 2050).
 
-![](assets/Figure_4.4.3.jpg){width=100%}
+![](assets/Figure_4.4.3.jpg)
 
 **Figure 4.4.3:** Residential and peak tourism scenarios
 [@Adshead2020]
@@ -82,12 +74,12 @@ emissions, the high cost of diesel and the dependence on this fossil
 fuel (which is imported), call for a restructuring of the system and the
 development of new energy supply options.
 
-![](assets/Figure_4.4.4.jpg){width=100%}
+![](assets/Figure_4.4.4.jpg)
 
 **Figure 4.4.4:** Future energy needs for a moderate scenario
 [@Adshead2020]
 
-# Combining socio-economic projections and expectations in Palestine
+## Combining socio-economic projections and expectations in Palestine
 
 For a Fast Track Analysis of infrastructure provision in Palestine
 [@Ives2018], population change and economic development were used as
@@ -102,7 +94,7 @@ growth rates of 2.3% and 3.6%, respectively, which are in line with the
 average growth rate of 2.6% for Palestine between 2007 and 2016
 [@Ives2018].
 
-![](assets/Figure_4.4.5.jpg){width=100%}
+![](assets/Figure_4.4.5.jpg)
 
 **Figure 4.4.5:** Population projections for Palestine [@Ives2018]
 
@@ -116,7 +108,7 @@ the central population growth and the baseline economic scenario, and
 (3) "unstable adversity" by combining the high population growth and the
 pessimistic economic scenario.
 
-![](assets/Figure_4.4.6.jpg){width=100%}
+![](assets/Figure_4.4.6.jpg)
 
 **Figure 4.4.6:** Economic projections for Palestine [@Ives2018]
 
@@ -128,11 +120,11 @@ ratio of 100 litres/capita/day (solid lines). In this way, the
 expectation to achieve certain development indicators can be established
 in the future projections of infrastructure demand.
 
-![](assets/Figure_4.4.7.jpg){width=100%}
+![](assets/Figure_4.4.7.jpg)
 
 **Figure 4.4.7:** Water demand projections for Palestine [@Ives2018]
 
-# Population growth and socio-economic development for Ghana
+## Population growth and socio-economic development for Ghana
 
 Population growth and how socio-economic development might change
 consumption patterns were used for water and electricity demand
@@ -158,12 +150,12 @@ optimistic scenario. Consequently, the projections shown in Figure 4.4.8
 are driven not only by population change but also by a progressive
 increase in per capita consumption patterns.
 
-![](assets/Figure_4.4.8.jpg){width=100%}
+![](assets/Figure_4.4.8.jpg)
 
 Figure 4.4.8: Electricity demand projections for Ghana (based on data
 from @UNDESA2019 and @WorldBank2021)
 
-# Summary
+## Summary
 
 In this mini-lecture we described the forecasting process for
 infrastructure demand in four different countries in which the

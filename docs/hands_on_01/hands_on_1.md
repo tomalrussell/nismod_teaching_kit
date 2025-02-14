@@ -1,14 +1,4 @@
----
-title: "Hands On Exercise 1: Evaluating Current Infrastructure Performance"
-keywords:
--   Infrastructure Modelling
--   Infrastructure Systems
--   Saint Lucia
-authors:
--   Sapphire Vital
----
-
-## Short description
+# Hands On Exercise 1: Evaluating Current Infrastructure Performance"
 
 This hands-on exercise introduces the National Infrastructure Systems
 MODel -- International (NISMOD-Int) excel tool. The exercise provides an
@@ -17,16 +7,16 @@ and expounds on the process' first step of evaluating current
 infrastructure performance. Examples are provided through application to
 the Small Island Developing State of Saint Lucia.
 
-## Learning objectives
+Learning objectives
 
--   Navigate the NISMOD excel tool
--   Evaluate infrastructure supply and demand using NISMOD
--   Input and update infrastructure data and associated confidence
-    levels.
+- Navigate the NISMOD excel tool
+- Evaluate infrastructure supply and demand using NISMOD
+- Input and update infrastructure data and associated confidence
+  levels.
 
-# Exercise content
+## Exercise content
 
-## Activity 1- Introduction to the NISMOD excel tool
+### Activity 1- Introduction to the NISMOD excel tool
 
 NISMOD was developed by the University of Oxford-led Infrastructure
 Transitions Research Consortium (ITRC) in partnership with the United
@@ -47,21 +37,21 @@ country contexts, including Palestine, Curaçao, and Saint Lucia
 The evidence-based infrastructure development process used involves
 steps A-F shown in Figure 1.1 below.
 
--   [Steps A-B:]{.ul} Evidence-based infrastructure development involves
-    first evaluating current infrastructure systems, then modelling
-    future infrastructure needs via Steps A and B. Steps A and B require
-    users to input key data such as a country's population, economy,
-    available technology, and climate.
+- [Steps A-B:] Evidence-based infrastructure development involves
+  first evaluating current infrastructure systems, then modelling
+  future infrastructure needs via Steps A and B. Steps A and B require
+  users to input key data such as a country's population, economy,
+  available technology, and climate.
 
--   [Steps C-D:]{.ul} Steps C-D establish infrastructure performance
-    targets and development visions and identify alternative strategies.
-    The strategies developed are informed by policy documents,
-    development plans, and stakeholder engagement.
--   [Steps E-F:]{.ul} Steps E-F conduct and illustrate strategy analyses
-    based on target performance and make recommendations for
-    implementation.
+- [Steps C-D:] Steps C-D establish infrastructure performance
+  targets and development visions and identify alternative strategies.
+  The strategies developed are informed by policy documents,
+  development plans, and stakeholder engagement.
+- [Steps E-F:] Steps E-F conduct and illustrate strategy analyses
+  based on target performance and make recommendations for
+  implementation.
 
-![](assets/Figure_1.1.png){width=100%}
+![](assets/Figure_1.1.png)
 
 **Figure 1.1:** Overview of the NISMOD evidence-based infrastructure
 development process [@Adshead2018]
@@ -81,7 +71,7 @@ depicted in Figures 1.1 and 1.2 involves four tabs labelled:
 3.  A. CURRENT wastewater
 4.  A. CURRENT waste
 
-![](assets/Figure_1.2.png){width=100%}
+![](assets/Figure_1.2.png)
 
 **Figure 1.2:** NISMOD excel tool layout [@Adshead2018]
 
@@ -97,7 +87,7 @@ reflect countries' policies and investment plans.
 2.  Browse the tabs for Steps A-F to get familiar with the layout and
     contents of the tool.
 
-## Activity 2- Introduction to Saint Lucia application
+### Activity 2- Introduction to Saint Lucia application
 
 The NISMOD tool presented in this Hands-On is for the island of Saint
 Lucia. The tool was used as part of the joint work done by the
@@ -126,11 +116,11 @@ light pink. Cells with data originated from regional literature are
 coloured dark pink for medium confidence and cells with data based on
 global averages are coloured dark red for low data confidence.
 
-![](assets/Figure_1.3.png){width=100%}
+![](assets/Figure_1.3.png)
 
 **Figure 1.3:** Confidence levels depiction method [@Adshead2018]
 
-![](assets/Figure_1.4.png){width=100%}
+![](assets/Figure_1.4.png)
 
 **Figure 1.4:** Table in the A. CURRENT Electricity Tab showing data of
 high confidence level [@Adshead2018]
@@ -143,12 +133,12 @@ as a list of references. Figures 1.5 and 1.6 illustrate an example of
 the notes and references included. Notes are accessed by hovering over a
 cell.
 
-![](assets/Figure_1.5.png){width=100%}
+![](assets/Figure_1.5.png)
 
 **Figure 1.5:** Table in the A. CURRENT Electricity tab showing data
 source notes accessed by hovering over a cell [@Adshead2018]
 
-![](assets/Figure_1.6.png){width=100%}
+![](assets/Figure_1.6.png)
 
 **Figure 1.6:** References listed in the A. CURRENT Electricity Tab at
 the bottom on the sheet [@Adshead2018]
@@ -161,7 +151,7 @@ activities:
 2.  Note the data confidence, data source comments, and references on
     each tab.
 
-## Activity 3- Step A: Evaluating current infrastructure performance
+### Activity 3- Step A: Evaluating current infrastructure performance
 
 As previously mentioned, the first step of the evidence-based
 infrastructure development process for NISMOD involves assessing the
@@ -178,7 +168,7 @@ Critical information is collected for electricity supply, annual supply,
 peak demand, and annual demand. As an example, Figure 1.7 depicts the
 supply table in the tool.
 
-![](assets/Figure_1.7.png){width=100%}
+![](assets/Figure_1.7.png)
 
 **Figure 1.7:** Supply table in the A. CURRENT Electricity tab
 [@Adshead2018]
@@ -186,24 +176,24 @@ supply table in the tool.
 As seen in Figure 1.7, the following characteristics for each system
 component needs to be defined:
 
--   **Sector_1:** Overarching infrastructure system.
--   **Sector_2:** Sub-sector within the infrastructure system. For
-    example, in the energy sector this may be electricity or
-    transportation.
--   **Type_1:** Broad type of component in the sub-sector, such as
-    generation.
--   **Type_2:** Specific type of component in the sub-sector. For
-    instance, electricity generation may be via diesel generators,
-    nuclear reactors, natural gas, or renewable energy sources such as
-    solar, wind, hydropower, geothermal, or biomass.
--   **Other_1:** Any further details on the system's components.
--   **Unit:** Unit of the capacity recorded. For example, this may be MW
-    for peak electricity or GWh for annual supply or demand.
--   **Year:** Baseline year for the data. The Saint Lucia NISMOD used a
-    baseline of 2018 (or the latest available data).
--   **Lifetime:** Design life of the component if known.
--   **Value:** Power or energy of electricity component based on the
-    unit specified.
+- **Sector_1:** Overarching infrastructure system.
+- **Sector_2:** Sub-sector within the infrastructure system. For
+  example, in the energy sector this may be electricity or
+  transportation.
+- **Type_1:** Broad type of component in the sub-sector, such as
+  generation.
+- **Type_2:** Specific type of component in the sub-sector. For
+  instance, electricity generation may be via diesel generators,
+  nuclear reactors, natural gas, or renewable energy sources such as
+  solar, wind, hydropower, geothermal, or biomass.
+- **Other_1:** Any further details on the system's components.
+- **Unit:** Unit of the capacity recorded. For example, this may be MW
+  for peak electricity or GWh for annual supply or demand.
+- **Year:** Baseline year for the data. The Saint Lucia NISMOD used a
+  baseline of 2018 (or the latest available data).
+- **Lifetime:** Design life of the component if known.
+- **Value:** Power or energy of electricity component based on the
+  unit specified.
 
 The "%" field is calculated by the tool in each tab for Step A. It
 illustrates the percentage of total supply or demand capacity. NISMOD
@@ -220,38 +210,37 @@ and desalination plants. Aggregated supply groups the individual
 components into broader groups. As an example, Figure 1.8 illustrates
 the table for annual demand.
 
-![](assets/Figure_1.8.png){width=100%}
+![](assets/Figure_1.8.png)
 
 **Figure 1.8:** Annual demand table in the A. CURRENT water tab
 [@Adshead2018]
 
 The definitions of the fields, shown above, are as follows:
 
--   **Sector_1**[:]{.ul} Overarching infrastructure system.
--   **Type_1:** Type of system component. For the water sector this may
-    be supply infrastructure or demand.
--   **Type_2:** Specific type of component. For supply, types of
-    components include water treatment plants, raw intakes, and
-    desalination. For demand, as seen in Figure 1.8, users are to
-    specify the origin of the demand such as domestic, commercial, or
-    hotel.
+- **Sector_1**[:] Overarching infrastructure system.
+- **Type_1:** Type of system component. For the water sector this may
+  be supply infrastructure or demand.
+- **Type_2:** Specific type of component. For supply, types of
+  components include water treatment plants, raw intakes, and
+  desalination. For demand, as seen in Figure 1.8, users are to
+  specify the origin of the demand such as domestic, commercial, or
+  hotel.
 
-
--   **Other_1:** Any other details on the system component. For example,
-    for supply this would include the treatment type or process.
--   **Unit:** Unit of the capacity recorded.
--   **Year:** Baseline year for the data. The Saint Lucia NISMOD used a
-    baseline of 2018 (or the latest available data).
--   **Lifetime:** Design life of the component if known.
--   **Capacity:** Volume of water per year supplied or demanded per
-    infrastructure component based on the unit specified.
--   **Dry Season %:** For water supply infrastructure, this field
-    details the percentage of full capacity available during the dry
-    season.
--   **Cap (m3/day):** Daily capacity calculated as annual capacity
-    divided by 365.
--   **Storage (m3):** Water supply infrastructure storage volume
-    capacity.
+- **Other_1:** Any other details on the system component. For example,
+  for supply this would include the treatment type or process.
+- **Unit:** Unit of the capacity recorded.
+- **Year:** Baseline year for the data. The Saint Lucia NISMOD used a
+  baseline of 2018 (or the latest available data).
+- **Lifetime:** Design life of the component if known.
+- **Capacity:** Volume of water per year supplied or demanded per
+  infrastructure component based on the unit specified.
+- **Dry Season %:** For water supply infrastructure, this field
+  details the percentage of full capacity available during the dry
+  season.
+- **Cap (m3/day):** Daily capacity calculated as annual capacity
+  divided by 365.
+- **Storage (m3):** Water supply infrastructure storage volume
+  capacity.
 
 A. CURRENT wastewater
 
@@ -259,23 +248,23 @@ Data is gathered for the supply, peak demand, and annual demand of the
 wastewater system. The definition of the fields specific to the
 wastewater system are as follows:
 
--   **Sector_1:** Overarching infrastructure system.
--   **Type_1:** Type of system component. For the wastewater sector this
-    may be supply infrastructure or demand.
--   **Type_2:** Specific type of component. Supply types of components
-    include wastewater treatment plants, sewerage networks, septic
-    tanks, and pit latrines. Additionally, for this field, users are to
-    specify the origin of demand.
--   **Other_1:** Any other details on the system component.
--   **Unit:** Unit of the capacity recorded.
--   **Year:** Baseline year for the data. The Saint Lucia NISMOD used a
-    baseline of 2018 (or the latest available data).
--   **Lifetime:** Design life of the component if known.
--   **Treatment Value:** Volume of wastewater treated per year.
--   **Access Value:** Maximum volume of wastewater per year that can be
-    treated or handled by the infrastructure component.
--   **Population:** Number of people served by the infrastructure
-    component.
+- **Sector_1:** Overarching infrastructure system.
+- **Type_1:** Type of system component. For the wastewater sector this
+  may be supply infrastructure or demand.
+- **Type_2:** Specific type of component. Supply types of components
+  include wastewater treatment plants, sewerage networks, septic
+  tanks, and pit latrines. Additionally, for this field, users are to
+  specify the origin of demand.
+- **Other_1:** Any other details on the system component.
+- **Unit:** Unit of the capacity recorded.
+- **Year:** Baseline year for the data. The Saint Lucia NISMOD used a
+  baseline of 2018 (or the latest available data).
+- **Lifetime:** Design life of the component if known.
+- **Treatment Value:** Volume of wastewater treated per year.
+- **Access Value:** Maximum volume of wastewater per year that can be
+  treated or handled by the infrastructure component.
+- **Population:** Number of people served by the infrastructure
+  component.
 
 A. CURRENT waste
 
@@ -283,30 +272,27 @@ Similar information is collected for the solid waste system for
 disaggregated supply, aggregated supply, and annual demand. The types of
 information inputted are detailed below.
 
--   **Sector_1:** Overarching infrastructure system.
+- **Sector_1:** Overarching infrastructure system.
 
+- **Type_1:** Type of system component. For the waste sector this
+  includes landfills, recycling, treatment, and unmanaged waste for
+  supply as well as demand.
+- **Type_2:** Provides more details on the waste component. For
+  supply, this would be the specific facility while for demand this
+  field would contain the origin of the demand such as residential,
+  commercial, agricultural, and biomedical.
+- **Type_3:** Further details of the component, such as mixed or
+  separated waste for supply or for demand.
+- **Other_1:** Supply or demand component.
+- **Unit:** Unit of the capacity recorded. For Saint Lucia's waste
+  sector, the units used were either tonnes or tonnes per year.
+- **Year:** Baseline year for the data. The Saint Lucia NISMOD used a
+  baseline of 2018 (or the latest available data).
 
--   **Type_1:** Type of system component. For the waste sector this
-    includes landfills, recycling, treatment, and unmanaged waste for
-    supply as well as demand.
--   **Type_2:** Provides more details on the waste component. For
-    supply, this would be the specific facility while for demand this
-    field would contain the origin of the demand such as residential,
-    commercial, agricultural, and biomedical.
--   **Type_3:** Further details of the component, such as mixed or
-    separated waste for supply or for demand.
--   **Other_1:** Supply or demand component.
--   **Unit:** Unit of the capacity recorded. For Saint Lucia's waste
-    sector, the units used were either tonnes or tonnes per year.
--   **Year:** Baseline year for the data. The Saint Lucia NISMOD used a
-    baseline of 2018 (or the latest available data).
+- **Lifetime:** Design life of the component if known.
 
-
--   **Lifetime:** Design life of the component if known.
-
-
--   **Value:** Weight of waste supplied for treatment or disposal or
-    demanded per infrastructure component based on the unit specified.
+- **Value:** Weight of waste supplied for treatment or disposal or
+  demanded per infrastructure component based on the unit specified.
 
 **Try It:** Become familiar with Step A tabs.
 
@@ -315,7 +301,7 @@ information inputted are detailed below.
 2.  Match the overview provided above to each tab and note the
     percentage and summation calculations done by the tool.
 
-## Activity 4 -- Insert your own data
+### Activity 4 -- Insert your own data
 
 **Try It:** Research and update the demand characteristics of the
 electricity system with 2019 data as the tool currently has 2018 data.
@@ -328,7 +314,7 @@ electricity system with 2019 data as the tool currently has 2018 data.
     (including hotels), Industrial, Street Lighting, Power Station and
     Office Use, and Losses as shown in Figure 1.9 below.
 
-![](assets/Figure_1.9.png){width=100%}
+![](assets/Figure_1.9.png)
 
 **Figure 1.9:** Extract from the LUCELEC Operating Statistics 2010-2019
 [@LUCELEC2020]
@@ -348,21 +334,23 @@ electricity system with 2019 data as the tool currently has 2018 data.
     tool as the information inputted is from a national document.
 
                  **Capacity**
-  -------------- -------------- ------------ ------------------------------ ------------- ---------- ---------- -------------- ----------- -------
-  **Sector_1**   **Sector_2**   **Type_1**   **Type_2**                     **Other_1**   **Unit**   **Year**   **Lifetime**   **Value**   **%**
-  energy         electricity    demand       Losses                         \-            GWh        2019       \-             26.7        7%
-  energy         electricity    demand       Domestic                       \-            GWh        2019       \-             130.2       32%
-  energy         electricity    demand       Commercial                     \-            GWh        2019       \-             168.1       41%
-  energy         electricity    demand       Hotels                         \-            GWh        2019       \-             42.0        10%
-  energy         electricity    demand       Industry                       \-            GWh        2019       \-             18.3        4%
-  energy         electricity    demand       Street Lighting                \-            GWh        2019       \-             10.3        3%
-  energy         electricity    demand       Power station and Office Use   \-            GWh        2019       \-             12.3        3%
-                                             **Total**                      **demand**    **GWh**    **2019**   \-             407.9       \-
+
+---
+
+**Sector_1** **Sector_2** **Type_1** **Type_2** **Other_1** **Unit** **Year** **Lifetime** **Value** **%**
+energy electricity demand Losses \- GWh 2019 \- 26.7 7%
+energy electricity demand Domestic \- GWh 2019 \- 130.2 32%
+energy electricity demand Commercial \- GWh 2019 \- 168.1 41%
+energy electricity demand Hotels \- GWh 2019 \- 42.0 10%
+energy electricity demand Industry \- GWh 2019 \- 18.3 4%
+energy electricity demand Street Lighting \- GWh 2019 \- 10.3 3%
+energy electricity demand Power station and Office Use \- GWh 2019 \- 12.3 3%
+**Total** **demand** **GWh** **2019** \- 407.9 \-
 
 **Table 1.1:** Table showing results of updated annual demand table for
 A. CURRENT electricity [@Adshead2018]
 
-## Summary
+### Summary
 
 This hands-on introduced the NISMOD tool, specifically applied to the
 Saint Lucia case study. The various activities walked you through the
@@ -372,4 +360,4 @@ activities you should be familiar with the layout of Steps A-F of the
 NISMOD tool, understand the data needed for Step A, and be able to input
 or update Step A infrastructure data.
 
-## Bibliography
+### Bibliography

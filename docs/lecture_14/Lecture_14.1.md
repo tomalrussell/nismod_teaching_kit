@@ -1,26 +1,18 @@
----
-title: Mini-Lecture 14.1 - Actions for enhancing resilience
-keywords:
--   Interventions
--   Resilience
--   Disaster risk reduction
-authors:
--   Jasper Verschuur
----
+# Mini-Lecture 14.1 - Actions for enhancing resilience
 
 In this lecture we will discuss the various ways in which resilience can
 be improved through the use of targeted interventions. A distinction
 between the type of interventions and their ability to reduce risk will
 be discussed. In addition, we introduce ways to reduce systemic risk.
 
-# Learning objectives
+Learning objectives
 
--   Compare and contrast different types of interventions to improve
-    resilience
--   Identify how interventions can reduce risk in different ways
--   Describe how to improve the resilience of infrastructure networks.
+- Compare and contrast different types of interventions to improve
+  resilience
+- Identify how interventions can reduce risk in different ways
+- Describe how to improve the resilience of infrastructure networks.
 
-# Introduction
+## Introduction
 
 In the previous lectures, it was shown that risk is increasing over time
 and will likely increase in the future due to the combined effect of
@@ -55,13 +47,13 @@ post-disaster support to reduce hazard risk. Examples are building
 codes, land-use planning, public awareness and emergency preparedness
 programmes and insurance.
 
-![](assets/Figure_14.1.1.png){width=100%}
+![](assets/Figure_14.1.1.png)
 
 **Figure 14.1.1:** An example of a hybrid solution in which mangrove
 reforestation in front of embankments can allow reduced embankment
 height [@Jongman2018]
 
-# Risk cascade
+## Risk cascade
 
 In practice, interventions are not implemented in isolation. Often a
 portfolio of structural and non-structural interventions is designed,
@@ -71,7 +63,7 @@ complement each other can be easily demonstrated through the so-called
 reduce risk, either at the source, the pathways of impact, or the
 receptor.
 
-![](assets/Figure_14.1.2.jpg){width=100%}
+![](assets/Figure_14.1.2.jpg)
 
 **Figure 14.1.2:** The risk cascade for flood risk management
 [@APFM2020]. Interventions that reduce the hazards, such as wetland
@@ -91,7 +83,7 @@ because there is a lack of awareness and preparedness for such an event.
 A well-designed portfolio of risk and resilience measures therefore
 combines interventions from different cascades.
 
-# Risk layering
+## Risk layering
 
 The balance between different interventions within a portfolio depends
 on the local risk setting. A good way to look at this is through the
@@ -123,7 +115,7 @@ insurance in order to avoid overwhelming the financial coping capacity
 of governments. Hence, stress-testing exercises are extremely helpful to
 understand system response to different risk layers.
 
-![](assets/Figure_14.1.3.png){width=100%}
+![](assets/Figure_14.1.3.png)
 
 **Figure 14.1.3:** The risk layering concept with the return period on
 the left and the balance of risk reduction and risk financing in the
@@ -131,7 +123,7 @@ middle. It emphasises that different risk and resilience strategies need
 to be targeted for different types of events [adapted from
 @Mechler2014].
 
-# Improving network resilience: Theory
+## Improving network resilience: Theory
 
 The unique nature of infrastructure systems means that a single node
 failure has the potential to cause far-reaching systemic impacts. The
@@ -143,15 +135,15 @@ systemic risk by reducing the potential adverse cascading effects of
 infrastructure failure. Examples of such network-wide interventions to
 improve resilience are, for instance:
 
--   Incorporating backup options to mitigate disruptions of services
+- Incorporating backup options to mitigate disruptions of services
 
--   Network restructuring
+- Network restructuring
 
--   Increasing network redundancy and rerouting options (e.g. for
-    transport systems)
+- Increasing network redundancy and rerouting options (e.g. for
+  transport systems)
 
--   Speeding up the recovery of damaged assets to bring back the network
-    to a normal level of service.
+- Speeding up the recovery of damaged assets to bring back the network
+  to a normal level of service.
 
 Hence, for infrastructure systems, the portfolio is a balanced mix of
 both asset-level interventions and network-wide interventions, with the
@@ -169,13 +161,13 @@ components are more easily affected. Therefore, a balance of redundancy
 and the risk of transmission is important to consider when improving
 network resilience.
 
-![](assets/Figure_14.1.4.png){width=100%}
+![](assets/Figure_14.1.4.png)
 
 **Figure 14.1.4:** An example of network restructuring from a
 centralised network towards a decentralised network
 [@Hochrainer-Stigler2020]
 
-# Improving network resilience in practice
+## Improving network resilience in practice
 
 Improving the network resilience of real-world infrastructure systems is
 often more difficult. This is because:
@@ -210,14 +202,14 @@ network resilience. However, given that infrastructure networks are
 country- and site-specific, care should be taken when extrapolating
 these results to other systems.
 
-![](assets/Figure_14.1.5.png){width=100%}
+![](assets/Figure_14.1.5.png)
 
 **Figure 14.1.5:** The avoided number of users that are disrupted by
 electricity failure; illustrating the difference between a scenario with
 backup generators to a scenario without in the United Kingdom
 [@Pant2020]
 
-# Summary
+## Summary
 
 In this lecture, we summarised the different types of interventions to
 improve both asset and network resilience. We discussed how different

@@ -1,26 +1,17 @@
----
-title: Mini-Lecture 16.3 - Nature-based solutions for erosion and landslide control
-keywords:
--   Nature-based solutions
--   Natural erosion control
--   Natural landslide control
-authors:
--   Amelie Paszkowski
-
----
+# Mini-Lecture 16.3 - Nature-based solutions for erosion and landslide control
 
 This mini-lecture provides an overview of how nature-based solutions can
 be used for erosion and landslides control. Case studies are presented
 to show some of these solutions in practice.
 
-# Learning objectives
+Learning objectives
 
--   Obtain a portfolio of nature-based solutions for both erosion and
-    landslide mitigation
--   Appreciate the value of nature-based solutions in addressing the
-    hazards of erosion and landslides.
+- Obtain a portfolio of nature-based solutions for both erosion and
+  landslide mitigation
+- Appreciate the value of nature-based solutions in addressing the
+  hazards of erosion and landslides.
 
-# Introduction
+## Introduction
 
 Climate change is anticipated to make extreme events more common.
 Intense precipitation events can lead to soil erosion and landslides
@@ -51,7 +42,7 @@ will assess nature-based solutions for erosion control with an example
 in Bangladesh, and then for landslide management with a case study in
 Nepal.
 
-# Nature-based solutions for erosion control
+## Nature-based solutions for erosion control
 
 Climate-related erosion occurs predominantly near waterbodies, as the
 force of water or waves exert pressures on unstable soils. A clear
@@ -66,88 +57,87 @@ coastal environments.
 erosion [@Kapos2019]
 
 +----------------+----------------+----------------+----------------+
-| **Erosion      | **Hard         | **Nature-based | **             |
-| type **        | Engineering    | solutions **   | Co-benefits ** |
-|                | options **     |                |                |
+| **Erosion | **Hard | **Nature-based | ** |
+| type ** | Engineering | solutions ** | Co-benefits ** |
+| | options ** | | |
 +================+================+================+================+
-| **Riverine**   | -   River      | -   Riparian   | -   Reduced    |
-|                |     walls      |     buffers-   |     fluvial    |
-|                |                |     vegetate   |     flood risk |
-|                | -   Concrete   |     riverbanks |                |
-|                |     river      |     to         | -   Improved   |
-|                |    embankments |     stabilise  |     water      |
-|                |                |     the soils  |     quality    |
-|                |                |     from       |     through    |
-|                | -   Riverine   |     erosion    |     natural    |
-|                |     groynes    |                |  filtration    |
-|                |                | -              |                |
-|                | -   Sandbags   |   Agroforestry |                |
-|                |     (not truly |     and/or     | -   Carbon     |
-|                |     hard       |  "conservation |  sequestration |
-|                |   engineering) |   agriculture" |     and        |
-|                |                |     within     |     storage    |
-|                |                |     watershed  |                |
-|                |                |     -- enhance |                |
-|                |                |     canopy     | -              |
-|                |                |   interception |    Pollination |
-|                |                |     of         |     services   |
-|                |                |     rainfall   | -              |
-|                |                |     reducing   |   Biodiversity |
-|                |                |     soil       |                |
-|                |                |     exposure   |   conservation |
-|                |                |     and        |                |
-|                |                |     erosion    |                |
+| **Riverine** | - River | - Riparian | - Reduced |
+| | walls | buffers- | fluvial |
+| | | vegetate | flood risk |
+| | - Concrete | riverbanks | |
+| | river | to | - Improved |
+| | embankments | stabilise | water |
+| | | the soils | quality |
+| | | from | through |
+| | - Riverine | erosion | natural |
+| | groynes | | filtration  |
+| | | - | |
+| | - Sandbags | Agroforestry | |
+| | (not truly | and/or | - Carbon |
+| | hard | "conservation | sequestration |
+| | engineering) | agriculture" | and |
+| | | within | storage  |
+| | | watershed | |
+| | | -- enhance | |
+| | | canopy | - |
+| | | interception | Pollination |
+| | | of | services  |
+| | | rainfall | - |
+| | | reducing | Biodiversity |
+| | | soil | |
+| | | exposure | conservation |
+| | | and | |
+| | | erosion | |
 +----------------+----------------+----------------+----------------+
-| **Coastal /    | -   Coastal    | -   Mangrove   | -   Reduced    |
-|   Tidal **     |     dykes and  |     protection |     coastal    |
-|                |     levees     |     and        |     flood risk |
-|                | -   Sea walls  |    restoration | -   Improved   |
-|                |                |     to anchor  |     fish       |
-|                | -   Temporary  |     sediments  |     stocks     |
-|                |     storm      |     and        |                |
-|                |     barriers   |     dissipate  | -              |
-|                |                |    wave energy |   Biodiversity |
-|                | - Breakwaters  |                |  conservation  |
-|                |                | -   Coastal    |                |
-|                |                |     marsh and  | -   Carbon     |
-|                |                |     dune       |  sequestration |
-|                |                |     management |     and        |
-|                |                |     and        |     storage    |
-|                |                |    restoration |                |
-|                |                |     to         |                |
-|                |                |     dissipate  | -   Tourism    |
-|                |                |   wave energy  |     and        |
-|                |                |                |    recreation  |
-|                |                | -   Coral      |                |
-|                |                |    reef and/or |                |
-|                |                |     oyster     |                |
-|                |                |     reef       |                |
-|                |                |    restoration |                |
-|                |                |     and        |                |
-|                |                |     management |                |
-|                |                |     to         |                |
-|                |                |     attenuate  |                |
-|                |                |     wave       |                |
-|                |                |     energy     |                |
-|                |                |                |                |
-|                |                | -   Sea        |                |
-|                |                |     grass --   |                |
-|                |                |     stabilises |                |
-|                |                |     sediment   |                |
-|                |                |  and regulates |                |
-|                |                |     water      |                |
-|                |                |     currents   |                |
-|                |                |     that       |                |
-|                |                |     contribute |                |
-|                |                |     to coastal |                |
-|                |                |     erosion    |                |
+| **Coastal / | - Coastal | - Mangrove | - Reduced |
+| Tidal ** | dykes and | protection | coastal |
+| | levees  | and | flood risk |
+| | - Sea walls  | restoration | - Improved |
+| | | to anchor | fish |
+| | - Temporary | sediments | stocks  |
+| | storm | and | |
+| | barriers  | dissipate | - |
+| | | wave energy | Biodiversity |
+| | - Breakwaters  | | conservation  |
+| | | - Coastal | |
+| | | marsh and | - Carbon |
+| | | dune | sequestration |
+| | | management | and |
+| | | and | storage  |
+| | | restoration | |
+| | | to | |
+| | | dissipate | - Tourism |
+| | | wave energy | and |
+| | |   | recreation  |
+| | | - Coral | |
+| | | reef and/or | |
+| | | oyster | |
+| | | reef | |
+| | |  restoration | |
+| | | and | |
+| | | management | |
+| | | to | |
+| | | attenuate | |
+| | | wave | |
+| | | energy  | |
+| | | | |
+| | | - Sea | |
+| | | grass -- | |
+| | | stabilises | |
+| | | sediment | |
+| | | and regulates | |
+| | | water | |
+| | | currents | |
+| | | that | |
+| | | contribute | |
+| | | to coastal | |
+| | | erosion  | |
 +----------------+----------------+----------------+----------------+
-
 
 As evident from the table, vegetating river catchments, particularly along the riverbanks, can stabilise the soil and reduce the risk to erosion. This vegetation also acts as cover for soil, reducing its exposure to surface soil erosion. In coastal areas, measures are centred around reducing the wave energy reaching the coastline. Mangroves are the most well-known nature-based solution for coastal protection from erosion; however, in areas where mangroves are not native, such as the UK for instance, sea grass has played a key role in regulating water currents and stabilising sediments, reducing the rates of erosion observed.
 We will now show how nature-based solutions have been used in addressing the erosion challenges faced in Bangladesh.
 
-# Case study of nature-based solutions for erosion control: Bangladesh
+## Case study of nature-based solutions for erosion control: Bangladesh
 
 Bangladesh is a nation of rivers. It is home to the
 Ganges-Brahmaputra-Meghna (GBM) delta, with over 700 tributaries and
@@ -166,24 +156,24 @@ nature of these vast river systems. Instead, a mosaic of nature-based
 solutions in different local areas along riverbanks and coastal regions
 have shown to be effective with erosion management:
 
--   Planting vetiver grass *(Chrysopogon zizanoides)* to protect the
-    surface of existing earthen embankments from erosion [@Zaman2016]
+- Planting vetiver grass _(Chrysopogon zizanoides)_ to protect the
+  surface of existing earthen embankments from erosion [@Zaman2016]
 
--   Encouraging farmers to leave a few centimetres of stem from their
-    crops during harvest in order to trap suspended sediments and
-    prevent soil erosion [@Khalequzzaman1994]
+- Encouraging farmers to leave a few centimetres of stem from their
+  crops during harvest in order to trap suspended sediments and
+  prevent soil erosion [@Khalequzzaman1994]
 
--   Breaching of existing embankments (locally termed Tidal River
-    Management) in order to re-establish the natural sedimentation
-    patterns between river and floodplain and reduce the scouring on
-    existing erosion and flood infrastructure.
+- Breaching of existing embankments (locally termed Tidal River
+  Management) in order to re-establish the natural sedimentation
+  patterns between river and floodplain and reduce the scouring on
+  existing erosion and flood infrastructure.
 
 In this complex and dynamic environment, one solution will not solve the
 issue of erosion, but rather a combination of localised mitigation
 measures, and strong collaboration between decision-makers, researchers,
 engineers, local authorities and local communities.
 
-# Nature-based solutions for landslides
+## Nature-based solutions for landslides
 
 Similar to nature-based solutions for erosion, vegetation can be used to
 stabilise slopes that are prone to landslides. Thick roots act like
@@ -209,7 +199,7 @@ and slumping of earth materials [@ADPC2020].
 We will now show the use of nature-based solutions for landslide
 mitigation in Nepal.
 
-# Case study of nature-based solutions for landslides: Nepal
+## Case study of nature-based solutions for landslides: Nepal
 
 Nepal is located in a region of heavy precipitation (monsoon
 seasonality) and frequent earthquakes. This makes the country one of the
@@ -228,25 +218,25 @@ netting together with seedlings, bamboo fencing and vegetated stone
 pitching [@IUCN2014]. Typically, a drainage canal, similar to
 bioswales, is also built alongside roads to capture some of the excess
 runoff during heavy rainfall events and direct it to agricultural fields
-[@IUCN2021]. In particular, an indigenous plant called *Amriso* (also
+[@IUCN2021]. In particular, an indigenous plant called _Amriso_ (also
 known as broom grass) has been widely used to stabilise slopes in rural
 Nepal (Figure 16.3.1). This is a tall and fast-growing plant that has a
 weblike network of roots, capturing the soil and holding it together
 [@IUCN2021]. Moreover, the plant also provides leaves for good fodder
 and stems for fuel and is used to make sweeping brooms [@WWF2013].
-The implementation of *Amriso* has caused a noticeable reduction in mud-
+The implementation of _Amriso_ has caused a noticeable reduction in mud-
 and landslides across rural Nepal [@IUCN2021].
 
 The successes of slope stabilisation in Nepal are also linked with
 strong involvement of communities in establishing and maintaining these
 natural measures of soil stabilisation [@IUCN2021].
 
-![](assets/Figure_16.3.1.jpg){width=100%}
+![](assets/Figure_16.3.1.jpg)
 
-**Figure 16.3.1:** Local communities planting *Amriso* along unstable
+**Figure 16.3.1:** Local communities planting _Amriso_ along unstable
 steep slopes [@WWF2013]
 
-# Summary
+## Summary
 
 This mini-lecture provided an overview of the challenges faced with
 erosion and landslides and how nature-based solutions can provide

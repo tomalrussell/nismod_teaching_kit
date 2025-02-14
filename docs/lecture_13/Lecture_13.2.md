@@ -1,11 +1,4 @@
----
-title: Mini-Lecture 13.2 - Projecting future infrastructure networks
-keywords:
--   Future infrastructure
--   Infrastructure risk
-authors:
--   Jasper Verschuur
----
+# Mini-Lecture 13.2 - Projecting future infrastructure networks
 
 In this lecture, we will look at the different ways to predict future
 infrastructure developments, including the spatial patterns of
@@ -13,16 +6,16 @@ development. Using a number of case studies, we showcase how combined
 climate and infrastructure scenarios can inform future risk and
 demonstrate the need to embed resilience into development projects.
 
-# Learning objectives
+Learning objectives
 
--   Recognise the different ways of projecting future infrastructure
-    developments
--   Gain insight into future risks of infrastructure disruptions due to
-    infrastructure development
--   Acknowledge the need to incorporate resilience into future
-    infrastructure projects.
+- Recognise the different ways of projecting future infrastructure
+  developments
+- Gain insight into future risks of infrastructure disruptions due to
+  infrastructure development
+- Acknowledge the need to incorporate resilience into future
+  infrastructure projects.
 
-# Introduction
+## Introduction
 
 In this lecture, we will discuss several ways to predict future
 infrastructure needs, both in terms of expansion of existing
@@ -44,24 +37,24 @@ future hazard information to understand the changes in exposure and risk
 of asset damages, and the changes in the disruption of infrastructure
 services to society. We will consider four cases:
 
--   Future dam development and its exposure to droughts
--   Future port development and the need for adaptation as a result of sea-level rise
--   Prediction of future spatial changes in road development
--   Prediction of future transport networks and their implications for
-    infrastructure disruptions.
+- Future dam development and its exposure to droughts
+- Future port development and the need for adaptation as a result of sea-level rise
+- Prediction of future spatial changes in road development
+- Prediction of future transport networks and their implications for
+  infrastructure disruptions.
 
-# Future dam development
+## Future dam development
 
 Very large infrastructure projects often need years to plan and execute. Therefore, for the near future (next 10-20 years), databases of planned projects often exist or can be assembled.
 The construction of hydropower dams is a good example of this. Hydropower is a renewable energy resource and constitutes 80% of the global renewable energy production. At the same time, only 22% of the world’s technologically feasible hydropower potential is exploited [@Zarfl2015].
 @Zarfl2015 constructed a database of all planned and currently-under-construction hydropower dams from a large variety of sources. This database provides an initial estimate of the future hotspots in hydropower development. All current-build and planned projects are included in Figure 13.2.1. One can see a large number of planned dams in South America, the Himalayas, the Mekong Basin, Turkey and the Balkan region. Most ongoing projects are happening in Asia, in particular China. In total, these 3,700 hydropower dams (>1 MW) will double the global hydropower capacity in the next 10-20 years.
 These hydropower projects can be overlaid with hazard information to derive insights into whether developments are happening in hazard-prone areas or not. For instance, @Conway2017 evaluated hydropower supply disruptions of current and future dam projects in eastern and southern Africa, showing that dam development is taking place in areas prone to simultaneous drought conditions. Performing such risk analysis will help understand the risk of future service disruptions and identify potential mitigation strategies.
 
-![](assets/Figure_13.2.1.png){width=100%}
+![](assets/Figure_13.2.1.png)
 
 **Figure 13.2.1:** The location of dams currently under construction and planned [@Zarfl2015]
 
-# Future port development
+## Future port development
 
 For longer term time scales (2050-2100), the need for additional
 infrastructure is often based on scenarios. For instance, demand for
@@ -90,13 +83,13 @@ However, for 2100, the adaptation costs are becoming much higher for the
 unmitigated scenario, although are still small relative to the
 construction costs.
 
-![](assets/Figure_13.2.2.png){width=100%}
+![](assets/Figure_13.2.2.png)
 
 **Figure 13.2.2:** The percentage change in port areas between 2010 and
 2050 for two scenarios (GR - mitigated; HR - unmitigated)
 [@Hanson2020]
 
-# Spatial developments of global roads
+## Spatial developments of global roads
 
 In the previous section, we saw that projections of future
 infrastructure can vary considerably from country to country. However,
@@ -125,12 +118,12 @@ new road development will take place along the coast (e.g. China and
 Japan), and hence it is important to factor in increasing risk from
 climate change for these road development projects.
 
-![](assets/Figure_13.2.3.png){width=100%}
+![](assets/Figure_13.2.3.png)
 
 **Figure 13.2.3:** The change in future road density per grid cell for
 2050 (compared to 2010) under the SSP4 scenario
 
-# Future infrastructure risk
+## Future infrastructure risk
 
 These future scenarios can also help to understand the future use of
 infrastructure and the changes in risk if infrastructure is disrupted.
@@ -158,13 +151,13 @@ of disruptions, or additional mitigation measures need to be taken, such
 as rerouting options or fast recovery and repair of affected
 infrastructure.
 
-![](assets/Figure_13.2.4.png){width=100%}
+![](assets/Figure_13.2.4.png)
 
 **Figure 13.2.4:** Changes in future road use as a result of economic
 growth and infrastructure upgrades for 2030 (right) relative to 2016
 (left) [@Pant2018]
 
-# Summary
+## Summary
 
 In this lecture we have discussed the different ways future
 socio-economic scenarios can inform projections of infrastructure needs.

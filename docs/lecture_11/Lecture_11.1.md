@@ -1,11 +1,4 @@
----
-title: Mini-Lecture 11.1 - Introduction to calculating damage and disruption
-keywords:
--   Direct and indirect damages
--   Infrastructure service disruptions
-authors:
--   Olivia Becher
----
+# Mini-Lecture 11.1 - Introduction to calculating damage and disruption
 
 This mini-lecture provides an overview of the full range of impacts of
 infrastructure disruptions. First, the difference between direct and
@@ -13,15 +6,15 @@ indirect consequences of infrastructure disruption is discussed,
 followed by the potential impacts of infrastructure disruptions to
 people and the economy.
 
-# Learning objectives
+Learning objectives
 
--   To recognise that infrastructure failures may propagate to affect
-    other infrastructure assets, dependent populations and the economy
--   To recognise the importance of considering the indirect impacts of
-    infrastructure failures, as well as disruptions to people and the
-    economy, for risk analysis.
+- To recognise that infrastructure failures may propagate to affect
+  other infrastructure assets, dependent populations and the economy
+- To recognise the importance of considering the indirect impacts of
+  infrastructure failures, as well as disruptions to people and the
+  economy, for risk analysis.
 
-# Introduction
+## Introduction
 
 Infrastructure is vulnerable to climate hazards such as flooding.
 Depending on the severity of the hazard and the vulnerability of an
@@ -30,11 +23,11 @@ So far, only direct damages to infrastructure have been discussed in
 depth, in Lecture 10.
 
 This lecture will explore the full range of disruptions, including a
-recap on direct damage assessment in the following sub-section (*Direct
-damages - recap*), followed by an overview of cascading impacts to other
-infrastructure systems (*Indirect damages*), dependent populations
-(*Disruptions to people*) and economic activities (*Disruptions to the
-economy*).
+recap on direct damage assessment in the following sub-section (_Direct
+damages - recap_), followed by an overview of cascading impacts to other
+infrastructure systems (_Indirect damages_), dependent populations
+(_Disruptions to people_) and economic activities (_Disruptions to the
+economy_).
 
 Figure 11.1.1 provides an overview of the multiple potential impacts of
 flood-induced infrastructure failure. Boxes are affected by flooding in
@@ -53,7 +46,7 @@ demonstrating the importance of accounting for the full range of
 consequences of asset failure when quantifying impacts to populations
 and businesses.
 
-![](assets/Figure_11.1.1.png){width=100%}
+![](assets/Figure_11.1.1.png)
 
 **Figure 11.1.1:** Illustration of the range of types of impact of flood
 damages, including direct impacts and indirect impacts to assets that
@@ -64,7 +57,7 @@ The following sections will introduce the key concepts that are
 important for understanding the full range of disruptions caused by
 infrastructure failures.
 
-# Direct damages - recap
+## Direct damages - recap
 
 Direct damage to infrastructure is defined as the physical stock damaged
 during an extreme event, such as flooding. Different infrastructures
@@ -81,7 +74,7 @@ costs.
 Figure 11.1.2 below shows the relationship between load (e.g., flood
 depth) and economic damages [@Lamb2010].
 
-![](assets/Figure_11.1.2.jpg){width=100%}
+![](assets/Figure_11.1.2.jpg)
 
 **Figure 11.1.2:** Schematic showing the relationship between a given
 load and economic damages, a distribution of potential economic damages
@@ -96,7 +89,7 @@ form a basis for decision-making. However, this calculation does not
 account for the indirect impacts of infrastructure assets on other
 infrastructure systems.
 
-# Indirect damages
+## Indirect damages
 
 Infrastructure systems are interconnected, and can thus be
 conceptualised as a system of interconnected systems, or a
@@ -114,14 +107,14 @@ be felt at the electricity substation, but also at the dependent water
 supply infrastructure.
 
 These second-order impacts of infrastructure failures on the operations
-of other infrastructure systems are known as *indirect* damages in order
-to distinguish from the previously discussed *direct* damages.
+of other infrastructure systems are known as _indirect_ damages in order
+to distinguish from the previously discussed _direct_ damages.
 
 Indirect damages may significantly contribute to the overall damages
 incurred during an extreme event, and may even outweigh the direct
 damages incurred. This will be discussed further in mini-lecture 11.2.
 
-# Disruptions to people
+## Disruptions to people
 
 Society is dependent on the basic services provided by infrastructure
 systems such as electricity, water and transport. The criticality of
@@ -147,14 +140,14 @@ which are connected directly to the customers to deliver the resources
 generated at the source nodes. Quantifying the extent of infrastructure
 disruptions to people will be discussed in depth in mini-lecture 11.3.
 
-![](assets/Figure_11.1.3.jpg){width=100%}
+![](assets/Figure_11.1.3.jpg)
 
 **Figure 11.1.3:** Illustration of how a hazard goes on to affect
 dependent populations and how the complex relationship between
 infrastructure assets will determine the extent of a disruption
 [@Pant2018]
 
-# Disruptions to the economy
+## Disruptions to the economy
 
 Various economic activities are also affected by disruptions to
 infrastructure services.
@@ -174,7 +167,7 @@ The wider economic impacts of infrastructure disruptions are important
 to understand for decision-making. This will be discussed in
 mini-lecture 11.4.
 
-# Summary
+## Summary
 
 The mini-lecture provided an overview of the multiple outcomes of
 infrastructure failures on other infrastructure assets, to dependent

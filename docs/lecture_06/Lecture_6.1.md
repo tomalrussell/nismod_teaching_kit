@@ -1,12 +1,4 @@
----
-title: Mini-Lecture 6.1 - An introduction to infrastructure strategies
-keywords:
--   Strategic alternatives
--   Infrastructure strategy
--   Sustainable Infrastructure Vision
-authors:
--   Lena Fuldauer
----
+# Mini-Lecture 6.1 - An introduction to infrastructure strategies
 
 This mini-lecture introduces the concept of future infrastructure
 strategies, lists examples of real-world strategies for different
@@ -14,14 +6,14 @@ sectors, as well as cross-sectoral strategies, and describes how
 attribute information can be added to different strategies to enable
 their comparison.
 
-# Learning objectives
+Learning objectives
 
--   Describe what infrastructure strategies are
--   Provide real world examples of infrastructure strategies for more
-    than two sectors
--   Recall how to add attribute information to each strategy.
+- Describe what infrastructure strategies are
+- Provide real world examples of infrastructure strategies for more
+  than two sectors
+- Recall how to add attribute information to each strategy.
 
-# What are infrastructure strategies?
+## What are infrastructure strategies?
 
 This mini-lecture will introduce:
 
@@ -51,7 +43,7 @@ necessary to achieve certain sustainability or climate targets. Taken
 together, these interventions form 'strategies', and in essence are a
 set of future investment plans.
 
-# Importance of strategic planning for infrastructure systems
+## Importance of strategic planning for infrastructure systems
 
 Strategic planning of infrastructure for sustainable development is a
 grand challenge. To date, most infrastructure development projects have
@@ -84,7 +76,7 @@ monitoring of strategies [@Sachs2019]. Ideally, the process of
 infrastructure strategy planning and visioning can itself contribute to
 sustainable development [@Fuldauer2019].
 
-# Real-world infrastructure strategies in practice
+## Real-world infrastructure strategies in practice
 
 Example strategies might include a development-aligned strategy, which
 includes ambitious investments to meet certain SDG, climate-, or other
@@ -114,7 +106,7 @@ recycling infrastructure. These two different strategies are compared to
 an 'inaction' strategy, which assumes no further investment in waste
 management [@Fuldauer2019] (see Figure 6.1.1).
 
-![](assets/Figure_6.1.1.png){width=100%}
+![](assets/Figure_6.1.1.png)
 
 **Figure 6.1.1:** Waste infrastructure strategies in
 Curaçao, by waste treated [@Fuldauer2019].
@@ -124,14 +116,14 @@ wastewater) include a 'national sustainability strategy', a
 'business-as-usual\' and an 'inaction' strategy [@Adshead2021], which
 are made up of different interventions (see Figure 6.1.2).
 
-![](assets/Figure_6.1.2.png){width=100%}
+![](assets/Figure_6.1.2.png)
 
 **Figure 6.1.2:** Comparison of infrastructure strategy portfolios for
 current/inaction, business‐as‐usual, and national sustainability
 strategy for (a) electricity (b) water supply (c) wastewater and (d)
 solid waste [@Adshead2021].
 
-# Strategy attributes to enable comparison
+## Strategy attributes to enable comparison
 
 Each intervention under each strategy, whether a sector-specific or
 cross-sectoral one, must be assigned certain attributes to enable
@@ -143,13 +135,13 @@ example, cost attributes, capacity margin attributes, or annual
 emissions (see Figure 6.1.3 for an example of a comparison of emissions
 across strategies).
 
-![](assets/Figure_6.1.3.png){width=100%}
+![](assets/Figure_6.1.3.png)
 
 **Figure 6.1.3:** Emissions by sector compared to a 2010 baseline,
 showing a business‐as‐usual case, and reductions attributed to emissions
 targets modelled in the electricity and waste sectors [@Adshead2021].
 
-# Conclusion
+## Conclusion
 
 In this lecture, we identified that meeting global or national targets
 requires strategic planning of new investments and interventions. To

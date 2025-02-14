@@ -1,30 +1,22 @@
----
-title: Mini-Lecture 6.2 -- Methods to develop infrastructure strategies
-keywords:
--   Infrastructure strategy development
--   Participatory methods
--   Content analysis
-authors:
--   Lena Fuldauer
----
+# Mini-Lecture 6.2 -- Methods to develop infrastructure strategies
 
 This mini-lecture introduces different methods to develop infrastructure
 strategies and outlines each method in more detail. These include:
 
--   Participatory methods and co-creating infrastructure strategies
-    together with stakeholders
--   Content analysis which involves reviewing published documents on
-    confirmed, proposed or potential options
--   Hybrid methods.
+- Participatory methods and co-creating infrastructure strategies
+  together with stakeholders
+- Content analysis which involves reviewing published documents on
+  confirmed, proposed or potential options
+- Hybrid methods.
 
-# Learning objectives
+Learning objectives
 
--   Provide examples of different methods to develop infrastructure
-    strategies
--   Describe the differences between foresight, backcasting methods and
-    content analyses.
+- Provide examples of different methods to develop infrastructure
+  strategies
+- Describe the differences between foresight, backcasting methods and
+  content analyses.
 
-# An overview of methods to develop infrastructure strategies
+## An overview of methods to develop infrastructure strategies
 
 A traditional means by which to assess and plan for the future is
 scenario planning.
@@ -61,16 +53,16 @@ strategic backcasting, or (3) content analysis to generate
 infrastructure strategies, and finally (4) reflect on using hybrid
 methods.
 
-# Foresight methods
+## Foresight methods
 
 Foresight methods, such as Delphi methods, were first developed in the 1950s, and seek agreement on future trends from a wide range of experts [@Gordon1964]. These experts respond to sets of questions, review answers and revise their views in an iterative fashion. Answers are then presented anonymously to reduce the subjectivity of more influential group members [@Lempert2009].
 Delphi methods can be used to generate infrastructure strategies, by inviting leaders from different sectors, including government, business, science, technology or academia, to come together in workshops or focus groups to exchange views on future developments and decide on certain interventions [@Georghiou2008]. Consensus is typically the main objective in most foresight methods.
 
-![](assets/Figure_6.2.1.png){width=100%}
+![](assets/Figure_6.2.1.png)
 
 **Figure 6.2.1**: Overview of foresight method: working from a present state and envisioning different strategies into the future.
 
-# Strategic backcasting
+## Strategic backcasting
 
 In the development of preferred future options, backcasting methods can
 be used.
@@ -97,11 +89,11 @@ aim of the backcasting process is to group different investment under
 contrasting visions, which allows the portfolio of strategies to be
 diversified.
 
-![](assets/Figure_6.2.2.png){width=100%}
+![](assets/Figure_6.2.2.png)
 
 **Figure 6.2.2**: Overview of backcasting method: working from a future state and envisioning different strategies to achieve it.
 
-# Content analysis
+## Content analysis
 
 Content analysis is another means by which to identify infrastructure
 interventions, which can be grouped and categorised into different
@@ -124,7 +116,7 @@ or neighbouring countries, and which can provide examples of
 interventions not otherwise accounted for in existing reports or
 documents.
 
-# Hybrid methods
+## Hybrid methods
 
 Having identified sets of interventions through either participatory
 forecasting/ backcasting or through content analysis methods, these
@@ -158,7 +150,7 @@ strategy but serves as a counterfactual to understand the extent of
 infrastructure performance decline in the case of inaction with respect
 to interventions, and increasing demand for infrastructure services.
 
-# Summary
+## Summary
 
 This lecture introduced the concept of endogenous infrastructure
 strategy development. Participatory forecasting, backcasting or content

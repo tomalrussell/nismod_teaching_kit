@@ -1,28 +1,18 @@
----
-title: Mini-Lecture 10.2 - Fragility and vulnerability functions for
-  different hazards
-keywords:
--   Asset vulnerability
--   Fragility curve
-authors:
--   Olivia Becher
----
+# Mini-Lecture 10.2 - Fragility and vulnerability functions for different hazards
 
 This mini-lecture discusses the concept of asset vulnerability, how
 asset vulnerability can be formulated through fragility curves and the
 applications of fragility curves for determining the risk of asset
 failure.
 
-# Learning objectives
+Learning objectives
 
--   To be able to quantify asset vulnerability as the likelihood of
-    failure conditional to a given load via fragility curves
--   To recognise the generalisability of fragility curves for a range of
-    different hazards and infrastructure asset types.
+- To be able to quantify asset vulnerability as the likelihood of
+  failure conditional to a given load via fragility curves
+- To recognise the generalisability of fragility curves for a range of
+  different hazards and infrastructure asset types.
 
-
-
-# Introduction
+## Introduction
 
 In the previous mini-lecture, the general concept of fragility and
 vulnerability functions was introduced. Here we discuss some real-world
@@ -30,7 +20,7 @@ examples of fragility curves. In the literature, the most common hazards
 for which such curves are created are earthquakes, cyclones and floods.
 In this mini-lecture, we explain these curves for each type of hazard.
 
-# Earthquake fragility curves
+## Earthquake fragility curves
 
 Seismic activity poses a significant risk to infrastructure. The main
 measure for earthquake severity is Peak Ground Acceleration (PGA). There
@@ -52,12 +42,12 @@ Each plot compares the fragility curves for piers with (bottom) and
 without (top) retrofitting. It can be seen that retrofitted tracks are
 less likely to exceed each damage state for a given seismic load.
 
-![](assets/Figure_10.2.1.png){width=100%}
+![](assets/Figure_10.2.1.png)
 
 **Figure 10.2.1:** Seismic fragility functions for railway
 tracks/roadbeds [@WorldBank2019; @FEMA2013a].
 
-# Cyclone fragility curves
+## Cyclone fragility curves
 
 Cyclones also impose a heavy burden on infrastructure, for which wind
 speed is the main measure of hazard severity.
@@ -75,12 +65,12 @@ retrofitting the plant -- for example, by improving the strength and
 resilience of roof-wall connections - is highly effective for reducing
 the likelihood of the DS4, or complete asset failure.
 
-![](assets/Figure_10.2.2.png){width=100%}
+![](assets/Figure_10.2.2.png)
 
 **Figure 10.2.2:** Cyclone fragility functions for water treatment
 plants [@WorldBank2019; @FEMA2013b].
 
-# Example of a fragility curve for bridge scour and for a coastal defence
+## Example of a fragility curve for bridge scour and for a coastal defence
 
 For flood hazards, flood extent return period maps and flood inundation
 depth are the main measures of severity.
@@ -106,7 +96,7 @@ observations alone. The shaded areas around each curve communicates the
 uncertainty associated with the 95% confidence interval of the Maximum
 Likelihood Estimate probability distribution.
 
-![](assets/Figure_10.2.3.jpg){width=100%}
+![](assets/Figure_10.2.3.jpg)
 
 **Figure 10.2.3:** The three curves show the different outcomes for
 calculating the likelihood of failure when considering different
@@ -115,7 +105,7 @@ return periods; (B) historical bridge failures associated with an
 unknown flood return period; and (C) bridges that are assumed not to
 have failed [@Lamb2019]
 
-# Multiple asset failures
+## Multiple asset failures
 
 The aforementioned examples make use of fragility curves to quantify the
 likelihood of single asset failure. In the case where an extreme event
@@ -133,7 +123,7 @@ difference consequences in terms of which zones would flood. Figure
 10.2.4 illustrates a flood defence structure along a river and flood
 impact zones, labelled $z_{1},z_{2},\ldots z_{m}$.
 
-![](assets/Figure_10.2.4.png){width=100%}
+![](assets/Figure_10.2.4.png)
 
 **Figure 10.2.4:** Illustration of a flood defence system and flood
 impact zones [@Hall2003]
@@ -150,7 +140,7 @@ of failure event $D_{i}$ is provided for a given set of loads $x$.
 
 $$1)\ P\left( D_{i} \right) = \ \int_{0}^{\infty}{p\left( x \right)\text{\ P}\left( D_{i} \middle| x \right)\text{\ dx}}$$
 
-![](assets/Figure_10.2.5.png){width=100%}
+![](assets/Figure_10.2.5.png)
 
 **Figure 10.2.5:** Overtopping fragility curve used in national flood
 risk assessment (fluvial and sea defence) [@Hall2003]
@@ -163,7 +153,7 @@ The following mini-lectures 10.3 and 10.4 explore the phenomenon of
 widespread losses incurred by hazards that affect a large area at once,
 and the implications of this for aggregating asset-level risks at scale.
 
-# Summary
+## Summary
 
 This mini-lecture explored the applications of fragility curves for
 analysing asset vulnerability to different kinds of hazards. It also

@@ -1,20 +1,4 @@
----
-title: Mini-Lecture 18.4 -- Implementing, monitoring and governing
-  nature-based solutions (NbS) in infrastructure projects
-
-keywords:
-
--   Participatory decision-making
-
--   Establishing safeguards
-
--   Adaptive management
-
-authors:
-
--   Robyn Haggis
-
----
+# Mini-Lecture 18.4 -- Implementing, monitoring and governing nature-based solutions (NbS) in infrastructure projects
 
 This lecture considers the importance of taking a participatory approach
 to designing, implementing and governing nature-based solutions (NbS),
@@ -23,17 +7,15 @@ need to consider timescale and take an adaptive management approach when
 developing NbS projects is discussed, along with actions to support
 scaling-up.
 
-# Learning objectives {#learning-objectives-1}
+Learning objectives {#learning-objectives-1}
 
--   Recall why it is important to engage local and indigenous
-    communities in NbS projects
--   Explain why an adaptive management approach is beneficial in NbS
-    projects
--   Explain why NbS projects should include social safeguards.
+- Recall why it is important to engage local and indigenous
+  communities in NbS projects
+- Explain why an adaptive management approach is beneficial in NbS
+  projects
+- Explain why NbS projects should include social safeguards.
 
-
-
-# Participatory approach
+## Participatory approach
 
 Approaches to integrate NbS over the project lifecycle (planning and
 decision-making, implementation, operation and maintenance) should take
@@ -43,7 +25,7 @@ particular attention should be paid to engaging local and indigenous
 communities and NbS experts; these will be discussed here. Table 18.4.1
 provides information on additional stakeholders who can be engaged.
 
-## Local and indigenous communities
+### Local and indigenous communities
 
 Social dimensions, including community willingness and commitment to the
 solution, are key to the success and sustainability of NbS projects
@@ -63,7 +45,7 @@ identification, planning, decision-making, implementation, monitoring,
 stewardship and negotiation of trade-offs, and their inputs should be
 meaningfully considered and addressed.
 
-## Experts
+### Experts
 
 Projects that aim to implement NbS must consider biophysical and
 socioeconomic processes at different spatial and temporal scales. This
@@ -74,20 +56,22 @@ climate, hydrology, engineering, ecology, economics and social sciences
 **Table 18.4.1:** Potential stakeholders to engage in NbS projects
 [@Cohen-Shacham2019; @WorldBank2017]
 
-  Stakeholder                        Description
-  ---------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Local and indigenous communities   Local communities and indigenous people should be included at every stage
-  Experts                            Experts are key to ensuring NbS are rooted in the local ecological context
-  Government agencies                Undertake proactive government engagement with governments at multiple levels, from political leaders to government ministries, for assistance with policies, laws, regulations, research and community outreach
-  Private sector                     Private sector companies should be consulted where relevant to the project
-  Women                              Including women can contribute to long-term impacts of NbS interventions whilst progressing gender equity
-  Youth                              Incorporating youth supports sustainability, resilience and long-term impact of NbS interventions, educates them in the importance of NbS and addresses intergenerational equity
-  Bilateral aid agencies             These can offer more upstream, specialised expertise to help plan green-grey solutions
-  Civil society organisations        Can facilitate local community engagement
-  Development partners               To help develop and finance the project
-  Potential investors                Develop supportive partnerships with those who can bring financial resources (e.g. potential investors)
+Stakeholder Description
 
-# Setting social and environmental safeguards
+---
+
+Local and indigenous communities Local communities and indigenous people should be included at every stage
+Experts Experts are key to ensuring NbS are rooted in the local ecological context
+Government agencies Undertake proactive government engagement with governments at multiple levels, from political leaders to government ministries, for assistance with policies, laws, regulations, research and community outreach
+Private sector Private sector companies should be consulted where relevant to the project
+Women Including women can contribute to long-term impacts of NbS interventions whilst progressing gender equity
+Youth Incorporating youth supports sustainability, resilience and long-term impact of NbS interventions, educates them in the importance of NbS and addresses intergenerational equity
+Bilateral aid agencies These can offer more upstream, specialised expertise to help plan green-grey solutions
+Civil society organisations Can facilitate local community engagement
+Development partners To help develop and finance the project
+Potential investors Develop supportive partnerships with those who can bring financial resources (e.g. potential investors)
+
+## Setting social and environmental safeguards
 
 Decision-making on NbS often involves conflicting beliefs, needs and
 values of different stakeholders, which are likely to result in social
@@ -101,7 +85,7 @@ impacts of an intervention, an understanding of trade-offs should inform
 the establishment of social and biodiversity safeguards [@IUCN2020a;
 @IUCN2020b].
 
-## Social safeguards
+### Social safeguards
 
 A key function of NbS social safeguards is to ensure that necessary
 trade-offs do not negatively impact the most disadvantaged of society
@@ -110,7 +94,7 @@ benefits [@Seddon2021]. Potential costs and benefits of associated
 trade-offs should be fully understood by all stakeholders and should
 inform safeguards and relevant management actions.
 
-## Biodiversity safeguards
+### Biodiversity safeguards
 
 Biodiversity safeguards are necessary to ensure the long-term properties
 of ecosystem services are not exceeded [@Seddon2020]. Such safeguards
@@ -126,7 +110,7 @@ In the event of trade-offs, mechanisms for resolution include grievance
 mechanisms, consultation obligation, right to appeal, substantive
 contracts, legal and regulatory provision.
 
-# The issue of timescale
+## The issue of timescale
 
 NbS have different timeframes for reaching full functionality and
 delivering benefits [@WorldBank2017]. These need to be considered
@@ -140,7 +124,7 @@ seasons and less in winter or dry seasons when plants are dormant.
 However, not all projects require NbS to reach 100% of their potential
 to meet baselines for service delivery [@Browder2019].
 
-![](assets/Figure_18.4.1.png){width=100%}
+![](assets/Figure_18.4.1.png)
 
 **Figure 18.4.1:** It takes coral reefs at least 2-5 years to grow and
 reproduce, and longer before they reach suitable size and maturity to
@@ -162,7 +146,7 @@ the full potential of NbS, in order to support uptake and scaling
 built infrastructure or other natural solutions until the chosen NbS
 reaches full potential for service delivery.
 
-# Governing and managing NbS to ensure long-term success
+## Governing and managing NbS to ensure long-term success
 
 Managing NbS under shifting social, economic, political and
 environmental conditions is challenging, particularly where land rights
@@ -200,14 +184,16 @@ in Table 18.4.2.
 **Table 18.4.2:** Examples of aspects that should be monitored during
 NbS projects using an active management approach [@IUCN2020b]
 
-  Monitoring/governing            Description
-  ------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Identify new risks to the NbS   Understand new risks that may undermine the NbS and whether new actions are required to ensure NbS success.
-  Impacts of the NbS              Identify positive and negative social, environmental and economic consequences arising within and beyond the site. Understand if negative impacts require further mitigation.
-  Effectiveness                   Monitor effectiveness of the NbS in addressing the societal challenge and other targets or objectives. If not, decide on follow-on actions.
-  Development of the NbS          Monitor how the NbS and associated service functions are progressing (if according to plan, etc.,), identify opportunities to improve performance, understand response under changing conditions.
+Monitoring/governing Description
 
-# Implementing and scaling-up successful NbS
+---
+
+Identify new risks to the NbS Understand new risks that may undermine the NbS and whether new actions are required to ensure NbS success.
+Impacts of the NbS Identify positive and negative social, environmental and economic consequences arising within and beyond the site. Understand if negative impacts require further mitigation.
+Effectiveness Monitor effectiveness of the NbS in addressing the societal challenge and other targets or objectives. If not, decide on follow-on actions.
+Development of the NbS Monitor how the NbS and associated service functions are progressing (if according to plan, etc.,), identify opportunities to improve performance, understand response under changing conditions.
+
+## Implementing and scaling-up successful NbS
 
 There remains a need to contribute to new data and methods on NbS, to
 support implementation and scaling-up [@IUCN2020b]. For example,
@@ -249,7 +235,7 @@ practitioners and others in the field in planning, designing and
 implementing successful NbS projects, and will support the
 standardisation of approaches in order to help scale-up NbS globally.
 
-# Summary
+## Summary
 
 To ensure successful implementation and scaling-up of NbS projects, a
 participatory approach is required, with particular focus on engaging

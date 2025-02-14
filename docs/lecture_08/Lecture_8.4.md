@@ -1,12 +1,4 @@
----
-title: Mini-Lecture 8.4 -- Hazard exposure and vulnerability analysis in practice for high-level decision-making
-keywords:
-- Flood maps
-- Road networks
-- Flood vulnerabilities
-authors:
-- Raghav Pant
----
+# Mini-Lecture 8.4 -- Hazard exposure and vulnerability analysis in practice for high-level decision-making
 
 This mini-lecture introduces some basic understanding of how hazard
 information is spatially combined with infrastructure network
@@ -15,14 +7,14 @@ flooding over a road network in Uruguay, we look at a very simple case
 of generating useful exposure and vulnerability outcomes of hazard
 network intersections.
 
-# Learning objectives
+Learning objectives
 
 - Show exposure analysis with a road network layer and a flood hazard layer
 - Measure network vulnerabilities
--   Highlight vulnerable network locations (hotspots) at the national
-    scale.
+- Highlight vulnerable network locations (hotspots) at the national
+  scale.
 
-# Road network exposure analysis
+## Road network exposure analysis
 
 In mini-lecture 8.3, we introduced the concept of exceedance probability
 maps and how they are used in estimating infrastructure network risks.
@@ -37,12 +29,12 @@ national scale road network in Uruguay, for which we know the average
 daily traffic count of vehicles along different road sections (see
 Figure 8.4.1).
 
-![](assets/Figure_8.4.1.png){width=100%}
+![](assets/Figure_8.4.1.png)
 
 **Figure 8.4.1:** Spatial representation of the national road network in
 Uruguay showing the average daily vehicle counts along different roads
 
-# Hazards and network overlays
+## Hazards and network overlays
 
 We infer the potential exposure and vulnerability of infrastructure
 networks by spatially intersecting them with hazard maps. As shown in
@@ -54,15 +46,14 @@ identified. The type of outcomes of such analyses include estimating the
 exact geometry, flooded lengths and flood depths along sections of
 roads. The intersection analysis can be done with a software package
 such as QGIS [@QGIS_software] or using spatial functions in Python
-programming language, which are covered in the Hands-on sessions 5 and
-6.
+programming language, which are covered in the Hands-on sessions 5 and 6.
 
-![](assets/Figure_8.4.2.png){width=100%}
+![](assets/Figure_8.4.2.png)
 
 **Figure 8.4.2:** Overlaying a 1 in 1000 flood hazard map with a road
 network and identifying locations of flood exposures
 
-# Exposures and vulnerability metrics
+## Exposures and vulnerability metrics
 
 As a single road could be exposed to flooding over several sections and
 many flood depths, we can estimate the total length of flooding and
@@ -78,7 +69,7 @@ overlaid with the 1 in 1000-year return period flood map. See Figure
 8.4.3 caption for the exposure and vulnerability outcomes highlighted
 for this road network section.
 
-![](assets/Figure_8.4.3.png){width=100%}
+![](assets/Figure_8.4.3.png)
 
 **Figure 8.4.3:** Result of overlaying a road with the flood outline.
 Here we see the length of the road flooded (road_flood), and flood depth
@@ -87,7 +78,7 @@ this road (daily total traffic -- tpda, numbers of automobiles -- auto,
 numbers of buses -- bus) (Figure generated in QGIS software
 [@QGIS_software])
 
-# Identifying locations of vulnerabilities at national scales
+## Identifying locations of vulnerabilities at national scales
 
 A simple way of identifying the most critical roads in the country is to
 look at the roads with the highest lengths or percentages of flood
@@ -100,7 +91,7 @@ locations (hotspots) found to be most vulnerable are highlighted in the
 Figure 8.4.4.
 
 The results in Figure 8.4.4 showcase a criticality assessment of the
-road network due to a flood hazard. *Criticality* here is defined as a
+road network due to a flood hazard. _Criticality_ here is defined as a
 measure of a network asset's (in this case road link) importance and
 disruptive impact on the rest of the infrastructure
 [@pant2016vulnerability]. Criticality assessment results in ranking
@@ -117,14 +108,14 @@ complex hazard and structural models. This would be a cost-effective way
 of prioritising resources for risk identification and disaster
 resilience planning.
 
-![](assets/Figure_8.4.4.png){width=100%}
+![](assets/Figure_8.4.4.png)
 
 **Figure 8.4.4:** Identification of critical road hotspots in Uruguay in
 terms of their exposures and potential traffic counts disrupted due to a
 1 in 1000-year return period river flood at different locations in the
 country. The selected locations all have flood depths \> 1metre
 
-# Limitations and further analysis steps
+## Limitations and further analysis steps
 
 The approach we have presented in this lecture is a very simplistic way
 of screening potential vulnerable locations on networks and identifying
@@ -133,32 +124,32 @@ in such analyses to get more realistic risk outcomes. These are covered
 later across different lectures in this course. We provide an overview
 here for the reader to understand what to look forward to:
 
--   The vulnerability or failure of an asset (road section here) is not
-    a deterministic quantity, but rather a probabilistic estimate
-    derived from *fragility curves* -- these are discussed in
-    mini-lecture 10.2.
+- The vulnerability or failure of an asset (road section here) is not
+  a deterministic quantity, but rather a probabilistic estimate
+  derived from _fragility curves_ -- these are discussed in
+  mini-lecture 10.2.
 
--   The damages associated with hazards are not limited to specific
-    point locations (as shown in Figure 8.4.4), but rather have wider
-    *spatially dependent footprints* - these are discussed in
-    mini-lectures 10.3 and 10.4.
+- The damages associated with hazards are not limited to specific
+  point locations (as shown in Figure 8.4.4), but rather have wider
+  _spatially dependent footprints_ - these are discussed in
+  mini-lectures 10.3 and 10.4.
 
--   The vulnerable impacts (traffic counts here) to networks are
-    estimated through more complex *network flow models* which account
-    for how the disruption will propagate through the rest of the
-    network. This was introduced and discussed in mini-lectures 8.2 and
-    8.3, and more detailed flow models are discussed for transport
-    (mini-lecture 9.2), water (mini-lecture 9.3) and energy
-    (mini-lecture 9.4) networks.
+- The vulnerable impacts (traffic counts here) to networks are
+  estimated through more complex _network flow models_ which account
+  for how the disruption will propagate through the rest of the
+  network. This was introduced and discussed in mini-lectures 8.2 and
+  8.3, and more detailed flow models are discussed for transport
+  (mini-lecture 9.2), water (mini-lecture 9.3) and energy
+  (mini-lecture 9.4) networks.
 
--   The analysis done here shows the outcomes for one of many possible
-    hazard maps. If several such hazard maps or actual simulations of
-    hazard event sets were available, then the calculations should be
-    repeated over several hazards and network failure scenarios to get a
-    more complete picture of vulnerabilities and risks. This is
-    discussed across Lecture 11 and Hands-on 6.
+- The analysis done here shows the outcomes for one of many possible
+  hazard maps. If several such hazard maps or actual simulations of
+  hazard event sets were available, then the calculations should be
+  repeated over several hazards and network failure scenarios to get a
+  more complete picture of vulnerabilities and risks. This is
+  discussed across Lecture 11 and Hands-on 6.
 
-# Summary
+## Summary
 
 In this mini-lecture we demonstrated a very simplistic hazard exposure
 and vulnerability analysis. We used a river flooding exceedance

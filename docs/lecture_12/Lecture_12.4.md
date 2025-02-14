@@ -1,26 +1,18 @@
----
-title: Mini-Lecture 12.4 - Future hazard risk - Case study
-keywords:
--   Argentina case study
--   Future infrastructure exposure
--   Hotspot analysis
-authors:
--   Jasper Verschuur
----
+# Mini-Lecture 12.4 - Future hazard risk - Case study
 
 In this lecture we will go through a detailed example on how to include
 future climate change in risk analysis. This lecture illustrates the
 output that can be generated using the model framework for
 infrastructure risk analysis introduced in previous lectures.
 
-# Learning objectives
+Learning objectives
 
--   Learn how climate change can influence risk to assets in different
-    ways
--   Identify infrastructure risk hotspots
--   Explain how a future climate risk assessment can inform adaptation.
+- Learn how climate change can influence risk to assets in different
+  ways
+- Identify infrastructure risk hotspots
+- Explain how a future climate risk assessment can inform adaptation.
 
-# Introduction
+## Introduction
 
 In this lecture, we will go through a detailed example of incorporating
 future climate change projections into infrastructure risk analysis. We
@@ -50,19 +42,19 @@ we will focus on the flood vulnerability of transport infrastructure,
 since flooding, both pluvial and fluvial, are considered the major
 hazards disrupting the transport infrastructure.
 
-![](assets/Figure_12.4.1.png){width=100%}
+![](assets/Figure_12.4.1.png)
 
 **Figure 12.4.1:** Argentina's national road and railway networks,
 including the tonnage of freight allocated for the different assets
 [@Pant2019]
 
-![](assets/Figure_12.4.2.png){width=100%}
+![](assets/Figure_12.4.2.png)
 
 **Figure 12.4.2:** Argentina's national waterways and airport networks,
 including the tonnage of freight allocated for the different assets
 [@Pant2019]
 
-# Future hazard scenarios
+## Future hazard scenarios
 
 As mentioned, in this mini-lecture we look particularly at flooding of transport infrastructure assets. For this purpose, flood hazard maps for ten return periods were adopted (ranging between 5 and 1,000-years). In this example, we will mainly focus on river flooding. The flood maps include flood extent and the inundation depth.
 To account for future changes in river flooding, the output of 32 Global Climate Models (GCMs) from the CMIP5 model ensemble was used. The 2050 time horizon was adopted in this study across two Representative Concentration Pathway (RCP) scenarios (RCP4.5 and RCP8.5).
@@ -70,11 +62,11 @@ The approach taken to simulate future flooding is a so-called scenario-neutral a
 Two plausible scenarios were created, called the ‘Future Median’ scenario (+6%) and a ‘Future High’ (+12%) scenario, based on the climate model output. This was used to scale the flood extent and inundation depth. For smaller case studies, more scenarios can/should be considered to explore the uncertainty in more detail.
 An example of the current 1 in 1,000-year river flood map is shown in Figure 12.4.3, with the intensity of the colour indicating the inundation depth.
 
-![](assets/Figure_12.4.3.png){width=100%}
+![](assets/Figure_12.4.3.png)
 
 **Figure 12.4.3:** An example of fluvial inundation in the baseline scenario for the north of Argentina [@Pant2019]
 
-# Future infrastructure exposure
+## Future infrastructure exposure
 
 By overlaying the current and future hazard maps with the transport
 network, insights can be gained on the changes in the exposure of the
@@ -108,19 +100,19 @@ changes are more concentrated, and some areas experience a very large
 increase in risk (\>100%). Hence, apart from looking at the aggregate
 numbers, understanding the spatial exposure changes is critical.
 
-![](assets/Figure_12.4.4.png){width=100%}
+![](assets/Figure_12.4.4.png)
 
 **Figure 12.4.4:** The percentage change in road exposure for a 10-year
 event and a 100-year event, aggregated to a department level
 [@Pant2019]
 
-![](assets/Figure_12.4.5.png){width=100%}
+![](assets/Figure_12.4.5.png)
 
 **Figure 12.4.5:** The percentage change in railway exposure for a
 10-year event and a 100-year event, aggregated to a department level
 [@Pant2019]
 
-# Future economic losses
+## Future economic losses
 
 Next, we consider the consequences of disruptions to the exposed
 transport assets. Without going into detail of disruption analysis, a
@@ -147,49 +139,49 @@ are likely to need upgrading in the future, in particular given budget
 constraints. Moreover, this asset-level analysis also allows us to
 evaluate the benefits of resilience measures on an asset level.
 
-![](assets/Figure_12.4.6.png){width=100%}
+![](assets/Figure_12.4.6.png)
 
 **Figure 12.4.6:** The percentage change in expected annual economic
 losses to railway assets by 2050 [@Pant2019]
 
-![](assets/Figure_12.4.7.png){width=100%}
+![](assets/Figure_12.4.7.png)
 
 **Figure 12.4.7:** The percentage change in expected annual economic
 losses to road bridge assets by 2050 [@Pant2019]
 
-# Final considerations
+## Final considerations
 
 We have considered the different aspects of performing a future climate
 risk analysis using Argentina as a case study. Some lessons learned from
 this are:
 
--   The number of future scenarios to consider depends on the spatial
-    scale and the level of detail of the analysis. In this study, it was
-    only realistically feasible to use two scenarios. However, for more
-    local studies, or less detailed analysis, the whole ensemble of
-    climate models and scenarios can be explored. We will investigate
-    the benefits of considering a greater number of plausible scenarios
-    in mini-lectures 14.2 and 14.3.
+- The number of future scenarios to consider depends on the spatial
+  scale and the level of detail of the analysis. In this study, it was
+  only realistically feasible to use two scenarios. However, for more
+  local studies, or less detailed analysis, the whole ensemble of
+  climate models and scenarios can be explored. We will investigate
+  the benefits of considering a greater number of plausible scenarios
+  in mini-lectures 14.2 and 14.3.
 
--   How climate change may increase the likelihood and magnitude of
-    hazard occurrence, in this case river flooding, is very location
-    specific, even within a country. Therefore, the change in risk may
-    differ considerably between infrastructure networks, and between
-    individual assets within an infrastructure network. In fact, the
-    results showed that some assets experience an increase in risk while
-    other experience a decrease. Moreover, we saw that for road and rail
-    infrastructure, a similar increase in exposed assets was found
-    across different return periods, whereas for ports, only the very
-    high return periods changed the exposure of the assets.
+- How climate change may increase the likelihood and magnitude of
+  hazard occurrence, in this case river flooding, is very location
+  specific, even within a country. Therefore, the change in risk may
+  differ considerably between infrastructure networks, and between
+  individual assets within an infrastructure network. In fact, the
+  results showed that some assets experience an increase in risk while
+  other experience a decrease. Moreover, we saw that for road and rail
+  infrastructure, a similar increase in exposed assets was found
+  across different return periods, whereas for ports, only the very
+  high return periods changed the exposure of the assets.
 
--   In terms of the economic losses, the changes in risk are even more
-    asset specific. Therefore, the benefits of performing a nation-wide
-    risk analysis, but on an asset level, to identify the most at-risk
-    assets to future change are clearly demonstrated. This type of
-    analysis is the backbone for evaluating the benefits of different
-    types of interventions to improve resilience (mini-lecture 14.1).
+- In terms of the economic losses, the changes in risk are even more
+  asset specific. Therefore, the benefits of performing a nation-wide
+  risk analysis, but on an asset level, to identify the most at-risk
+  assets to future change are clearly demonstrated. This type of
+  analysis is the backbone for evaluating the benefits of different
+  types of interventions to improve resilience (mini-lecture 14.1).
 
-# Summary
+## Summary
 
 In this lecture, we went through a detailed example of how to perform
 and analyse future climate risk to infrastructure assets on a national

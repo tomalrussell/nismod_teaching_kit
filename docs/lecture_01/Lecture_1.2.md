@@ -1,29 +1,16 @@
----
-title: Mini-Lecture 1.2 -- Sustainable development, the global agendas,
-  and infrastructure
-keywords:
--   Sustainable development
--   Sustainable Development Goals (SDGs)
--   Paris Agreement
-authors:
--   Daniel Adshead
----
-
-## Short description
+# Mini-Lecture 1.2 -- Sustainable development, the global agendas, and infrastructure
 
 This mini-lecture will provide a background to sustainable development,
 the global agendas of the Sustainable Development Goals (SDGs), and the
 Paris Agreement, and will introduce the role infrastructure can play in
 achieving a wide range of sustainable development outcomes.
 
-## Learning objectives
+Learning objectives
 
--   Describe the concept of sustainable development and how it frames
-    the major global development agendas
--   Identify the general principles of the Sustainable Development Goals
-    and the Paris Agreement.
-
-# Lecture content
+- Describe the concept of sustainable development and how it frames
+  the major global development agendas
+- Identify the general principles of the Sustainable Development Goals
+  and the Paris Agreement.
 
 ## Introduction
 
@@ -52,12 +39,12 @@ generations to meet their own needs". The concept of sustainability is
 generally considered and assessed in terms of trade-offs between a set
 of core dimensions [@IADB2018]:
 
--   Social: contributing to enhanced livelihoods and social wellbeing
+- Social: contributing to enhanced livelihoods and social wellbeing
 
--   Economic: generating a net positive economic return
+- Economic: generating a net positive economic return
 
--   Environmental: preserving, restoring and integrating the natural
-    environment while ensuring resilience to climate risks.
+- Environmental: preserving, restoring and integrating the natural
+  environment while ensuring resilience to climate risks.
 
 Over the years, researchers have attempted to conceptualise these three
 dimensions, or 'pillars' of sustainability, and to understand how they
@@ -70,16 +57,15 @@ other. For example, environmental sustainability should not be
 considered solely in the context of providing resources to support the
 economy.
 
-![](assets/Fig_1.2.1.png){width=100%}
+![](assets/Fig_1.2.1.png)
 
 **Figure 1.2.1:** Different representations of sustainability, composed
 of social, economic, and environmental dimensions, with 'three circles
 diagram' at left [@Purvis2019]
 
-
 In order to formalise sustainable development in a policy framework that can be applied universally across countries, the 2030 Agenda for Sustainable Development was adopted by all United Nations Member States in 2015. At the heart of the 2030 Agenda are the Sustainable Development Goals (SDGs), which are an urgent call for action by all countries in a global partnership. The 17 SDGs (Figure 1.2.2) recognise that ending poverty and other deprivations must go hand-in-hand with improving health and education, reducing inequality, and spurring economic growth – all while tackling climate change and working to preserve oceans and forests [@UnitedNations2015].
 
-![](assets/Fig_1.2.2.png){width=100%}
+![](assets/Fig_1.2.2.png)
 
 **Figure 1.2.2:** The 17 Sustainable Development Goals
 [@UnitedNations2015]
@@ -107,7 +93,7 @@ commitments are expected at certain intervals, including 2020, which
 marked the beginning of a new phase of action and programme
 implementation to meet ambitious emissions reductions targets.
 
-![](assets/Fig_1.2.3.png){width=100%}
+![](assets/Fig_1.2.3.png)
 
 **Figure 1.2.3:** Key objectives of the Paris Agreement on climate
 change [@UNFCCC2017]
@@ -118,13 +104,13 @@ between the SDGs and the Paris Agreement, with the potential for both
 synergies and trade-offs [@FusoNerini2019].
 
 In addition to the SDGs and Paris Agreement, other global agendas fall
-within the sustainable development sphere, including the [*Sendai
+within the sustainable development sphere, including the [_Sendai
 Framework on Disaster Risk
-Reduction*](https://www.preventionweb.net/files/43291_sendaiframeworkfordrren.pdf),
+Reduction_](https://www.preventionweb.net/files/43291_sendaiframeworkfordrren.pdf),
 which sets out targets to reduce disaster risk and losses in terms of
 lives, livelihoods, and other economic, social and environmental
-indicators. The [*New Urban
-Agenda*](https://habitat3.org/the-new-urban-agenda/) represents another
+indicators. The [_New Urban
+Agenda_](https://habitat3.org/the-new-urban-agenda/) represents another
 universal framework for sustainable urban development.
 
 ## Infrastructure and sustainable development
@@ -162,7 +148,7 @@ rights abuses. However, they may also imply trade-offs for 65 targets,
 such as those related to poverty eradication or access to food or clean
 water [@FusoNerini2019].
 
-![](assets/Fig_1.2.4.png){width=100%}
+![](assets/Fig_1.2.4.png)
 
 **Figure 1.2.4:** Infrastructure underpinning sustainable development:
 Networked systems providing the basic services essential for the
@@ -187,15 +173,15 @@ the booming economies and growing aspirations of rapidly transitioning
 economies [@OECD2007]. However, this notion of the infrastructure gap
 as a largely economic concept has a few shortfalls:
 
--   It does not distinguish between productive or wasted investment.
-    That is, if new infrastructure is damaged, destroyed, or not
-    otherwise used as intended, it will not contribute to achieving
-    sustainable development outcomes.
+- It does not distinguish between productive or wasted investment.
+  That is, if new infrastructure is damaged, destroyed, or not
+  otherwise used as intended, it will not contribute to achieving
+  sustainable development outcomes.
 
--   It does not account for the diverse outcomes of sustainable
-    development. Specifically, environmental or social dimensions of
-    sustainability may be sacrificed in favour of achieving economic
-    objectives.
+- It does not account for the diverse outcomes of sustainable
+  development. Specifically, environmental or social dimensions of
+  sustainability may be sacrificed in favour of achieving economic
+  objectives.
 
 The infrastructure gap approach is nevertheless useful in guiding
 infrastructure decisions when sustainable outcomes are accounted for. By
@@ -206,7 +192,7 @@ required to match the highest performing countries. To ensure these
 targets are met, infrastructure initiatives must be well-coordinated and
 aligned with development challenges faced in each national context.
 
-![](assets/Fig_1.2.5.png){width=100%}
+![](assets/Fig_1.2.5.png)
 
 **Figure 1.2.5** Gap in infrastructure spending between current
 (baseline) trends, investment needs to match best-performing countries,

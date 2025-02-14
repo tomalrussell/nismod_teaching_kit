@@ -1,12 +1,4 @@
----
-title: Mini-Lecture 13.1 - Introduction to the future needs for infrastructure
-keywords:
--   Socio-economic growth
--   Infrastructure needs
--   Future risk
-authors:
--   Jasper Verschuur
----
+# Mini-Lecture 13.1 - Introduction to the future needs for infrastructure
 
 In this lecture, an outlook is provided for the need to invest in
 infrastructure in the near and distant future alongside the main drivers
@@ -14,14 +6,14 @@ of infrastructure development. In particular, we will take a deeper dive
 into the different socio-economic scenarios, including a discussion on
 the main differences between them.
 
-# Learning objectives
+Learning objectives
 
--   Know what the future infrastructure investment gap is
--   Compare and contrast the different Shared Socio-economic Pathway
-    (SSP) scenarios
--   Interpret studies that use SSP scenarios for future risk estimates.
+- Know what the future infrastructure investment gap is
+- Compare and contrast the different Shared Socio-economic Pathway
+  (SSP) scenarios
+- Interpret studies that use SSP scenarios for future risk estimates.
 
-# Introduction
+## Introduction
 
 In lecture 12.1, we briefly discussed the multiple drivers of future
 infrastructure risk. The main drivers identified were changes in
@@ -51,13 +43,13 @@ is needed by 2050, which is equal to around USD45 trillion
 Whatever the exact number might be, there is an enormous amount of
 infrastructure needed to meet the needs of our future society.
 
-![](assets/Figure_13.1.1.png){width=100%}
+![](assets/Figure_13.1.1.png)
 
 **Figure 13.1.1:** An illustration of the global infrastructure gap for
 2040, with the red circle showing the current stock and the blue circle
 the investment need [@Thacker2019]
 
-# Drivers of infrastructure needs
+## Drivers of infrastructure needs
 
 To better understand where largest demand for new infrastructure lies, we can distinguish different drivers of infrastructure needs.
 As mentioned, a growing population and urban expansion highlight the need for an increasing coverage and expansion of infrastructure services. Most infrastructure networks, such as road, rail, water, electricity and telecommunications are directly coupled to the growth in populations.
@@ -65,7 +57,7 @@ Socio-economic growth may also change the ways in which we can afford certain in
 Other infrastructure types, such as ports and airports, are more dependent on developments in terms of international trade flows or tourism, which are not just confined to national boundaries. For instance, increasing demand for products from a certain country requires that country to increase the port capacity.
 For each type of infrastructure, it is therefore important to understand the current use and capacity of the systems and the main drivers of future infrastructure needs.
 
-# Introduction to Shared Socio-economic Pathways
+## Introduction to Shared Socio-economic Pathways
 
 Similar to the climate scenarios, scenarios of global development that
 cover the uncertainty in future socio-economic conditions have been
@@ -96,54 +88,54 @@ environment, agriculture, land-use).
 In the next sub-section, we will discuss some of the major differences
 between the five scenarios.
 
-![](assets/Figure_13.1.2.png){width=100%}
+![](assets/Figure_13.1.2.png)
 
 **Figure 13.1.2:** The five SSP scenarios and how they relate to the
 challenges for adaptation and mitigation. The key words show the main
 differences between the scenarios [@ONeill2014]
 
-# Differences between SSPs
+## Differences between SSPs
 
 In the previous sub-section we discussed that the Shared Socio-economic
 Pathway scenarios are based on a large number of underlying drivers.
 However, we can briefly summarise the main differences between the
 scenarios (see Figure 13.1.3).
 
--   SSP1 leads to low challenges for both mitigation and adaptation,
-    mainly as a result of sharp income growth, reduced inequality, good
-    institutions, and a shift over time that prioritises sustainable
-    development.
+- SSP1 leads to low challenges for both mitigation and adaptation,
+  mainly as a result of sharp income growth, reduced inequality, good
+  institutions, and a shift over time that prioritises sustainable
+  development.
 
--   SSP3 is the opposite of SSP1 with challenges to both mitigation and
-    adaptation. The challenges arise due to slow income growth and slow
-    technological change, ineffective institutions and limited human
-    capital.
+- SSP3 is the opposite of SSP1 with challenges to both mitigation and
+  adaptation. The challenges arise due to slow income growth and slow
+  technological change, ineffective institutions and limited human
+  capital.
 
--   SSP2 is a middle-of-the-road scenario leading to intermediate
-    challenges to mitigation and adaptation.
+- SSP2 is a middle-of-the-road scenario leading to intermediate
+  challenges to mitigation and adaptation.
 
--   SSP4 and SSP5 are a mix of the aforementioned scenarios. For SSP4,
-    there is a growing inequality across and within countries. Moreover,
-    there is low economic growth but high technological growth and human
-    capital, making the mitigation challenge low. However, the
-    adaptation challenge remains higher due to the large inequality in
-    terms of income, education and access to institutions. In SSP5,
-    economic growth is large, making adaptation challenges relatively
-    low. However, energy and carbon demand grow quickly with a large
-    reliance on fossil fuels, hindering mitigation efforts.
+- SSP4 and SSP5 are a mix of the aforementioned scenarios. For SSP4,
+  there is a growing inequality across and within countries. Moreover,
+  there is low economic growth but high technological growth and human
+  capital, making the mitigation challenge low. However, the
+  adaptation challenge remains higher due to the large inequality in
+  terms of income, education and access to institutions. In SSP5,
+  economic growth is large, making adaptation challenges relatively
+  low. However, energy and carbon demand grow quickly with a large
+  reliance on fossil fuels, hindering mitigation efforts.
 
 These broad-scale scenarios can form the input of a range of additional
 models, including projections of the future risk of hazard impact under
 the various scenarios. To do this, however, the SSP scenarios should be
 coupled to spatially explicit maps of exposed assets.
 
-![](assets/Figure_13.1.3.png){width=100%}
+![](assets/Figure_13.1.3.png)
 
 **Figure 13.1.3:** The key assumptions of, and main differences between,
 the SSP scenarios with regards to adaptation and mitigation
 [@Bauer2017]
 
-# Applications of SSP scenarios
+## Applications of SSP scenarios
 
 To illustrate what the SSP scenarios can be used for, two examples are
 shown below.
@@ -168,18 +160,18 @@ the Yangtze and Indus basins and the basins in Sub-Saharan Africa
 interacts with risk is very much location specific, therefore requiring
 spatial scenarios of socio-economic development.
 
-![](assets/Figure_13.1.4.png){width=100%}
+![](assets/Figure_13.1.4.png)
 
 **Figure 13.1.4:** The evolution of global urban land over the 21^st^
 century for different SSP scenarios [@Gao2020]
 
-![](assets/Figure_13.1.5.png){width=100%}
+![](assets/Figure_13.1.5.png)
 
 **Figure 13.1.5:** Spatial patterns of urbanisation in 2100 for two
 regions (North America, Africa) and two SSP scenarios (SSP1, SSP5)
 [@Gao2020]
 
-# Summary
+## Summary
 
 In this lecture, we have identified the main drivers of future
 infrastructure needs and the total infrastructure investment gap. We

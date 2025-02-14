@@ -1,13 +1,4 @@
----
-title: Mini-Lecture 14.4 - Methods and processes for good
-  decision-making
-keywords:
--   Stakeholder involvement
--   Tolerable thresholds
--   Adaptation pathways
-authors:
--   Jasper Verschuur
----
+# Mini-Lecture 14.4 - Methods and processes for good decision-making
 
 In this lecture we will look at processes for good decision-making, and
 the various applications of bottom-up risk analysis. The stakeholders
@@ -15,14 +6,14 @@ are the central actors here, identifying critical thresholds and the
 preferred adaptation options that can then be systemically tested for
 suitability by the modeller.
 
-# Learning objectives
+Learning objectives
 
--   Identify the key processes of stakeholder engagement
--   Explain what a bottom-up vulnerability analysis is
--   Understand the need for sequential decision-making for adaptation
-    purposes.
+- Identify the key processes of stakeholder engagement
+- Explain what a bottom-up vulnerability analysis is
+- Understand the need for sequential decision-making for adaptation
+  purposes.
 
-# Introduction
+## Introduction
 
 In mini-lectures 14.1-14.3, we discussed the various methods of
 performing risk analyses that take a wide range of uncertainties into
@@ -53,7 +44,7 @@ acceptable, tolerable or unacceptable risk states of the system
 [@Hall2012]. A similar analysis can be performed for individual
 infrastructure assets, networks, or infrastructure systems.
 
-![](assets/Figure_14.4.1.png){width=100%}
+![](assets/Figure_14.4.1.png)
 
 **Figure 14.4.1:** Three strategies and their resulting risk outcome,
 which can be either unacceptable, tolerable or acceptable: (a) is the
@@ -61,7 +52,7 @@ do-nothing scenario in which risk will increase in the future, (b) is
 the upfront investment scenario to keep risk tolerable, and (c) is the
 periodic upgrading scenario to keep risk tolerable [@Hall2012]
 
-# Bottom-up vulnerability analysis
+## Bottom-up vulnerability analysis
 
 In the next few sections, we will look at various methods in which a
 'bottom-up' analysis is adopted to determine suitable pathways to a
@@ -92,11 +83,11 @@ irrigation). By looking at a large number of climate simulations, the
 authors could determine the likelihoods that future scenarios are in the
 non-blue areas.
 
-![](assets/Figure_14.4.2.png){width=100%}
+![](assets/Figure_14.4.2.png)
 
 **Figure 14.4.2:** A system response surface of a reservoir in northern Italy with changes in temperature and precipitation as the critical parameters. The blue dots illustrate the conditions at which the reservoir can continue to operate [@Culley2016]
 
-# Adaptation pathways for multiple criteria
+## Adaptation pathways for multiple criteria
 
 In the previous sections, we demonstrated the need for stakeholder
 engagement throughout the decision-making process in order to make
@@ -127,7 +118,7 @@ small overlap (right panels) between the available budget (left panels),
 the acceptable flood risk (middle-left panels) and the ecosystem health
 criteria (middle-right panels).
 
-![](assets/Figure_14.4.3.png){width=100%}
+![](assets/Figure_14.4.3.png)
 
 **Figure 14.4.3:** The solution space of acceptable outcomes (white in
 right panels) taking into account cost constraints (left), flood risk
@@ -136,7 +127,7 @@ status quo, while the next three rows cover different adaptation
 options. The solution space is set out against changes in precipitation
 and mean river flow [@Poff2016]
 
-# Dynamic adaptation pathways
+## Dynamic adaptation pathways
 
 Apart from identifying when and if a certain failure state will be
 reached, it is important to evaluate when decisions have to be made and,
@@ -168,7 +159,7 @@ including the moment when new actions should be taken. This type of
 approach presents a blueprint for planning and helps to easily
 communicate this to policymakers.
 
-![](assets/Figure_14.4.4.png){width=100%}
+![](assets/Figure_14.4.4.png)
 
 **Figure 14.4.4:** An example of the application of dynamic adaptative
 pathways for the water supply system of The Netherlands. The (thick)
@@ -176,7 +167,7 @@ coloured lines show all possible pathways to maintain system functioning
 until 2100 without exceeding any adaptation tipping points
 [@Haasnoot2013]
 
-# Exploring long-term adaptation options
+## Exploring long-term adaptation options
 
 A similar exercise has been carried out to identify adaptation pathways
 for the city of London. Within the Thames Estuary 2100 project,
@@ -208,18 +199,18 @@ large sea level rise values (\>3m), both staying at Silvertown and
 moving towards Canvey are extremely costly given the risk benefits they
 provide.
 
-![](assets/Figure_14.4.5.png){width=100%}
+![](assets/Figure_14.4.5.png)
 
 **Figure 14.4.5:** The different adaptation pathways as a function of
 the rise in sea level by 2300 [@Hall2019]
 
-![](assets/Figure_14.4.6.png){width=100%}
+![](assets/Figure_14.4.6.png)
 
 **Figure 14.4.6:** The regret of choosing a certain pathway compared to
 the best performing pathway given different sea level rise scenarios for
 2300 [@Hall2019]
 
-# Summary
+## Summary
 
 In this lecture, we looked at processes for good decision-making that
 start with the identification and involvement of all stakeholders. These

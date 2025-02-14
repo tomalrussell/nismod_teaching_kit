@@ -1,13 +1,4 @@
----
-title: Mini-Lecture 2.2 -- Developing mitigation targets within
-  Nationally Determined Contributions (NDCs)
-keywords:
--   Mitigation targets
--   Nationally Determined Contributions
--   Paris Agreement
-authors:
--   Sapphire Vital
----
+# Mini-Lecture 2.2 -- Developing mitigation targets within Nationally Determined Contributions (NDCs)
 
 This mini-lecture delves deeper into understanding Nationally Determined
 Contributions (NDCs) by taking a closer look at the NDCs' requirements
@@ -15,14 +6,14 @@ and varying responsibilities as well as the types of mitigation targets.
 The mini-lecture also proposes an approach to developing infrastructure
 targets and presents examples from varying contexts.
 
-# Learning objectives
+Learning objectives
 
--   Describe the requirements of NDC targets as stipulated by the Paris
-    Agreement
--   Explain the types of mitigation targets
--   Formulate NDC mitigation targets within the infrastructure sector.
+- Describe the requirements of NDC targets as stipulated by the Paris
+  Agreement
+- Explain the types of mitigation targets
+- Formulate NDC mitigation targets within the infrastructure sector.
 
-# Introduction
+## Introduction
 
 The Paris Agreement requires signatories to submit increasingly
 ambitious Nationally Determined Contributions (NDCs) every five years.
@@ -54,7 +45,7 @@ Given the carbon intensity of infrastructure systems, the following
 sections dive deeper into these areas with ultimate focus on the
 infrastructure sector.
 
-# Understanding the NDCs in depth: NDC requirements
+## Understanding the NDCs in depth: NDC requirements
 
 The [Paris
 Agreement](https://unfccc.int/sites/default/files/english_paris_agreement.pdf)
@@ -63,13 +54,13 @@ Article 4, detail the following core nine areas for inclusion. A recent
 COP decision report relays further critical guidance on these components
 [@UNFCCC2019].
 
-![](assets/Figure_2.2.1a.png){width=100%}
+![](assets/Figure_2.2.1a.png)
 
-![](assets/Figure_2.2.1b.png){width=100%}
+![](assets/Figure_2.2.1b.png)
 
 **Figure 2.2.1:** NDC requirements
 
-# Understanding the NDCs in depth: Countries' varying responsibilities
+## Understanding the NDCs in depth: Countries' varying responsibilities
 
 In addition to the NDC requirements, the Paris Agreement stipulates
 varying responsibilities for developed and developing countries. It
@@ -90,26 +81,26 @@ technological, or capacity-building support. Developing countries
 specified several types of conditions in their INDCs including those
 based on the following areas [@Day2016]:
 
--   **Provision of international financial and technical support for
-    mitigation implementation:** Represented over 80% of conditional
-    targets
+- **Provision of international financial and technical support for
+  mitigation implementation:** Represented over 80% of conditional
+  targets
 
--   **Collective ambition:** Here Parties based their conditions on
-    increased levels of collective NDC ambition
+- **Collective ambition:** Here Parties based their conditions on
+  increased levels of collective NDC ambition
 
--   **Finalised Paris Agreement rules:** Such commitments based their
-    targets on the finalised rules of engagement of the Paris Agreement
-    such as the structure of support mechanisms
+- **Finalised Paris Agreement rules:** Such commitments based their
+  targets on the finalised rules of engagement of the Paris Agreement
+  such as the structure of support mechanisms
 
--   **General circumstance:** Some Parties submitted general conditions
-    tied to their national economic, political, or/and social status.
+- **General circumstance:** Some Parties submitted general conditions
+  tied to their national economic, political, or/and social status.
 
 Many countries did attach specific values to their conditions.
 Specifying set amounts for finance required, level of collective
 ambition needed, or other requirements, facilitates accurate projection
 of NDC emission reduction commitments.
 
-# Understanding the NDCs in depth: Types of targets
+## Understanding the NDCs in depth: Types of targets
 
 Infrastructure NDC contributions are mitigation targets or actions.
 Whether conditional or unconditional, there are varying ways to define
@@ -118,21 +109,21 @@ contribution can be categorised into four main groups, as shown in
 Figure 2.2.2. According to @Taibi2018, mitigation contributions may be
 specific targets or actions. Specific targets may be based on:
 
--   **Greenhouse gas emission (GHG) targets**: GHG targets may be an
-    absolute emissions reduction percentage relative to a base year or a
-    fixed volume of emissions by a particular year expressed in tonnes
-    of CO~2~eq (carbon dioxide equivalent). They may also be expressed
-    as relative targets tethered to a reference point. Reference points
-    include business as usual (BAU) scenarios or GHG intensity levels.
-    GHG intensity is defined as GHG emissions per unit of Gross Domestic
-    Product (GDP).
+- **Greenhouse gas emission (GHG) targets**: GHG targets may be an
+  absolute emissions reduction percentage relative to a base year or a
+  fixed volume of emissions by a particular year expressed in tonnes
+  of CO~2~eq (carbon dioxide equivalent). They may also be expressed
+  as relative targets tethered to a reference point. Reference points
+  include business as usual (BAU) scenarios or GHG intensity levels.
+  GHG intensity is defined as GHG emissions per unit of Gross Domestic
+  Product (GDP).
 
--   **Non-GHG targets**: Non-GHG targets are pledges devised based on
-    technologies such as renewable energy or energy efficiency expressed
-    as a percentage by a particular year. For example, 100% renewable
-    energy electricity generation by 2030.
+- **Non-GHG targets**: Non-GHG targets are pledges devised based on
+  technologies such as renewable energy or energy efficiency expressed
+  as a percentage by a particular year. For example, 100% renewable
+  energy electricity generation by 2030.
 
-![](assets/Figure_2.2.2.jpg){width=100%}
+![](assets/Figure_2.2.2.jpg)
 
 **Figure 2.2.2:** Types and examples of NDC mitigation targets (adapted
 from @Taibi2018)
@@ -145,7 +136,7 @@ The NDCs can include a mixture of GHG and non-GHG targets, and
 mitigation actions that best communicate countries' ambition and
 capabilities.
 
-# Bringing it all together: An approach to developing infrastructure targets within NDCs
+## Bringing it all together: An approach to developing infrastructure targets within NDCs
 
 The following approach to developing NDCs synthesises the key
 information outlined on NDCs' requirements, varying responsibilities,
@@ -156,13 +147,13 @@ The approach specifically considers developing countries' need to
 maximise limited human and financial resources. Each step lists key
 components presented in the previous sections.
 
-![](assets/Figure_2.2.3a.png){width=100%}
+![](assets/Figure_2.2.3a.png)
 
-![](assets/Figure_2.2.3b.png){width=100%}
+![](assets/Figure_2.2.3b.png)
 
 **Figure 2.2.3:** NDC development approach
 
-# Developed and developing country examples of NDC targets
+## Developed and developing country examples of NDC targets
 
 In developing NDC targets, it may be beneficial to refer to examples.
 The [NDC
@@ -183,14 +174,16 @@ are shown in Table 2.2.1 below.
 recent NDCs [@GovernmentofGrenada2020; @GovernmentofKenya2020;
 @EuropeanUnion2020; @AustralianGoverment2020]
 
-  **Country**                                                                                                                                **Mitigation Targets**                                             **Sectors Addressed**                                                                                                     **Support Needed/ Conditionality**
-  ------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------
-  [Grenada](https://www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Grenada%20Second/GrenadaSecondNDC2020%20-%2001-12-20.pdf)            Reduction of 40% of 2010 GHG emissions levels by 2030.             Energy (including domestic transport), forestry, waste, cooling sector                                                    Implementation anticipated through access to multilateral and bilateral financial support.
-  [Kenya](https://www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Kenya%20First/Kenya's%20First%20%20NDC%20(updated%20version).pdf)      32% reduction in GHG emissions by 2030 compared to BAU scenario.   Economy-wide (energy, industrial processes and product use, agriculture, land-use, land-use change and forestry, waste)   International support for 87% of GHG reduction budget
-  [European Union](https://www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Germany%20First/EU_NDC_Submission_December%202020.pdf)        55% GHG emissions reduction compared to 1990 by 2030               Economy-wide                                                                                                              \-
-  [Australia](https://www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Australia%20First/Australia%20NDC%20recommunication%20FINAL.PDF)   Reduce GHG emissions to 26-28% by 2030                             Economy-wide                                                                                                              \-
+**Country** **Mitigation Targets** **Sectors Addressed** **Support Needed/ Conditionality**
 
-# Summary
+---
+
+[Grenada](https://www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Grenada%20Second/GrenadaSecondNDC2020%20-%2001-12-20.pdf) Reduction of 40% of 2010 GHG emissions levels by 2030. Energy (including domestic transport), forestry, waste, cooling sector Implementation anticipated through access to multilateral and bilateral financial support.
+[Kenya](https://www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Kenya%20First/Kenya's%20First%20%20NDC%20%28updated%20version%29.pdf) 32% reduction in GHG emissions by 2030 compared to BAU scenario. Economy-wide (energy, industrial processes and product use, agriculture, land-use, land-use change and forestry, waste) International support for 87% of GHG reduction budget
+[European Union](https://www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Germany%20First/EU_NDC_Submission_December%202020.pdf) 55% GHG emissions reduction compared to 1990 by 2030 Economy-wide \-
+[Australia](https://www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Australia%20First/Australia%20NDC%20recommunication%20FINAL.PDF) Reduce GHG emissions to 26-28% by 2030 Economy-wide \-
+
+## Summary
 
 This mini-lecture provided key information to understand the
 requirements of NDCs and thus develop mitigation targets within them.

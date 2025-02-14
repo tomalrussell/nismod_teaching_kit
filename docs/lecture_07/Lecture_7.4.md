@@ -1,23 +1,15 @@
----
-title: Mini-Lecture 7.4 --Strategic evaluation of infrastructure in
-  practice
-keywords:
--   Strategic performance
--   Infrastructure interdependencies
-authors:
--   Orlando Roman
----
+# Mini-Lecture 7.4 --Strategic evaluation of infrastructure in practice
 
 This mini-lecture we use the case studies of Curaçao, Saint Lucia and
 Palestine to provide examples of performance evaluation of strategies
 and decision-making processes for infrastructure planning.
 
-# Learning objectives
+Learning objectives
 
--   List different indicators used to evaluate strategies in practice
--   Identify infrastructure interdependencies between sectors.
+- List different indicators used to evaluate strategies in practice
+- Identify infrastructure interdependencies between sectors.
 
-# Overview of infrastructure strategy evaluation in practice
+## Overview of infrastructure strategy evaluation in practice
 
 This mini-lecture will showcase different applications of the National
 Infrastructure Systems MODel -- International (NISMOD-Int) for strategy
@@ -34,7 +26,7 @@ provide insight on the participatory nature of this process and how
 different contexts, needs and priorities shape the infrastructure
 planning process.
 
-# Waste management strategy evaluation in Curaçao (part I)
+## Waste management strategy evaluation in Curaçao (part I)
 
 The waste management system in Curaçao heavily depends on landfills,
 which will run out of capacity in the next five years. Figure 7.4.1a
@@ -51,7 +43,7 @@ Half of the "baseline" strategy still depends on landfills, while the
 waste and anaerobic digestion consuming about 50% of waste generation
 without needing any landfills.
 
-![](assets/Figure_7.4.1.jpg){width=100%}
+![](assets/Figure_7.4.1.jpg)
 
 **Figure 7.4.1:** Waste treatment by strategy [@Fuldauer2019]
 
@@ -64,12 +56,12 @@ on the decision-making process. The technology-led strategy is the only
 one able to treat 100% of the waste until 2050. However, the circular
 economy approach shows a better performance on employment and recycling.
 
-![](assets/Figure_7.4.2.jpg){width=100%}
+![](assets/Figure_7.4.2.jpg)
 
 **Figure 7.4.2:** Performance of waste strategies on SDG indicators
 [@Fuldauer2019]
 
-# Waste management strategy evaluation in Curaçao (part II)
+## Waste management strategy evaluation in Curaçao (part II)
 
 The three main strategies for Curaçao were also evaluated against cost
 and carbon emissions, as shown in Figure 7.4.3. While there is an
@@ -77,7 +69,7 @@ overlap in the range of projections, the technology-led strategy
 performs better in carbon emissions, and the circular economy strategy
 is more cost-effective. Inaction performs worst for both indicators.
 
-![](assets/Figure_7.4.3.jpg){width=100%}
+![](assets/Figure_7.4.3.jpg)
 
 **Figure 7.4.3:** Performance of waste strategies against cost and
 cumulative carbon [@Fuldauer2019]
@@ -95,11 +87,11 @@ process by blending interventions from different strategies. Figure
 ultimately combined different interventions to meet waste generation and
 produce energy as an outcome of the system.
 
-![](assets/Figure_7.4.4.jpg){width=100%}
+![](assets/Figure_7.4.4.jpg)
 
 **Figure 7.4.4:** Waste management pathway [@Adshead2018]
 
-# Strategic performance for water provision in Palestine
+## Strategic performance for water provision in Palestine
 
 As shown in mini-lecture 6.4, five infrastructure strategies were
 developed for the Fast Track Infrastructure Analysis for Palestine,
@@ -116,7 +108,7 @@ alternative that meets future demand is the "Infrastructure-led
 development" with the "Status Quo" and "Efficiency with Scarcity"
 strategies falling short.
 
-![](assets/Figure_7.4.5.jpg){width=100%}
+![](assets/Figure_7.4.5.jpg)
 
 **Figure 7.4.5:** Strategic Performance for Water Supply in Gaza
 [@Ives2018]
@@ -126,7 +118,7 @@ consumption based on WHO recommendations. While this can be achieved for
 the "central" projection, a more pessimistic projection called "unstable
 adversity" was only able to achieve 30 litres/capita/day.
 
-# Infrastructure interdependencies in Saint Lucia
+## Infrastructure interdependencies in Saint Lucia
 
 For Saint Lucia, the National Infrastructure Assessment evaluated the
 electricity, water, wastewater and solid waste sectors. As shown in
@@ -139,15 +131,14 @@ wastewater (treated wastewater can be used for irrigation). Other
 interdependencies were considered moderate or weak but still important
 to evaluate for national planning purposes.
 
-![](assets/Figure_7.4.6.jpg){width=100%}
+![](assets/Figure_7.4.6.jpg)
 
 **Figure 7.4.6:** Cross-sectoral infrastructure interdependencies in
 Saint Lucia [@Adshead2020]
 
 Figure 7.4.7 illustrates quantitative relations between sectors. The
 expansion of ports and airports might increase the demand for
-electricity, water, wastewater and solid waste by between 9% and 36% by
-2050. While anaerobic digestion and waste-to-energy projects are capable
+electricity, water, wastewater and solid waste by between 9% and 36% by 2050. While anaerobic digestion and waste-to-energy projects are capable
 of diverting between 26% and 35% of the waste stream, they can also
 produce between 6% and 33% of electricity demand by 2050.
 Interdependencies between water and wastewater were also quantified
@@ -155,12 +146,12 @@ including water efficiencies (reducing losses and consumption) and
 effluent reuse. Both options can generate a reduction of between 7.6%
 and 20% in demand for both sectors.
 
-![](assets/Figure_7.4.7.jpg){width=100%}
+![](assets/Figure_7.4.7.jpg)
 
 **Figure 7.4.7:** Quantification of cross-sectoral infrastructure
 interdependencies for Saint Lucia by 2050 [@Adshead2020]
 
-# Summary
+## Summary
 
 In this mini-lecture we illustrate previous concepts with practical
 applications of strategic evaluation on real cases. We explored waste

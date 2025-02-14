@@ -1,29 +1,20 @@
----
-title: Mini-Lecture 16.2 -- Nature-based solutions for coastal
-  protection
-keywords:
--   Nature-based solutions 
--   Coastal protection
--   Climate adaptation
-authors:
--   Yu Mo
----
+# Mini-Lecture 16.2 -- Nature-based solutions for coastal protection
 
 This lecture provides an overview of the applications of nature-based
 solutions for coastal protection. The principles underlying such
 applications are illustrated, particularly, how nature-based solutions
 provide flexibility and adaptation under a changing climate. Examples of
 implementing nature-based solutions for coastal protection in practice
-are presented. 
+are presented.
 
-# Learning objectives
+Learning objectives
 
--   Recognise the value of nature-based solutions for coastal protection
+- Recognise the value of nature-based solutions for coastal protection
 
--   Obtain a basic understanding of how nature-based solutions will
-    adjust and adapt to future climate along the coast.
+- Obtain a basic understanding of how nature-based solutions will
+  adjust and adapt to future climate along the coast.
 
-# Vital coastal ecosystems
+## Vital coastal ecosystems
 
 Human settlements are concentrated near the coast (Figure 16.2.1). Over
 40% of the world's population lives within 100 km of the coastline
@@ -51,7 +42,7 @@ Human settlements are concentrated near the coast (Figure 16.2.1). Over
 
 10. Osaka, Japan (coastal).
 
-![](assets/Figure_16.2.1.png){width=100%}
+![](assets/Figure_16.2.1.png)
 
 **Figure 16.2.1:** Global population grid in 3D[@Martino2016]
 
@@ -61,25 +52,25 @@ seagrass, are located around different regions of the world (Figure
 16.2.2). These coastal ecosystems provide vital provisioning,
 regulation, supporting, and cultural services:
 
--   **Provisioning service:** products generated from the ecosystem,
-    such as fish, shellfish, and wood 
+- **Provisioning service:** products generated from the ecosystem,
+  such as fish, shellfish, and wood
 
--   **Regulating service:** the regulation of ecosystem processes, such
-    as erosion control, flood regulation, storm protection, water
-    purification, and climate regulation 
+- **Regulating service:** the regulation of ecosystem processes, such
+  as erosion control, flood regulation, storm protection, water
+  purification, and climate regulation
 
--   **Supporting service:** the support of all other ecosystem services,
-    such as soil formation, primary production, and nutrient cycling 
+- **Supporting service:** the support of all other ecosystem services,
+  such as soil formation, primary production, and nutrient cycling
 
--   **Cultural service:** the spiritual and emotional benefits people
-    obtain from ecosystems, such as cultural heritage values, tourism,
-    and recreation.
+- **Cultural service:** the spiritual and emotional benefits people
+  obtain from ecosystems, such as cultural heritage values, tourism,
+  and recreation.
 
 These services can be vital to coastal communities, such as food
 provision and storm protection, and to the global society, such as
-biodiversity conservation and climate mitigation. 
+biodiversity conservation and climate mitigation.
 
-![](assets/Figure_16.2.2.jpg){width=100%}
+![](assets/Figure_16.2.2.jpg)
 
 **Figure 16.2.2:** Global distribution of kelp forests, mangroves, salt marsh, and seagrass [@RN501]
 
@@ -88,9 +79,9 @@ nature-based solutions in coastal protection. The principles underlying
 such applications will be illustrated, particularly how nature-based
 solutions provide flexibility and adaptation under a changing climate.
 Examples of implementing nature-based solutions for coastal protection
-in practice will also be presented. 
+in practice will also be presented.
 
-# Nature-based solutions for coastal protection
+## Nature-based solutions for coastal protection
 
 Under a changing climate, coastal communities are under increasing
 threats from rising sea-levels and more frequent and intense tropical
@@ -113,159 +104,159 @@ some 39%, and the total value of flooding-related property damage by
 damages from coastal flooding would double, the costs from frequent
 storms would triple, and the costs of flood damage from severe storms
 (100-year events) would increase by over 90% to USD272 billion
-[@Kapos2019].  
+[@Kapos2019].
 
 Nature-based solutions are more sustainable and ecologically sound
 compared to conventional coastal engineering structures, and are able to
 provide valuable co-benefits. Table 16.2.1 summarises the engineered and
 nature-based options for coastal protection and highlights some of the
-co-benefits of the nature-based solutions. 
+co-benefits of the nature-based solutions.
 
 **Table 16.2.1:** Nature-based solutions for coastal protection and their co-benefits [@Kapos2019; @WorldBank2016]
 
 +----------------+----------------+----------------+----------------+
-| Hazards        | Hard           | Nature-based   | Co-benefits    |
-|                | Engineering    | solutions      |                |
-|                | options        |                |                |
+| Hazards | Hard | Nature-based | Co-benefits |
+| | Engineering | solutions | |
+| | options | | |
 +================+================+================+================+
-| Flooding       | -              | -   Coastal    | -   Provision  |
-|                |   Seawall/dyke |     wetlands   |     of fishery |
-|                |                |     such as    |     and forest |
-|                | -   Levees     |     mangroves  |     products   |
-|                |                |     and        |                |
-|                |                |     marshes    | -              |
-|                |                |     can        |  Opportunity   |
-|                |                |     provide    |  for           |
-|                |                |     areas of   |  tourism       |
-|                |                |     extra      |  and           |
-|                |                |     water      |  recreation    |
-|                |                |     storage    |  opportunities |
-|                |                |     and        |                |
-|                |                |     prevent    |                |
-|                |                |     storm      | -              |
-|                |                |     surges     |    Enhancement |
-|                |                |     from       |     of         |
-|                |                |     reaching   |   biodiversity |
-|                |                |     inland     |     and        |
-|                |                |     areas      |     habitats   |
-|                |                |                |     for        |
-|                |                |                |   economically |
-|                |                |                |     or         |
-|                |                |                |   ecologically |
-|                |                |                |     important  |
-|                |                |                |     species    |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                | -   Carbon     |
-|                |                |                |  sequestration |
-|                |                |                |     for        |
-|                |                |                |     climate    |
-|                |                |                |     mitigation |
+| Flooding | - | - Coastal | - Provision |
+| | Seawall/dyke | wetlands | of fishery |
+| | | such as | and forest |
+| | - Levees | mangroves | products |
+| | | and | |
+| | | marshes | - |
+| | | can | Opportunity |
+| | | provide | for |
+| | | areas of | tourism |
+| | | extra | and |
+| | | water | recreation |
+| | | storage | opportunities |
+| | | and | |
+| | | prevent | |
+| | | storm | - |
+| | | surges | Enhancement |
+| | | from | of |
+| | | reaching | biodiversity |
+| | | inland | and |
+| | | areas | habitats |
+| | | | for |
+| | | | economically |
+| | | | or |
+| | | | ecologically |
+| | | | important |
+| | | | species |
+| | | | |
+| | | | |
+| | | | - Carbon |
+| | | | sequestration |
+| | | | for |
+| | | | climate |
+| | | | mitigation |
 +----------------+----------------+----------------+----------------+
-| Shoreline      | -              | -   Protect    |                |
-| erosion        |   Seawall/dyke |     remaining  |                |
-|                |                |     intertidal |                |
-|                | -              |     ecosystems |                |
-|                |    Breakwaters |     such as    |                |
-|                |                |     muds,      |                |
-|                |                |   saltmarshes, |                |
-|                |                |     mangrove,  |                |
-|                |                |     seagrass,  |                |
-|                |                |     and        |                |
-|                |                |     vegetated  |                |
-|                |                |     dunes from |                |
-|                |                |     further    |                |
-|                |                |   degradation, |                |
-|                |                | fragmentation, |                |
-|                |                |     and loss   |                |
-|                |                |                |                |
-|                |                | -   Coastal    |                |
-|                |                |     wetlands   |                |
-|                |                |     can trap   |                |
-|                |                |     sediment   |                |
-|                |                |                |                |
-|                |                | -   Coastal    |                |
-|                |                |     ecosystems |                |
-|                |                |     can reduce |                |
-|                |                |     energy of  |                |
-|                |                |     tidal      |                |
-|                |                |     waves and  |                |
-|                |                |     storm      |                |
-|                |                |     surges,    |                |
-|                |                |     and thus   |                |
-|                |                |     reduce     |                |
-|                |                |     their      |                |
-|                |                |     height and |                |
-|                |                |     velocity   |                |
+| Shoreline | - | - Protect | |
+| erosion | Seawall/dyke | remaining | |
+| | | intertidal | |
+| | - | ecosystems | |
+| | Breakwaters | such as | |
+| | | muds, | |
+| | | saltmarshes, | |
+| | | mangrove, | |
+| | | seagrass, | |
+| | | and | |
+| | | vegetated | |
+| | | dunes from | |
+| | | further | |
+| | | degradation, | |
+| | | fragmentation, | |
+| | | and loss | |
+| | | | |
+| | | - Coastal | |
+| | | wetlands | |
+| | | can trap | |
+| | | sediment | |
+| | | | |
+| | | - Coastal | |
+| | | ecosystems | |
+| | | can reduce | |
+| | | energy of | |
+| | | tidal | |
+| | | waves and | |
+| | | storm | |
+| | | surges, | |
+| | | and thus | |
+| | | reduce | |
+| | | their | |
+| | | height and | |
+| | | velocity | |
 +----------------+----------------+----------------+----------------+
-| Storm damage   | -              | -   Coastal    |                |
-|                |   Seawall/dyke |     marsh and  |                |
-|                |                |     dune       |                |
-|                | -   Levees     |     management |                |
-|                |                |     and        |                |
-|                |                |    restoration |                |
-|                |                |     can        |                |
-|                |                |     dissipate  |                |
-|                |                |     wave       |                |
-|                |                |     energy and |                |
-|                |                |     storm      |                |
-|                |                |     winds      |                |
+| Storm damage | - | - Coastal | |
+| | Seawall/dyke | marsh and | |
+| | | dune | |
+| | - Levees | management | |
+| | | and | |
+| | | restoration | |
+| | | can | |
+| | | dissipate | |
+| | | wave | |
+| | | energy and | |
+| | | storm | |
+| | | winds | |
 +----------------+----------------+----------------+----------------+
-| Sea-level rise | -              | -   Coastal    |                |
-|                |   Seawall/dyke |     wetlands   |                |
-|                |                |     such as    |                |
-|                | -   Levee      |     mangroves  |                |
-|                |                |     and        |                |
-|                | -   Pumping    |     marshes    |                |
-|                |     stations   |     trap       |                |
-|                |                |     sediment   |                |
-|                |                |     and        |                |
-|                |                |     increase   |                |
-|                |                |     elevation  |                |
+| Sea-level rise | - | - Coastal | |
+| | Seawall/dyke | wetlands | |
+| | | such as | |
+| | - Levee | mangroves | |
+| | | and | |
+| | - Pumping | marshes | |
+| | stations | trap | |
+| | | sediment | |
+| | | and | |
+| | | increase | |
+| | | elevation | |
 +----------------+----------------+----------------+----------------+
-| Pollution,     | -   Wastewater | -   Re-        |                |
-| eutrophication |     treatment  | establishment  |                |
-| hypoxia        |     plant      |     and        |                |
-|                |                |    restoration |                |
-|                |                |     of coastal |                |
-|                |                |     wetlands   |                |
-|                |                |     to reduce  |                |
-|                |                |     nutrients  |                |
-|                |                |     and other  |                |
-|                |                |     pollutants |                |
-|                |                |     in coastal |                |
-|                |                |     waters     |                |
-|                |                |                |                |
-|                |                | -              |                |
-|                |                |    Restoration |                |
-|                |                |     or         |                |
-|                |                |     creation   |                |
-|                |                |     of         |                |
-|                |                |     shellfish  |                |
-|                |                |     reefs to   |                |
-|                |                |     restore    |                |
-|                |                |     active     |                |
-|                |                |     filtration |                |
-|                |                |     of         |                |
-|                |                |     suspended  |                |
-|                |                |     sediments  |                |
-|                |                |     and        |                |
-|                |                |     removal of |                |
-|                |                |     nutrients  |                |
-|                |                |     and other  |                |
-|                |                |     pollutants |                |
+| Pollution, | - Wastewater | - Re- | |
+| eutrophication | treatment | establishment | |
+| hypoxia | plant | and | |
+| | | restoration | |
+| | | of coastal | |
+| | | wetlands | |
+| | | to reduce | |
+| | | nutrients | |
+| | | and other | |
+| | | pollutants | |
+| | | in coastal | |
+| | | waters | |
+| | | | |
+| | | - | |
+| | | Restoration | |
+| | | or | |
+| | | creation | |
+| | | of | |
+| | | shellfish | |
+| | | reefs to | |
+| | | restore | |
+| | | active | |
+| | | filtration | |
+| | | of | |
+| | | suspended | |
+| | | sediments | |
+| | | and | |
+| | | removal of | |
+| | | nutrients | |
+| | | and other | |
+| | | pollutants | |
 +----------------+----------------+----------------+----------------+
-| Salinisation   | -   Irrigation | -   Coastal    |                |
-|                |                |     wetlands   |                |
-|                |                |     can        |                |
-|                |                |     stabilise  |                |
-|                |                |     shoreline  |                |
-|                |                |     and        |                |
-|                |                |     prevent    |                |
-|                |                |     sea water  |                |
-|                |                |     reaching   |                |
-|                |                |     inland     |                |
-|                |                |     areas      |                |
+| Salinisation | - Irrigation | - Coastal | |
+| | | wetlands | |
+| | | can | |
+| | | stabilise | |
+| | | shoreline | |
+| | | and | |
+| | | prevent | |
+| | | sea water | |
+| | | reaching | |
+| | | inland | |
+| | | areas | |
 +----------------+----------------+----------------+----------------+
 
 Index-based and processing-driven tools are developed to spatially
@@ -277,7 +268,7 @@ Multiscale Integrated Models of Ecosystem Services (MIMES). A more
 through discussion of the tools can be found in a report by the World
 Bank [@WorldBank2016].
 
-# The flexibility and adaptation of nature-based solutions under climate change
+## The flexibility and adaptation of nature-based solutions under climate change
 
 As discussed above, coastal ecosystems provide protection against
 natural hazards and are able to self-adjust under different future
@@ -300,8 +291,8 @@ Figure 16.2.3 shows the key processes of vegetated coastal habitats for
 climate change mitigation and adaptation.
 
 ![The role of coastal plant communities for climate change mitigation
-and adaptation \| Nature Climate
-Change](assets/Figure_16.2.3.png){width=100%}
+and adaptation | Nature Climate
+Change](assets/Figure_16.2.3.png)
 
 **Figure 16.2.3:** Key processes of vegetated coastal habitats for
 climate change mitigation and adaptation [@Duarte2013].
@@ -319,7 +310,7 @@ ecosystem[@Richards2016]. In order to have effective nature-based
 solutions, strategies should also account for the natural and human
 constraints in the region of interest.
 
-# Nature-based solutions for storm protection: Case study in Bangladesh
+## Nature-based solutions for storm protection: Case study in Bangladesh
 
 Bangladesh, a tropical developing country, faces high stress from
 hurricanes, but also houses the world's largest stretch of mangrove
@@ -332,17 +323,17 @@ established different coastal afforestation programmes to conserve and
 restore their mangrove for cyclone protection and improved stabilisation
 of the coastal area. These programmes aim to:
 
--   Mitigate disastrous effects of cyclones and storm surges (primary)
+- Mitigate disastrous effects of cyclones and storm surges (primary)
 
--   Supply urgently needed resources for the national economy (i.e.
-    timber and new land for agriculture)
+- Supply urgently needed resources for the national economy (i.e.
+  timber and new land for agriculture)
 
--   Create employment opportunities for remote rural communities
+- Create employment opportunities for remote rural communities
 
--   Develop suitable environments for wildlife, fish, and other
-    estuarine and marine fauna.
+- Develop suitable environments for wildlife, fish, and other
+  estuarine and marine fauna.
 
-![](assets/Figure_16.2.4.jpg){width=100%}
+![](assets/Figure_16.2.4.jpg)
 
 **Figure 16.2.4:** Land cover maps of the Sundarban mangrove forest, obtained from Landsat image classification for (a) 1975/1977, (b) 1989, (c) 2000 and (d) 2010. Cyclone tracks of November 1970, November 1988, and that of cyclone SIDR in November 2007 are shown on classified image of 1975, 1989 and 2010 respectively [@Quader2017]
 
@@ -356,7 +347,7 @@ mature enough for human settlement, people start to clear forest and
 begin living and developing shrimp farms on the new land 5 to 6 years
 after new land formation [@Iftekhar2004].
 
-# Nature-based solutions for coastal resilience: Case study in Uruguay
+## Nature-based solutions for coastal resilience: Case study in Uruguay
 
 Over 10 % of Uruguay's population live in the low elevation coastal zone
 [@Villamizar2016]. In 2012, Kiyú, at the Rio de la Plata's tidal
@@ -369,35 +360,35 @@ the resilience of Kiyú against extreme events [@Carro2018].
 This programme was implemented through:
 
 1. An integrated coastal management framework with five phases:
-    identification and selection of key management elements; action
-    planning; formal adoption and funding; implementation; and
-    evaluation
+   identification and selection of key management elements; action
+   planning; formal adoption and funding; implementation; and
+   evaluation
 
 2. A vulnerability reduction assessment to assess local stakeholders'
-    vulnerability and risk perception
+   vulnerability and risk perception
 
 3. Ecosystem-based adaptation measures to achieve a three-way synergy
-    between ecosystem conservation, socioeconomic development, and
-    climate adaptation
+   between ecosystem conservation, socioeconomic development, and
+   climate adaptation
 
 4. A beach profiling programme to monitor changes in the beach slope
-    and width.
+   and width.
 
 The implemented ecosystem-based adaptation measures are a mix of
 nature-based solutions and hard engineering approaches:
 
 1. Building 1,200m of captor fences to capture the sand moved by the
-    wind
+   wind
 
 2. Re-structuring local forest vegetation by cutting large-size
-    Eucalyptus trees (\~30m high) and planting native shrubs behind the
-    fence captor (Figure 16.2.5)
+   Eucalyptus trees (\~30m high) and planting native shrubs behind the
+   fence captor (Figure 16.2.5)
 
 3. Constructing over 600m of gutters (storm drains) to reduce erosion
-    and re-profiling coastal roads to allow the rainwater to enter the
-    gutters.
+   and re-profiling coastal roads to allow the rainwater to enter the
+   gutters.
 
-![](assets/Figure_16.2.5.png){width=100%}
+![](assets/Figure_16.2.5.png)
 
 **Figure 16.2.5:** Schematic representation of the beach profile (a) before, and (b) after the implementation of soft interventions. Panel (c) shows the desired near-future state, illustrating an ideal rebuilding of both beach profile and ridge of dunes [@Carro2018].
 
@@ -406,7 +397,7 @@ sufficient success for Uruguay to launch a second cycle of coastal
 management projects, expanding the actions along the coast of San José,
 starting 2015.
 
-# Summary
+## Summary
 
 Nature-based solutions provide effective coastal protection. More
 importantly, nature-based solutions offer extra flexibility and

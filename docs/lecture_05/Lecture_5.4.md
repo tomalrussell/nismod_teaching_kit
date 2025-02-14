@@ -1,26 +1,19 @@
----
-title: Mini-Lecture 5.4 - A target-driven development vision for a small island context
-keywords:
--   Targets
--   Development planning
--   SDGs
-authors:
--   Dan Adshead
----
+# Mini-Lecture 5.4 - A target-driven development vision for a small island context
 
 This mini-lecture will demonstrate how development targets have been
 incorporated in the infrastructure strategy of Saint Lucia using inputs
 from an infrastructure planning tool. It will present results showing
 specific targets being met within a broader infrastructure strategy.
 
-# Learning objectives
--   To learn methods for constructing and incorporating development
-    targets in infrastructure assessment
--   To demonstrate the construction and use of a 'Sustainable
-    Development Goal (SDG) indicator' as a measure of target progress,
-    using knowledge developed in the previous lectures.
+Learning objectives
 
-# Development targets and objectives in national infrastructure planning
+- To learn methods for constructing and incorporating development
+  targets in infrastructure assessment
+- To demonstrate the construction and use of a 'Sustainable
+  Development Goal (SDG) indicator' as a measure of target progress,
+  using knowledge developed in the previous lectures.
+
+## Development targets and objectives in national infrastructure planning
 
 Targets and objectives are an integral component of the infrastructure
 planning process. As described in mini-lectures 5.1 and 5.2, they allow
@@ -37,7 +30,7 @@ the overall strategy and outputs. The use of targets should be flexible
 and define an infrastructure vision which is subject to dynamic change,
 such as the emergence of new data and shifting national priorities.
 
-# A systematic method of infrastructure performance target setting in a national context
+## A systematic method of infrastructure performance target setting in a national context
 
 Quantified infrastructure performance targets used in the Saint Lucia
 assessment were established after a collaborative process of engagement
@@ -47,44 +40,44 @@ development challenges facing the country (see mini-lecture 1.4).
 A structured process was developed to identify and assign key sectoral
 targets and indicators:
 
--   First, a series of consultations with government entities, including
-    over 130 stakeholders, aimed to identify desired outcomes and
-    quantified achievement levels across strategic policy areas. For
-    example, a feasible timeline to achieve secure (uninterrupted) water
-    access for all regions of the island.
+- First, a series of consultations with government entities, including
+  over 130 stakeholders, aimed to identify desired outcomes and
+  quantified achievement levels across strategic policy areas. For
+  example, a feasible timeline to achieve secure (uninterrupted) water
+  access for all regions of the island.
 
--   Second, a consultation of key national policy and strategy
-    documents, such as the Third National Communication on Climate
-    Change and the National Policy on Wastewater Management, was
-    conducted to incorporate existing government priorities and
-    objectives. For example, wastewater collection targets in urban
-    areas and electricity reserve margins as entrenched in the
-    Electricity Supply Act.
+- Second, a consultation of key national policy and strategy
+  documents, such as the Third National Communication on Climate
+  Change and the National Policy on Wastewater Management, was
+  conducted to incorporate existing government priorities and
+  objectives. For example, wastewater collection targets in urban
+  areas and electricity reserve margins as entrenched in the
+  Electricity Supply Act.
 
--   Third, several targets were set according to quantifiable
-    international commitments, specifically the SDGs and Saint Lucia\'s
-    NDCs under the Paris Agreement. For example, the renewable energy
-    targets and emissions reductions indicated in Saint Lucia's NDCs,
-    and the SDG-based goal to halve untreated wastewater by 2030.
+- Third, several targets were set according to quantifiable
+  international commitments, specifically the SDGs and Saint Lucia\'s
+  NDCs under the Paris Agreement. For example, the renewable energy
+  targets and emissions reductions indicated in Saint Lucia's NDCs,
+  and the SDG-based goal to halve untreated wastewater by 2030.
 
--   Fourth, some existing targets for 2030 were extrapolated for the
-    longer term to maintain ambitious development objectives post‐2030.
-    For example, targeting higher wastewater treatment levels beyond the
-    2030 goal of 'halving untreated wastewater'.
+- Fourth, some existing targets for 2030 were extrapolated for the
+  longer term to maintain ambitious development objectives post‐2030.
+  For example, targeting higher wastewater treatment levels beyond the
+  2030 goal of 'halving untreated wastewater'.
 
--   Fifth, targets based on international best practice, such as
-    outcomes achieved in the United States or the European Union, were
-    used as a means to set aspirational objectives for Saint Lucia. For
-    example, rates of recycling or organic composting.
+- Fifth, targets based on international best practice, such as
+  outcomes achieved in the United States or the European Union, were
+  used as a means to set aspirational objectives for Saint Lucia. For
+  example, rates of recycling or organic composting.
 
 These targets were entered into the infrastructure planning tool as
 shown in Figure 5.4.1.
 
-![](assets/Fig_5.4.1.png){width=100%}
+![](assets/Fig_5.4.1.png)
 
 **Figure 5.4.1**: Target inputs for Saint Lucia’s key infrastructure sectors, forming a National Infrastructure Strategy (NIS). Business-as-usual is denoted as BAU.
 
-# Example: Inputting NDC commitments as targets in the planning model
+## Example: Inputting NDC commitments as targets in the planning model
 
 As described in the previous section, the infrastructure planning model
 introduced the government\'s mitigation targets, as stated in the NDCs,
@@ -110,13 +103,13 @@ high‐emitting sector, transport interventions were not included because
 demand in the sector relies on spatial considerations that could not be
 aggregated on a national scale.
 
-![](assets/Fig_5.4.2.png){width=100%}
+![](assets/Fig_5.4.2.png)
 
 **Figure 5.4.2:** Saint Lucia's emissions reductions targets for 2025
 and 2030 in its first NDC, in relation to its baseline emissions
 [@GoSL2015]
 
-# Structuring investments and policies to meet targets in the energy sector
+## Structuring investments and policies to meet targets in the energy sector
 
 Figure 5.4.3 shows how the achievement of these targets is presented
 within the results of the long-term infrastructure planning assessment
@@ -147,13 +140,13 @@ including through LED street lighting, lighting and cooling efficiencies
 in new buildings, and a focus on energy use reductions in the tourism
 sector [@Adshead2021].
 
-![](assets/Fig_5.4.3.png){width=100%}
+![](assets/Fig_5.4.3.png)
 
 **Figure 5.4.3:** Implementation and sequencing of a National
 Sustainability Strategy incorporating feasible investments and policies
 to meet relevant SDG and mitigation targets [@Adshead2021]
 
-# Using an 'SDG indicator' for infrastructure-linked targets
+## Using an 'SDG indicator' for infrastructure-linked targets
 
 Figure 5.4.4 aggregates sector-specific targets and relative achievement
 under the various strategies developed for the assessment (see Lecture
@@ -173,29 +166,29 @@ achievement of these targets by 2030.
 Sector‐specific impacts unique to Saint Lucia\'s development challenges
 can be identified, for example:
 
--   SDG targets that prioritise a secure energy supply (e.g. 7.1, 7.3,
-    and 11.1) fare relatively well in all strategies due to Saint
-    Lucia\'s implementation of strong reserve margins for diesel
-    generation
+- SDG targets that prioritise a secure energy supply (e.g. 7.1, 7.3,
+  and 11.1) fare relatively well in all strategies due to Saint
+  Lucia\'s implementation of strong reserve margins for diesel
+  generation
 
--   Targets centred on environmentally sustainable energy and waste
-    solutions (e.g. 7.2, 9.4, 12.5, and 14.5) fare poorly and decline
-    over time without strong interventions
+- Targets centred on environmentally sustainable energy and waste
+  solutions (e.g. 7.2, 9.4, 12.5, and 14.5) fare poorly and decline
+  over time without strong interventions
 
--   The impact of sudden events such as the depletion of landfill
-    capacity has immediate and visible effects across numerous targets.
+- The impact of sudden events such as the depletion of landfill
+  capacity has immediate and visible effects across numerous targets.
 
 In order to ensure sustained progress toward SDG achievement, planned
 infrastructure interventions must also incorporate resilience to the
 threat of climate impacts and other external shocks [@Adshead2021].
 
-![](assets/Fig_5.4.4.png){width=100%}
+![](assets/Fig_5.4.4.png)
 
 **Figure 5.4.4:** Combined SDG performance to 2030 by strategy,
 calculated across 18 targets directly linked to the provision of
 infrastructure using a scoring method developed by [@Adshead2019].
 
-# Summary
+## Summary
 
 This mini-lecture has demonstrated the incorporation of targets in
 infrastructure planning. It has used a small island case study to show

@@ -1,18 +1,4 @@
----
-title: Mini-Lecture 18.3 -- Cost-benefit analysis for nature-based
-  solutions
-
-keywords:
-
--   Nature-based solutions
-
--   Cost-benefit analysis
-
-authors:
-
--   Yu Mo
-
----
+# Mini-Lecture 18.3 -- Cost-benefit analysis for nature-based solutions
 
 This lecture provides an overview of methods that can be used to
 estimate the value of nature-based solutions' services. This lecture
@@ -20,19 +6,17 @@ also presents a cost comparison of nature-based solutions to their
 corresponding traditional grey infrastructures. Case studies of valuing
 nature-based solutions in practice are also presented.
 
-# Learning objectives
+Learning objectives
 
--   Recognise that nature-based solutions are cost-effective in
-    resolving many issues
+- Recognise that nature-based solutions are cost-effective in
+  resolving many issues
 
--   Gain a general understanding of the common methods in estimating the
-    monetary values of nature-based solutions
+- Gain a general understanding of the common methods in estimating the
+  monetary values of nature-based solutions
 
--   Perform cost-benefit analysis for nature-based solutions.
+- Perform cost-benefit analysis for nature-based solutions.
 
-
-
-# Nature-based solutions are cost-effective
+## Nature-based solutions are cost-effective
 
 Nature-based solutions are effective for many problems faced by society,
 including water regulation (Lecture 16.1), soil stabilisation (Lecture
@@ -46,43 +30,43 @@ Better understanding of the cost and benefit of nature-based solutions
 will inform better policy making through economic incentives
 [@MEA2005]:
 
--   Elimination of subsidies that promote excessive use of ecosystem
-    services (and, where possible, transfer of these subsidies to
-    payments for non-marketed ecosystem services)
+- Elimination of subsidies that promote excessive use of ecosystem
+  services (and, where possible, transfer of these subsidies to
+  payments for non-marketed ecosystem services)
 
--   Greater use of economic instruments and market-based approaches in
-    the management of ecosystem services
+- Greater use of economic instruments and market-based approaches in
+  the management of ecosystem services
 
-    -   Taxes or user fees for activities with "external" costs
+  - Taxes or user fees for activities with "external" costs
 
-    -   Creation of markets, including through cap-and-trade systems
+  - Creation of markets, including through cap-and-trade systems
 
-    -   Payment for ecosystem services
+  - Payment for ecosystem services
 
-    -   Mechanisms to enable consumer preferences to be expressed
-        through markets.
+  - Mechanisms to enable consumer preferences to be expressed
+    through markets.
 
-# Methods for valuing the benefits of nature-based solutions
+## Methods for valuing the benefits of nature-based solutions
 
 Nature based solutions provide many valuable provisioning, regulating,
 supporting, and cultural services:
 
--   **Provisioning services:** Embodied in the products that are
-    directly consumed, such as the fish produced by a fishery or a crop
-    from agricultural land. These services are most often traded in
-    markets
+- **Provisioning services:** Embodied in the products that are
+  directly consumed, such as the fish produced by a fishery or a crop
+  from agricultural land. These services are most often traded in
+  markets
 
--   **Supporting services:** Underlying ecosystem processes, such as
-    soil formation and oxygen production, which support the functioning
-    of other ecosystem services
+- **Supporting services:** Underlying ecosystem processes, such as
+  soil formation and oxygen production, which support the functioning
+  of other ecosystem services
 
--   **Regulating services:** Ecosystem functions that control
-    biophysical cycles and levels, such as nutrient cycling, water
-    filtration, or flood frequency and height
+- **Regulating services:** Ecosystem functions that control
+  biophysical cycles and levels, such as nutrient cycling, water
+  filtration, or flood frequency and height
 
--   **Cultural services:** The intangible benefits ecosystems provide to
-    people through emotional enjoyment, such as aesthetic experiences
-    and recreation.
+- **Cultural services:** The intangible benefits ecosystems provide to
+  people through emotional enjoyment, such as aesthetic experiences
+  and recreation.
 
 When estimating the value of these services, a distinction is usually
 made between "use or nonuse", "direct or indirect", and "market and
@@ -97,16 +81,18 @@ the contingent valuation method.
 
 **Table 18.3.1:** Examples of methods for valuing nature-based solution services
 
-  Method                          Service                                                                Nature-based solution                         Value/ Economic returns   Source
-  ------------------------------- ---------------------------------------------------------------------- --------------------------------------------- ------------------------- --------------------
-  Market price                    Provisioning: fishery                                                  Coral reefs and mangroves in American Samoa   USD0.75 million/year      [@Polunin2004]
-  Market price                    Regulating services: Climate mitigation (carbon sequestration)         Planted mangroves in Northern Viet Nam        USD218 million            [@Kapos2019]
-  Avoided damage                  Regulating services: storm protection against hurricane Sandy (2012)   Coastal wetlands in the northeast USA         USD625 million            [@Costanza2008]
-  Expected damage function        Regulating services: storm protection                                  Mangroves in Thailand                         USD645,769                [@Barbier2015]
-  Replacement cost                Regulating services: water filtration                                  Catskill watersheds                           USD6-8 Billion            [@Heal2005]
-  Value transfer + market value   Cultural service: tourism (diving/snorkeling)                          Coral reefs in American Samoa                 USD80,000                 [@WorldBank2016]
+Method Service Nature-based solution Value/ Economic returns Source
 
-# Cost comparison of nature-based solutions and grey infrastructure
+---
+
+Market price Provisioning: fishery Coral reefs and mangroves in American Samoa USD0.75 million/year [@Polunin2004]
+Market price Regulating services: Climate mitigation (carbon sequestration) Planted mangroves in Northern Viet Nam USD218 million [@Kapos2019]
+Avoided damage Regulating services: storm protection against hurricane Sandy (2012) Coastal wetlands in the northeast USA USD625 million [@Costanza2008]
+Expected damage function Regulating services: storm protection Mangroves in Thailand USD645,769 [@Barbier2015]
+Replacement cost Regulating services: water filtration Catskill watersheds USD6-8 Billion [@Heal2005]
+Value transfer + market value Cultural service: tourism (diving/snorkeling) Coral reefs in American Samoa USD80,000 [@WorldBank2016]
+
+## Cost comparison of nature-based solutions and grey infrastructure
 
 A growing body of evidence suggests that nature-based solutions are
 lower in cost compared to traditional grey infrastructure when
@@ -135,7 +121,7 @@ ratios of a project by reducing the cost of engineered approaches, and
 by generating additional favourable benefits from the co-benefits, which
 may increase over time as the nature-based components mature.
 
-# Case study: Cost-benefit analysis of mangrove plantation in Viet Nam
+## Case study: Cost-benefit analysis of mangrove plantation in Viet Nam
 
 Viet Nam, with an extensive coastline of over 3,000 km, is highly
 vulnerable to many climate-related disasters such as storms and
@@ -159,19 +145,19 @@ project. The benefit-cost ratio of the project is almost 30.
 **Table 18.3.3:** Cost-benefit analysis of the Mangrove Plantation and Disaster Risk Reduction project [@RedCross2012].
 
 +----------------------------+-----------------------+
-| Cost                       | USD8.88 million       |
+| Cost | USD8.88 million |
 +============================+=======================+
-| Benefits                   | USD239.7 million      |
-|                            |                       |
-| -   Dyke damage avoided    | -   USD295,000        |
-|                            |                       |
-| -   Community risk avoided | -   USD15 million     |
-|                            |                       |
-| -   Aquaculture products   | -   USD13.2 million\* |
-|                            |                       |
-| -   CO~2~ sequestration    | -   USD218 million    |
+| Benefits | USD239.7 million |
+| | |
+| - Dyke damage avoided | - USD295,000 |
+| | |
+| - Community risk avoided | - USD15 million |
+| | |
+| - Aquaculture products | - USD13.2 million\* |
+| | |
+| - CO~2~ sequestration | - USD218 million |
 +----------------------------+-----------------------+
-| Benefit-cost ratio         | 27                    |
+| Benefit-cost ratio | 27 |
 +----------------------------+-----------------------+
 
 \*for selected communes only
@@ -182,7 +168,7 @@ wastewater treatment, water supply and recharge, are not included. With
 improved information of the co-benefits, the benefit-cost ratio would be
 even higher.
 
-# Case study: Estimating the total economic value of Bermuda's coral reefs
+## Case study: Estimating the total economic value of Bermuda's coral reefs
 
 @Sarkis2013 estimated the total economic value of Bermuda's reef by
 identifying and valuing six key goods and services provided by the
@@ -193,7 +179,7 @@ the northernmost reef system in the Atlantic Ocean. Nonetheless,
 Bermuda's reefs are ranked worldwide at "high risk", in great part due
 to the island's high human population density within 20km of the reefs.
 
-![](assets/Figure_18.3.1.png){width=100%}
+![](assets/Figure_18.3.1.png)
 
 **Figure 18.3.1:** Bermuda's known coral reef cover including hard and soft coral species [@Sarkis2013]
 
@@ -220,76 +206,76 @@ the total economic value, respectively.
 **Table 18.3.4:** The value of the six key services of Bermuda's reef and the method used to estimate those values
 
 +----------------------+----------------------+----------------------+
-| Ecosystem service    | Method               | Average value        |
-|                      |                      | (million USD/year)   |
+| Ecosystem service | Method | Average value |
+| | | (million USD/year) |
 +======================+======================+======================+
-| Tourism              | -   The travel cost  | 405.9                |
-|                      |     method,          |                      |
-|                      |     resulting in the |                      |
-|                      |     "consumer        |                      |
-|                      |     surplus", or the |                      |
-|                      |     value of the     |                      |
-|                      |     coral reefs to   |                      |
-|                      |     tourist          |                      |
-|                      |     recreation from  |                      |
-|                      |     the visitor's    |                      |
-|                      |     perspective      |                      |
-|                      |                      |                      |
-|                      | -   The net factor   |                      |
-|                      |     income method,   |                      |
-|                      |     resulting in the |                      |
-|                      |     "producer        |                      |
-|                      |     surplus", or the |                      |
-|                      |     value of coral   |                      |
-|                      |     reefs in the     |                      |
-|                      |     production of a  |                      |
-|                      |     marketed good    |                      |
-|                      |     generated        |                      |
-|                      |     through paid     |                      |
-|                      |     activities such  |                      |
-|                      |     as SCUBA diving  |                      |
-|                      |     and snorkeling   |                      |
-|                      |                      |                      |
-|                      | -   The contingent   |                      |
-|                      |     valuation        |                      |
-|                      |     method,          |                      |
-|                      |     providing a      |                      |
-|                      |     'Willingness to  |                      |
-|                      |     Pay' value for   |                      |
-|                      |     coral reef       |                      |
-|                      |     conservation, an |                      |
-|                      |     additional       |                      |
-|                      |     measure of       |                      |
-|                      |     "consumer        |                      |
-|                      |     surplus"         |                      |
+| Tourism | - The travel cost | 405.9 |
+| | method, | |
+| | resulting in the | |
+| | "consumer | |
+| | surplus", or the | |
+| | value of the | |
+| | coral reefs to | |
+| | tourist | |
+| | recreation from | |
+| | the visitor's | |
+| | perspective | |
+| | | |
+| | - The net factor | |
+| | income method, | |
+| | resulting in the | |
+| | "producer | |
+| | surplus", or the | |
+| | value of coral | |
+| | reefs in the | |
+| | production of a | |
+| | marketed good | |
+| | generated | |
+| | through paid | |
+| | activities such | |
+| | as SCUBA diving | |
+| | and snorkeling | |
+| | | |
+| | - The contingent | |
+| | valuation | |
+| | method, | |
+| | providing a | |
+| | 'Willingness to | |
+| | Pay' value for | |
+| | coral reef | |
+| | conservation, an | |
+| | additional | |
+| | measure of | |
+| | "consumer | |
+| | surplus" | |
 +----------------------+----------------------+----------------------+
-| Coastal protection   | -   Avoided damages  | 265.9                |
+| Coastal protection | - Avoided damages | 265.9 |
 +----------------------+----------------------+----------------------+
-| Recreation and       | -   'Willingness to  | 36.5                 |
-| Cultural             |     Pay' method by   |                      |
-|                      |     surveying local  |                      |
-|                      |     residents        |                      |
+| Recreation and | - 'Willingness to | 36.5 |
+| Cultural | Pay' method by | |
+| | surveying local | |
+| | residents | |
 +----------------------+----------------------+----------------------+
-| Fishery              | -   Commercial       | 4.9                  |
-|                      |     fisheries        |                      |
-|                      |                      |                      |
-|                      | -   Recreational     |                      |
-|                      |     fisheries        |                      |
+| Fishery | - Commercial | 4.9 |
+| | fisheries | |
+| | | |
+| | - Recreational | |
+| | fisheries | |
 +----------------------+----------------------+----------------------+
-| Amenity              | -   The hedonic      | 6.8                  |
-|                      |     pricing method,  |                      |
-|                      |     or the added     |                      |
-|                      |     value to         |                      |
-|                      |     residential      |                      |
-|                      |     properties       |                      |
+| Amenity | - The hedonic | 6.8 |
+| | pricing method, | |
+| | or the added | |
+| | value to | |
+| | residential | |
+| | properties | |
 +----------------------+----------------------+----------------------+
-| Biodiversity         | -   Budgets of both  | 2.3                  |
-| research             |     governmental and |                      |
-|                      |     non-governmental |                      |
-|                      |     institutions in  |                      |
-|                      |     Bermuda          |                      |
+| Biodiversity | - Budgets of both | 2.3 |
+| research | governmental and | |
+| | non-governmental | |
+| | institutions in | |
+| | Bermuda | |
 +----------------------+----------------------+----------------------+
-| Total                | \-                   | **722.4**            |
+| Total | \- | **722.4** |
 +----------------------+----------------------+----------------------+
 
 The high economic value of the coral reefs will generate awareness of
@@ -299,20 +285,20 @@ tool for different stakeholders to integrate the ecosystem health and
 functions into public policy and decision-making. Based on results from
 the study, recommendations are provided for future policy making:
 
--   Prioritise potential policy interventions in an economically sound
-    manner
+- Prioritise potential policy interventions in an economically sound
+  manner
 
--   Make use of the cultural importance residents play on marine
-    ecosystems to improve coral reef management
+- Make use of the cultural importance residents play on marine
+  ecosystems to improve coral reef management
 
--   Actively involve the tourism industry in the development of
-    sustainable coral reef management
+- Actively involve the tourism industry in the development of
+  sustainable coral reef management
 
--   Balance consumptive and non-consumptive uses of coral reefs by
-    strategising spatial management and protecting critical marine
-    areas.
+- Balance consumptive and non-consumptive uses of coral reefs by
+  strategising spatial management and protecting critical marine
+  areas.
 
-# Summary
+## Summary
 
 Nature-based solutions are effective and economically sensible. They
 offer higher benefit/cost ratio compared to traditional grey

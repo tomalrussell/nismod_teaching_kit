@@ -1,23 +1,16 @@
----
-title: Mini-Lecture 11.3 - Calculating disruptions to end-users
-keywords:
-- Infrastructure service disruptions
-- Population affected by disruptions
-authors:
-- Olivia Becher
----
+# Mini-Lecture 11.3 - Calculating disruptions to end-users
 
 This mini-lecture covers how infrastructure disruptions affect people
 who are dependent on infrastructure services. A method for calculating
 the extent of people served by infrastructure assets, and hence exposed
 to disruptions, at a large scale, is also described.
 
-# Learning objectives
+Learning objectives
 
 - To recognise society's direct and indirect dependence on infrastructure
 - To be able to quantify the number of people affected by disruptions for large-scale analysis.
 
-# Introduction
+## Introduction
 
 This mini-lecture explores the extent of infrastructure disruptions in
 terms of the population affected. A widely used method for estimating
@@ -30,7 +23,7 @@ that puts these concepts into practice to understand the population
 directly and indirectly affected by flooding in the Thames catchment is
 explored.
 
-# Identifying which populations are served by infrastructure assets
+## Identifying which populations are served by infrastructure assets
 
 At large scales, data on which infrastructure assets serve which
 populations is largely unavailable. To overcome this, a technique that
@@ -51,14 +44,14 @@ overlaid with the Voronoi polygons dedicated to each electricity
 substation. This ultimately indicates which customers are served by
 which asset.
 
-![](assets/Figure_11.3.1.jpg){width=100%}
+![](assets/Figure_11.3.1.jpg)
 
 **Figure 11.3.1:** Illustration of how populations can be divided
 according to Voronoi polygons dedicated to each electricity substation
 in order to estimate how many customers are served by each asset
 [@Pant2018]
 
-# Identifying which populations are indirectly served by infrastructure assets
+## Identifying which populations are indirectly served by infrastructure assets
 
 The previous section shows how Voronoi diagrams can be used to allocate
 the population served directly by each asset. However, certain assets,
@@ -79,7 +72,7 @@ assets. By understanding the extent of the service demand area
 associated with each, the population disrupted both directly and
 indirectly by the failure of asset X can be quantified.
 
-![](assets/Figure_11.3.2.png){width=100%}
+![](assets/Figure_11.3.2.png)
 
 **Figure 11.3.2:** Illustration of how, by allocating the service demand
 areas/populations served per infrastructure asset, one can estimate the
@@ -91,7 +84,7 @@ the total number of people disrupted, highlighting the importance of
 understanding the behaviour of infrastructure as an interconnected
 network or system-of-systems.
 
-# Consequences for criticality analysis and decision-making
+## Consequences for criticality analysis and decision-making
 
 The populations served both directly and indirectly by individual assets
 provides an indication of the population exposed to asset failure, and
@@ -100,18 +93,18 @@ thus the criticality of different assets.
 For example, the criticality of an electricity substation can be
 calculated by combining:
 
-1) The number of customers it serves directly (that are potentially
-exposed to electricity asset failure) by assigning Voronoi polygons
-to individual electricity substation assets; and
+1. The number of customers it serves directly (that are potentially
+   exposed to electricity asset failure) by assigning Voronoi polygons
+   to individual electricity substation assets; and
 
-2) The number of customers that are served by other infrastructure
-systems supplied by that electricity substation, such as gas, water,
-wastewater and telecommunications infrastructure.
+2. The number of customers that are served by other infrastructure
+   systems supplied by that electricity substation, such as gas, water,
+   wastewater and telecommunications infrastructure.
 
 This metric can be used to guide decision-making by prioritising the
 most 'critical' assets for improvement works.
 
-# Putting it into practice
+## Putting it into practice
 
 This was put into practice by [@Pant2018] in the Thames catchment.
 The number of domestic customers exposed to the direct flood-induced
@@ -124,7 +117,7 @@ to see the additional number of people indirectly exposed to electricity
 disruptions via water supply, wastewater and telecommunications
 infrastructure disruptions.
 
-![](assets/Figure_11.3.3.jpg){width=100%}
+![](assets/Figure_11.3.3.jpg)
 
 **Figure 11.3.3:** Number of domestic customers directly and indirectly
 exposed to the direct flood-induced disruptions for a range of
@@ -134,7 +127,7 @@ Disruptions to infrastructure services not only affect people, but also
 affect various economic activities. This will be explored in the
 following section.
 
-# Summary
+## Summary
 
 This mini-lecture discusses the disruptions that infrastructure failures
 impose on dependent populations. You should now recognise society's

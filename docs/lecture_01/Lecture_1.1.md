@@ -1,28 +1,18 @@
----
-title: Mini-Lecture 1.1 - Introduction to the course
-keywords:
--   Infrastructure systems
--   Sustainable development
--   Climate adaptation and resilience
-authors:
--   Amelie Paszkowski
----
-
-# Short description
+# Mini-Lecture 1.1 - Introduction to the course
 
 This mini-lecture will provide an overview of how the course is
 structured and summarises the main content. Our course is being
 delivered in three modules, which are each described within this
 mini-lecture.
 
-# Learning objectives
+Learning objectives
 
--   To present the structure of the course for both the lecture content
-    and the hands-on sessions
--   To obtain an introductory insight into the content delivered within
-    this course.
+- To present the structure of the course for both the lecture content
+  and the hands-on sessions
+- To obtain an introductory insight into the content delivered within
+  this course.
 
-# Introduction and structure of the course
+## Introduction and structure of the course
 
 This course is centred around the role that infrastructure plays in
 enabling climate compatible growth. We provide the latest science in
@@ -61,7 +51,7 @@ recommendations of actions are made.
 The following sections of this mini-lecture will provide an overview of
 the three modules.
 
-# Infrastructure for sustainable development
+## Infrastructure for sustainable development
 
 **Module lecture content:**
 
@@ -101,7 +91,7 @@ the application of the NISMOD tool to St Lucia gives you hands-on
 experience with the methodology used for national-scale sustainable
 infrastructure development by experts in the field.
 
-# Infrastructure for climate resilience
+## Infrastructure for climate resilience
 
 **Module lecture content:**
 
@@ -131,7 +121,7 @@ and multiple points of failure. Finally, we will use the knowledge and
 outcomes from the hands-on sessions to evaluate potential infrastructure
 adaptation options for Ghana.
 
-# Nature-based solutions for sustainable, climate-compatible development
+## Nature-based solutions for sustainable, climate-compatible development
 
 **Module lecture content:**
 
@@ -169,7 +159,7 @@ Services) and our group in the Environmental Change Institute at Oxford
 University, which enables the integration of nature-based solutions in
 core infrastructure sectors for the delivery on the SDGs.
 
-# Concluding remarks
+## Concluding remarks
 
 This course is targeted at anyone who is interested in understanding the
 role that infrastructure plays in underpinning sustainable and resilient

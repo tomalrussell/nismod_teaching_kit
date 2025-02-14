@@ -1,11 +1,4 @@
----
-title: Mini-Lecture 10.1 - Assessing infrastructure asset vulnerability
-keywords:
--   Asset vulnerability
--   Climate hazards
-authors:
--   Olivia Becher
----
+# Mini-Lecture 10.1 - Assessing infrastructure asset vulnerability
 
 Estimating climate risks to infrastructure systems entails assessing the
 performance of infrastructure assets, individually and in combination.
@@ -13,14 +6,14 @@ This mini-lecture explores the quantification of climate risks to
 infrastructure assets in more detail. We look at the performance of the
 assets when confronted with an extreme load.
 
-# Learning objectives
+Learning objectives
 
--   To be able to explain the concept of asset vulnerability
--   To be aware of the different definitions of vulnerability
--   To recognise the difference between the sensitivity and fragility
-    approaches to vulnerability assessments.
+- To be able to explain the concept of asset vulnerability
+- To be aware of the different definitions of vulnerability
+- To recognise the difference between the sensitivity and fragility
+  approaches to vulnerability assessments.
 
-# Introduction
+## Introduction
 
 As outlined in mini-Lecture 8.2, infrastructure risk is a combination of
 hazards, exposure and vulnerability. This lecture deals with the
@@ -34,17 +27,17 @@ provide an overview of the implications of the spatial footprint of
 extreme events for infrastructure risk assessments, which will be
 further explored in mini-lecture 10.4.
 
-# Defining vulnerability
+## Defining vulnerability
 
 Definitions of vulnerability in the climate change-related literature
 tend to fall into two categories: (1) biophysical vulnerability, or (2)
 social vulnerability, viewing vulnerability either:
 
--   In terms of the amount of (potential) damage caused to a system by a
-    particular climate-related event or hazard [@Jones2003], or
+- In terms of the amount of (potential) damage caused to a system by a
+  particular climate-related event or hazard [@Jones2003], or
 
--   As a state that exists within a system before it encounters a hazard
-    event [@Allen2003].
+- As a state that exists within a system before it encounters a hazard
+  event [@Allen2003].
 
 Biophysical vulnerability is concerned with the ultimate impacts of a
 hazard event and is often viewed in terms of the amount of damage
@@ -61,11 +54,11 @@ susceptible to damage from external hazards [@Allen2003].
 For our purposes, we adopt the biophysical definition of vulnerability,
 which is also the definition of vulnerability that is adopted by the
 Intergovernmental Panel on Climate Change (IPCC) Third Assessment
-Report: *"Vulnerability refers to the propensity of exposed elements
+Report: _"Vulnerability refers to the propensity of exposed elements
 such as human beings, their livelihoods, and assets to suffer adverse
-effects when impacted by hazard events"* [@McCarthy2001].
+effects when impacted by hazard events"_ [@McCarthy2001].
 
-# Vulnerability functions as sensitivity
+## Vulnerability functions as sensitivity
 
 Vulnerability can be conceptualised as asset-level sensitivity, or the
 level of asset deterioration associated with a given load. Note that, in
@@ -81,7 +74,7 @@ replacement cost of an infrastructure asset. Such a function is
 illustrated in Figure 10.1.1, where the variance distribution deals with
 the uncertainty associated with the function.
 
-![](assets/Figure_10.1.1.png){width=100%}
+![](assets/Figure_10.1.1.png)
 
 **Figure 10.1.1:** A sensitivity curve which formalises the relationship
 between hazard intensity (e.g. flood inundation depth) versus the mean
@@ -92,7 +85,7 @@ Note that here we are referring only to direct economic damages, as
 opposed to considering indirect damages. The differences between direct
 and indirect damages are discussed in mini-lecture 11.1.
 
-# Fragility curves for measuring vulnerability
+## Fragility curves for measuring vulnerability
 
 Vulnerability can alternatively be conceptualised in terms of asset
 fragility*.* The fragility of an asset describes the conditional
@@ -102,7 +95,7 @@ modes of failure, or damage states, in Figure 10.1.2. Uncertainty in
 this formalisation is communicated by the probability distribution
 function of each damage state of the fragility functions.
 
-![](assets/Figure_10.1.2.png){width=100%}
+![](assets/Figure_10.1.2.png)
 
 **Figure 10.1.2:** Range of potential different states of asset failure
 that can be used to derive a probability of failure conditional on
@@ -111,7 +104,7 @@ hazard loading [@GPSS2019]
 The formalisation and applications of fragility curves for different
 kinds of assets are explored further in the following mini-lecture 10.2.
 
-# Process of calculating vulnerability using fragility curves
+## Process of calculating vulnerability using fragility curves
 
 Thus, the steps that must be taken to formalise the vulnerability of an
 asset via a sensitivity or fragility curve are as follows:
@@ -148,20 +141,20 @@ Fragility curves can be combined with the loading distribution to
 generate an actual probability of defense failure, $P(D_{i})$
 [@Hall2003].
 
-P(Di)= ∫∞0p(x) P(Di\|x) dx*PDi= ∫0∞px PDix dx*
+$$P(Di)= \int_{0}^{\infty} p(x) P(Di\|x) dx*PDi= \int_{0}^{\infty} px PDix dx*$$
 
 This function is what is described by a fragility curve, such as in
 Figure 10.1.3, whereby the probability of failure, $P(D_{i}|x)$, can be
 extracted for a given loading scenario, $x$.
 
-![](assets/Figure_10.1.3.png){width=100%}
+![](assets/Figure_10.1.3.png)
 
 **Figure 10.1.3:** Overtopping fragility curve used in national flood
 risk assessment (fluvial and sea defence). Note that Uncertainty is
 reflected through the use of upper and lower bounds on the conditional
 failure for fluvial and coastal flooding [@Hall2003]
 
-# Summary
+## Summary
 
 This mini-lecture introduced the concept of infrastructure vulnerability
 which is a key element of risk assessments. You should now be able to

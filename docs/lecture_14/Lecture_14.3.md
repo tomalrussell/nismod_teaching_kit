@@ -1,12 +1,4 @@
----
-title: Mini-Lecture 14.3 -- Decision-making under uncertainty
-keywords:
--   Uncertainty
--   Robustness
--   Multi-objective planning
-authors:
--   Aman Majid
----
+# Mini-Lecture 14.3 -- Decision-making under uncertainty
 
 This lecture introduces decision theory under conditions of imperfect or
 incomplete information. We will cover how to define and categorise
@@ -14,15 +6,15 @@ uncertainties relevant to specific decision problems. After introducing
 the basic components of frameworks within decision theory under
 uncertainty, we will run through an illustrative example.
 
-# Learning objectives
+Learning objectives
 
--   Be able to define and categorise uncertainties
--   Understand the tenets of frameworks within decision theory under
-    uncertainty
--   Recognise the importance of robustness within decision-making
-    frameworks.
+- Be able to define and categorise uncertainties
+- Understand the tenets of frameworks within decision theory under
+  uncertainty
+- Recognise the importance of robustness within decision-making
+  frameworks.
 
-# Uncertainty and decision-making
+## Uncertainty and decision-making
 
 Making decisions about infrastructure and environmental systems
 necessitates a process to anticipate and manage change. Nowadays this
@@ -35,7 +27,7 @@ decarbonising supply sources, as well as managing the impacts from
 climate change and rapidly changing regulation. Such complexities extend
 to all infrastructure systems.
 
-These issues are defined by [uncertainty]{.ul}. We can simply define
+These issues are defined by [uncertainty]. We can simply define
 uncertainty as a situation involving imperfect or unknown information
 about the past, present, or future events. For a decision-maker,
 uncertainty represents the gap between the best information available to
@@ -46,7 +38,7 @@ choices based on imperfect or incomplete information. It has come to be
 recognised as an important aspect in planning and managing
 infrastructure systems.
 
-# Types of uncertainty
+## Types of uncertainty
 
 In order for us to manage uncertainty when making decisions, it is
 important to first identify the types of uncertainties that we are
@@ -54,7 +46,7 @@ dealing with. We can define two extremes of uncertainty: complete
 determinism and total ignorance, within which four levels of
 uncertainties exist [@Walker2003].
 
-![](assets/Figure_14.3.1.png){width=100%}
+![](assets/Figure_14.3.1.png)
 
 **Figure 14.3.1:** Levels of uncertainty [@Marchau2019]
 
@@ -70,8 +62,8 @@ The total solar irradiance over a solar energy farm is an example of a
 Level 2 uncertainty. Level 3 uncertainties cannot be described in a
 probabilistic sense nor can they be safely assumed as identical to
 historical observations. However, they can be defined to fall within a
-range of plausible futures and hence can be treated with *scenario
-analysis*. For example, rate at which population changes in a given
+range of plausible futures and hence can be treated with _scenario
+analysis_. For example, rate at which population changes in a given
 region is a Level 3 uncertainty. Level 4 uncertainties are the deeply
 uncertain factors that can only be captured with a vast range of
 plausible assumptions (4a), such as electricity prices, or those that
@@ -81,7 +73,7 @@ In any case, the first step in dealing with uncertainties is to list and
 categorise each uncertainty relevant to a decision problem. This allows
 us to define the best approach to handle the given uncertainty.
 
-# Dealing with uncertainty
+## Dealing with uncertainty
 
 Recent times have witnessed a proliferation in the number of
 methodologies developed for decision-making under uncertainty. The most
@@ -92,12 +84,12 @@ analysis [@Ben2006]. Whilst each of these methodologies have their
 own nuances and jargon, they all share a common set of tenets
 [@Hall2020], in that they all:
 
--   Extensively test a broad range of uncertainties to which a system
-    might be exposed
+- Extensively test a broad range of uncertainties to which a system
+  might be exposed
 
--   Emphasise the use of multiple objectives in the planning problem
+- Emphasise the use of multiple objectives in the planning problem
 
--   Identify solutions that are **robust** to uncertainties.
+- Identify solutions that are **robust** to uncertainties.
 
 In other words, investment plans are rigorously stress-tested to the
 range of uncertainties defined in the problem formulation stages, as
@@ -106,14 +98,14 @@ are evaluated against multiple performance criteria (see mini-lecture
 14.2). Finally, analysis and decision-makers identify strategies that
 are robust, in that they perform adequately well in relation to multiple
 objectives across a range of scenarios and uncertainties---referred to
-as *satisficing* *solutions*. The emphasis on robustness is a
+as _satisficing_ _solutions_. The emphasis on robustness is a
 distinguishing feature of decision theory under uncertainty. There is a
 widespread recognition that no 'best' or 'optimal' option exists.
 Rather, it is argued that decision-makers ought to go beyond this frame
 of thinking to identify robust solutions, which can perform acceptably
 under numerous possible states of the world.
 
-# Robust decision-making: An example (part I)
+## Robust decision-making: An example (part I)
 
 Let us illustrate decision theory under uncertain conditions through an
 example. Building on the contents of mini-lecture 14.2, consider a
@@ -138,7 +130,7 @@ following uncertainties can be identified:
 Of course, stakeholders might identify additional uncertainties but the
 above will suffice for this illustrative example.
 
-![](assets/Figure_14.3.2.png){width=100%}
+![](assets/Figure_14.3.2.png)
 
 **Figure 14.3.2:** Levels of uncertainty [@Borgomeo2018]
 
@@ -148,19 +140,19 @@ decision-makers to deploy simulation models, which are a digital
 representation of a real-world system. A simulation model is a handy
 instrument in the planner's toolbox as it allows us to conduct thousands
 of simulations of alternative strategies over a vast range of scenarios.
-Hence, we can exhaustively stress-test each strategy to see *what*
-happens (severity) and for *how long* (duration).
+Hence, we can exhaustively stress-test each strategy to see _what_
+happens (severity) and for _how long_ (duration).
 
 Figure 14.3.3 shows an example simulation model of a water system in the
 Thames basin, England, using the WATHNET modelling software. The use of
 such models is widespread in infrastructure planning and management.
 
-![](assets/Figure_14.3.3.png){width=100%}
+![](assets/Figure_14.3.3.png)
 
 **Figure 14.3.3**: An example simulation model constructed for the
 Thames basin, England, using the WATHNET platform
 
-# Robust decision-making: An example (part II)
+## Robust decision-making: An example (part II)
 
 Once we have constructed a system model and formulated a set of
 uncertainties and options, we can begin conducting vast number of
@@ -184,7 +176,7 @@ expensive option from a cost perspective. Generally, Figure 14.3.4 shows
 that increasing the total investment in strategies will decrease water
 security and enhance robustness.
 
-![](assets/Figure_14.3.4.png){width=100%}
+![](assets/Figure_14.3.4.png)
 
 **Figure 14.3.4:** Trade-off curve between cost, water security, and
 robustness [@Borgomeo2018]
@@ -199,7 +191,7 @@ investigation that meet their risk thresholds with regards to the three
 objectives. In this example, the solutions circled in yellow and red
 were analysed further.
 
-# Summary
+## Summary
 
 Making decisions under uncertainty is an inherent part of infrastructure
 planning. Whilst it is nearly impossible for us to gain perfect

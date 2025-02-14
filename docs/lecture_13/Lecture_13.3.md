@@ -1,12 +1,4 @@
----
-title: Mini-Lecture 13.3 - Changes in infrastructure dependencies
-keywords:
--   Society
--   Feedbacks
--   Planning decisions
-authors:
--   Jasper Verschuur
----
+# Mini-Lecture 13.3 - Changes in infrastructure dependencies
 
 In this lecture, we will look at three additional critical factors that
 determine the need and success of future infrastructure provision. These
@@ -15,16 +7,16 @@ infrastructure use, the different planning pathways towards success, and
 the feedbacks between society and infrastructure and
 intra-infrastructure feedbacks.
 
-# Learning objectives
+Learning objectives
 
--   Analyse the additional critical factors that need to be considered
-    for infrastructure planning
--   Evaluate how societal changes might change how infrastructure is
-    being used
--   Identify possible infrastructure pathways and complementary
-    infrastructure investment needs.
+- Analyse the additional critical factors that need to be considered
+  for infrastructure planning
+- Evaluate how societal changes might change how infrastructure is
+  being used
+- Identify possible infrastructure pathways and complementary
+  infrastructure investment needs.
 
-# Introduction
+## Introduction
 
 In mini-lecture 13.1 and 13.2, we explored the underlying drivers and
 ways in which we can predict the future need for infrastructure.
@@ -50,7 +42,7 @@ Three critical factors are considered in this lecture:
     future (e.g. construct one big road versus a couple of smaller
     ones), which change the underlying network structure and hence use.
 
-# Changes in societal norms
+## Changes in societal norms
 
 The COVID-19 pandemic has been an unexpected test of the resilience of
 infrastructure systems. As covered extensively in Lectures 9-11, the
@@ -85,13 +77,13 @@ sustainability efforts.
 The pandemic therefore will reshape the way we think and use
 infrastructure for many years to come.
 
-![](assets/Figure_13.3.1.png){width=100%}
+![](assets/Figure_13.3.1.png)
 
 **Figure 13.3.1:** An illustration of the rapid increase in digitisation
 of customer interactions due to the COVID-19 pandemic
 [@McKinsey&Company2020]
 
-# Societal feedbacks with infrastructure
+## Societal feedbacks with infrastructure
 
 Infrastructure can lock-in development by stimulating urban expansion
 into areas that were initially hazard-prone or create new urban areas in
@@ -128,7 +120,7 @@ migration from rural to urban areas.
 Therefore, it is essential to consider what the wider feedback processes
 are between infrastructure provision and society.
 
-![](assets/Figure_13.3.2.png){width=100%}
+![](assets/Figure_13.3.2.png)
 
 **Figure 13.3.2:** An illustration of the levee effect on the right-hand
 side, showing how the construction of levees can result in low risk
@@ -138,7 +130,7 @@ additional investments. For the normal scenarios, losses will not change
 much over time due to the adaptation effect of people not settling in
 these areas [@DiBaldassarre2015]
 
-# Infrastructure provision pathways
+## Infrastructure provision pathways
 
 In the case that an infrastructure target is set, or demand for
 infrastructure is forecasted to change, there are often still
@@ -170,13 +162,13 @@ rapidly developing regions in particular, exploration of various
 pathways is essential to prevent lock-in patterns of unsustainable
 infrastructure provision.
 
-![](assets/Figure_13.3.3.png){width=100%}
+![](assets/Figure_13.3.3.png)
 
 **Figure 13.3.3:** The costs of achieving broadband universal services
 in six countries in Africa for four infrastructure provision pathways
 (3G vs 4G and fixed vs wireless) [@Oughton2021]
 
-# Complementary infrastructure needs
+## Complementary infrastructure needs
 
 So far, we have looked at projecting demand for individual
 infrastructure systems. However, as discussed in Lecture 8,
@@ -208,12 +200,12 @@ feedbacks are to be expected, and how complementary infrastructure
 investment can be made, help to roll out infrastructure services in a
 more efficient way.
 
-![](assets/Figure_13.3.4.jpg){width=100%}
+![](assets/Figure_13.3.4.jpg)
 
 **Figure 13.3.4:** The portfolio of planned projects under the Belt and
 Road Initiative [@Brookings2019]
 
-# Summary
+## Summary
 
 In the lecture we discussed additional critical factors for sustainable
 and efficient future infrastructure development, which including taking

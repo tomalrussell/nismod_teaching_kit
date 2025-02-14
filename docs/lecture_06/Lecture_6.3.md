@@ -1,13 +1,4 @@
----
-title: Mini-Lecture 6.3 -- Reflections on different methods to develop
-  infrastructure strategies
-keywords:
--   Infrastructure strategies
--   Participatory methods
--   Content analysis
-authors:
--   Lena Fuldauer
----
+# Mini-Lecture 6.3 -- Reflections on different methods to develop infrastructure strategies
 
 This mini-lecture reflects on limitations of different methods to
 develop infrastructure strategies, which includes participatory methods
@@ -16,13 +7,13 @@ highlighting potential data gaps, as well as specifying the confidence
 of the data analysed, can help to reduce limitations inherent in the
 various methods.
 
-# Learning objectives
+Learning objectives
 
--   Describe drawbacks of different methods of developing infrastructure
-    strategies
--   Provide suggestions of how different drawbacks could be addressed.
+- Describe drawbacks of different methods of developing infrastructure
+  strategies
+- Provide suggestions of how different drawbacks could be addressed.
 
-# The importance of reflecting on methods for infrastructure strategy development
+## The importance of reflecting on methods for infrastructure strategy development
 
 All methods to generate infrastructure strategies will inevitably have
 drawbacks.
@@ -49,14 +40,14 @@ yet this method relies heavily on published reports and literature,
 often neglecting valuable investments or interventions that are not
 recorded in written reports or literature.
 
-# Reflecting on potential drawbacks of participatory forecasting and backcasting methods
+## Reflecting on potential drawbacks of participatory forecasting and backcasting methods
 
 Participatory methods have the potential to combine opinions from various experts in order to forecast and explore different infrastructure investments or policies, thereby creating ownership over investments. However, it is often difficult to identify experts or stakeholders to attend participatory workshops or focus groups.
 Participatory methods are time- and resource-intensive, as they involve:
 
--   Identifying expert stakeholders across infrastructure sectors, ministries and users
--   Bringing these experts together in focus groups or participatory workshops
--   Post-processing by analysing the outcomes of expert group or workshop meetings.
+- Identifying expert stakeholders across infrastructure sectors, ministries and users
+- Bringing these experts together in focus groups or participatory workshops
+- Post-processing by analysing the outcomes of expert group or workshop meetings.
 
 Choosing which experts to involve in the process of foresight or forecasting workshops is a highly contested topic. The process of identifying and inviting experts is prone to participant sample. Further, which experts attend (and do not attend) foresight workshops can influence results. Overrepresentation of stakeholders from a specific sector or with a certain view of the future may skew results in a specific direction. Invited experts may represent a certain group only (e.g. socio-economic, gender, race etc.), potentially resulting in less equitable or highly contested proposed policies or interventions.
 
@@ -68,7 +59,7 @@ can therefore affect the results.
 
 While the idea of participatory sessions where multiple experts agree on different futures is a valuable concept, it is important to be aware of its potential drawbacks.
 
-# Overcoming potential drawbacks of participatory methods
+## Overcoming potential drawbacks of participatory methods
 
 Participatory methods can be designed to reduce time and resources, for
 example by starting with the generation of strategies based on published
@@ -104,7 +95,7 @@ included in the process of strategy generation. For more information on
 multi-stakeholder mapping, we refer readers to existing literature
 [@Mayers2005; @Sova2014; @Fuldauer2018b].
 
-# Reflecting on and overcoming drawbacks of content analysis
+## Reflecting on and overcoming drawbacks of content analysis
 
 Content analysis is another method to identify infrastructure
 interventions and develop infrastructure strategies. However, the
@@ -135,10 +126,9 @@ well as the confidence in the literature analysed can help to reduce
 thee limitations of the content analysis approach (see Hands-on 3, for
 example).
 
-# Conclusions and suggestions
+## Conclusions and suggestions
 
 Developing infrastructure strategies is an inherently difficult process, which is influenced by the stakeholders engaged, the positionality of the author, and the availability of the literature evidence, amongst other factors.
 There is no single best method to generate infrastructure strategies to meet certain visions of the future. Whilst participatory methods are more likely to generate strategies that are considered feasible and implementable by stakeholders, they are prone to stakeholder sample sizes and power issues, and are time- and resource-intensive. Using snowballing methods can help increase stakeholder sample size, and inviting stakeholders from multiple backgrounds can help to ameliorate selection biases on certain infrastructure investments/strategies.
 Content analysis provides a useful means to identify confirmed, proposed or potential infrastructure interventions, yet this method is highly dependent on the literature content available in each country. Especially in data-scarce environments, it might not be possible to identify infrastructure investments or strategies that can meet certain development outcomes. Reviewing international reports or using best-practice examples from similar or neighbouring countries can provide one means to overcome lack of data.
 Hybrid methods that combine participatory and content analysis methods help to overcome some of the respective method limitations. Transparently highlighting gaps and uncertainties throughout the process of infrastructure strategy generation highlights their potential limitations, thereby identifying where future work is needed.
-

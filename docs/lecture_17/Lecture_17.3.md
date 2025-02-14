@@ -1,20 +1,4 @@
----
-title: "Mini-Lecture 17.3 - Designing integrated NbS-built
-  infrastructure networks: transport, energy and digital communications"
-
-keywords:
-
--   Integrated networks and networked infrastructure
-
--   Ecological corridors
-
--   Nature-based solutions
-
-authors:
-
--   Robyn Haggis
-
----
+# Mini-Lecture 17.3 - Designing integrated NbS-built infrastructure networks: transport, energy and digital communications
 
 This mini-lecture will consider the ways in which nature-based solutions
 (NbS) can be integrated into built infrastructure networks for
@@ -23,19 +7,17 @@ NbS in transport networks (water, road and rail, air), transmission
 lines (energy and digital communications) and in the energy sector more
 broadly.
 
-# Learning objectives
+Learning objectives
 
--   Consider how NbS can be integrated into transport networks for
-    improved service delivery
+- Consider how NbS can be integrated into transport networks for
+  improved service delivery
 
--   Consider how NbS can be integrated into the energy sector for
-    improved service delivery
+- Consider how NbS can be integrated into the energy sector for
+  improved service delivery
 
--   Consider how NbS can be integrated into transmission line networks.
+- Consider how NbS can be integrated into transmission line networks.
 
-
-
-# Integrating nature-based solutions in water transport networks
+## Integrating nature-based solutions in water transport networks
 
 While water transport infrastructure is predominantly reliant upon grey
 infrastructure, such as ports, harbours, networks of canals, etc.,
@@ -43,7 +25,7 @@ nature-based solutions (NbS) can provide multiple benefits to the sector
 and beyond if implemented with consideration, at costs comparable or
 lower than engineered alternatives.
 
-## Integrating NbS in ports and harbours
+### Integrating NbS in ports and harbours
 
 Due to their low-lying nature and proximity to the coastal zone, ports
 and harbours are at risk of climate impacts including flooding and storm
@@ -60,7 +42,7 @@ use of living harbour wall systems can help to extend grey
 infrastructure lifespans and reduce pollution of port waters
 [@Perkol-Finkel2018].
 
-![](assets/Figure_17.3.1.png){width=100%}
+![](assets/Figure_17.3.1.png)
 
 **Figure 17.3.1:** Mangroves and other coastal and marine ecosystems can
 protect ports from climate impacts, support tranquillity of waters and
@@ -68,7 +50,7 @@ increase navigability of shipping channels by reducing sedimentation and
 mitigating erosive forces from passing boats [@Paalvast2012].
 Photograph @Hijdra2021.
 
-## Integrating NbS in rivers, canals and lakes
+### Integrating NbS in rivers, canals and lakes
 
 There are various options for integrating NbS into river, canal and lake
 systems [@EU2018]. For example, riparian vegetation along water
@@ -87,108 +69,108 @@ water transport services [@Hijdra2021; @VitalPorts;
 @Perkol-Finkel2018; @Paalvast2012; @EU2018; @Madramootoo&Dodds1994]
 
 +----------------------+----------------------+----------------------+
-| Service              | Ports and harbours   | Rivers, canals and   |
-|                      |                      | lakes                |
+| Service | Ports and harbours | Rivers, canals and |
+| | | lakes |
 +======================+======================+======================+
-| Resilience to        | -   Coastal NbS help | -   Creation of      |
-| coastal hazards      |     to reduce wave   |     buffer strips    |
-| (mini-lecture 16.2)  |     energy and       |     can mitigate     |
-|                      |     stabilise        |     flooding and     |
-|                      |     shorelines       |     erosion of       |
-|                      |                      |     navigation       |
-|                      | -   Restoration of   |     channels         |
-|                      |     mangroves        |                      |
-|                      |     forests and      | -   Restoration of   |
-|                      |     wetlands         |     riparian         |
-|                      |                      |     vegetation along |
-|                      | -   Restoration of   |     navigation       |
-|                      |     reefs            |     channels         |
-|                      |                      |                      |
-|                      | -   Creation of      | -   Reconnect rivers |
-|                      |     living           |     to floodplains   |
-|                      |     breakwaters/quay |                      |
-|                      |     walls            |                      |
-|                      |                      |                      |
-|                      | -   Protection or    |                      |
-|                      |     restoration of   |                      |
-|                      |     salt marshes,    |                      |
-|                      |     coastal lagoons, |                      |
-|                      |     coastal          |                      |
-|                      |     peatlands, sand  |                      |
-|                      |     dunes            |                      |
-|                      |                      |                      |
-|                      | -   Beach            |                      |
-|                      |     restoration      |                      |
+| Resilience to | - Coastal NbS help | - Creation of |
+| coastal hazards | to reduce wave | buffer strips |
+| (mini-lecture 16.2) | energy and | can mitigate |
+| | stabilise | flooding and |
+| | shorelines | erosion of |
+| | | navigation |
+| | - Restoration of | channels |
+| | mangroves | |
+| | forests and | - Restoration of |
+| | wetlands | riparian |
+| | | vegetation along |
+| | - Restoration of | navigation |
+| | reefs | channels |
+| | | |
+| | - Creation of | - Reconnect rivers |
+| | living | to floodplains |
+| | breakwaters/quay | |
+| | walls | |
+| | | |
+| | - Protection or | |
+| | restoration of | |
+| | salt marshes, | |
+| | coastal lagoons, | |
+| | coastal | |
+| | peatlands, sand | |
+| | dunes | |
+| | | |
+| | - Beach | |
+| | restoration | |
 +----------------------+----------------------+----------------------+
-| Tranquil waters for  | -   Coastal NbS can  | -   Restoration of   |
-| navigation           |     provide services |     NbS to support   |
-|                      |     including wave   |     biological       |
-|                      |     dissipation and  |     control of       |
-|                      |     reduced          |     invasive weeds.  |
-|                      |     sedimentation in |     This can control |
-|                      |     harbours         |     floating aquatic |
-|                      |                      |     plants that can  |
-|                      | -   Wave collision   |     clog navigation  |
-|                      |     and reflection   |     channels         |
-|                      |     can be minimised |                      |
-|                      |     through porous   |                      |
-|                      |     revetements      |                      |
+| Tranquil waters for | - Coastal NbS can | - Restoration of |
+| navigation | provide services | NbS to support |
+| | including wave | biological |
+| | dissipation and | control of |
+| | reduced | invasive weeds. |
+| | sedimentation in | This can control |
+| | harbours | floating aquatic |
+| | | plants that can |
+| | - Wave collision | clog navigation |
+| | and reflection | channels |
+| | can be minimised | |
+| | through porous | |
+| | revetements | |
 +----------------------+----------------------+----------------------+
-| Reduce sedimentation | -   Reef restoration | -   Maintain         |
-| of navigation        |     and protection   |     riparian         |
-| channels             |     of terrestrial   |     vegetation for   |
-|                      |     wetlands (e.g.,  |     services         |
-|                      |     mangroves) can   |     including        |
-|                      |     contribute to    |     sediment         |
-|                      |     shoreline        |     stabilisation    |
-|                      |     stabilisation    |                      |
+| Reduce sedimentation | - Reef restoration | - Maintain |
+| of navigation | and protection | riparian |
+| channels | of terrestrial | vegetation for |
+| | wetlands (e.g., | services |
+| | mangroves) can | including |
+| | contribute to | sediment |
+| | shoreline | stabilisation |
+| | stabilisation | |
 +----------------------+----------------------+----------------------+
-| Reduction of erosive | -   Restoration of   | -   Creation of      |
-| forces from boats    |     mangroves,       |     buffer strips    |
-|                      |     wetlands and     |     and banks along  |
-|                      |     reefs dissipate  |     canals, rivers   |
-|                      |     erosive forces   |     and lakes can    |
-|                      |     from boat wakes  |     dissipate        |
-|                      |                      |     erosive forces   |
-|                      | -   Living break     |     of boat wakes    |
-|                      |     structures help  |                      |
-|                      |     to protect       |                      |
-|                      |     harbours from    |                      |
-|                      |     erosion          |                      |
-|                      |                      |                      |
-|                      | -   Restoration of   |                      |
-|                      |     beaches can      |                      |
-|                      |     dampen wave      |                      |
-|                      |     action           |                      |
+| Reduction of erosive | - Restoration of | - Creation of |
+| forces from boats | mangroves, | buffer strips |
+| | wetlands and | and banks along |
+| | reefs dissipate | canals, rivers |
+| | erosive forces | and lakes can |
+| | from boat wakes | dissipate |
+| | | erosive forces |
+| | - Living break | of boat wakes |
+| | structures help | |
+| | to protect | |
+| | harbours from | |
+| | erosion | |
+| | | |
+| | - Restoration of | |
+| | beaches can | |
+| | dampen wave | |
+| | action | |
 +----------------------+----------------------+----------------------+
-| Regulation of water  |                      | -   Improved         |
-| supply in navigation |                      |     management, e.g. |
-| channels             |                      |     removal of       |
-|                      |                      |     water-hungry     |
-|                      |                      |     species and      |
-|                      |                      |     restoration of   |
-|                      |                      |     native           |
-|                      |                      |     vegetation has   |
-|                      |                      |     been used in     |
-|                      |                      |     South Africa to  |
-|                      |                      |     keep water       |
-|                      |                      |     flowing during   |
-|                      |                      |     drought          |
+| Regulation of water | | - Improved |
+| supply in navigation | | management, e.g. |
+| channels | | removal of |
+| | | water-hungry |
+| | | species and |
+| | | restoration of |
+| | | native |
+| | | vegetation has |
+| | | been used in |
+| | | South Africa to |
+| | | keep water |
+| | | flowing during |
+| | | drought |
 +----------------------+----------------------+----------------------+
-| Mitigation of        |                      | -   Wetlands and     |
-| pollution from water |                      |     ecosystems along |
-| transport            |                      |     watercourses can |
-|                      |                      |     trap sediments   |
-|                      |                      |     and filter       |
-|                      |                      |     contaminants     |
-|                      |                      |     from boats       |
-|                      |                      |                      |
-|                      |                      | -   Reeds can treat  |
-|                      |                      |     sewage that may  |
-|                      |                      |     be deposited     |
+| Mitigation of | | - Wetlands and |
+| pollution from water | | ecosystems along |
+| transport | | watercourses can |
+| | | trap sediments |
+| | | and filter |
+| | | contaminants |
+| | | from boats |
+| | | |
+| | | - Reeds can treat |
+| | | sewage that may |
+| | | be deposited |
 +----------------------+----------------------+----------------------+
 
-# Integrating nature-based solutions into road and rail networks
+## Integrating nature-based solutions into road and rail networks
 
 Road and rail networks have a fundamental role to play in meeting basic
 service needs, through facilitating the mobility of people and goods
@@ -208,7 +190,7 @@ such, ecological corridors in the form of verges and slopes along linear
 transport networks can reduce long-term costs for maintenance and
 increase the lifespan of engineered assets (Figure 17.3.2) [@EU].
 
-![](assets/Figure_17.3.2.png){width=100%}
+![](assets/Figure_17.3.2.png)
 
 **Figure 17.3.2:** NbS can protect road and rail infrastructure networks
 from climate impacts*.* Photograph from @Browder2019.
@@ -219,7 +201,7 @@ further increase the resilience of the sector, by facilitating the safe
 movement of wildlife and preventing wildlife-induced transport
 collisions (Figure 17.3.3) [@ADB2019].
 
-![](assets/Figure_17.3.3.png){width=100%}
+![](assets/Figure_17.3.3.png)
 
 **Figure 17.3.3:** Ecological underpasses and overpasses [@ADB2019;
 @EU]
@@ -236,7 +218,7 @@ project which is designing an integrated transport and ecological
 network in Europe for improved safety and biodiversity benefits
 [@EuropeanCommission2019; @Transgreen2017].
 
-# Integrating nature-based solutions into airports
+## Integrating nature-based solutions into airports
 
 Opportunities to integrate NbS into built infrastructure sectors extend
 to the air transport sector, where they can be leveraged for
@@ -266,7 +248,7 @@ and NbS features (Figure 17.3.4) which has led to the airport being
 considered a visitor attraction in its own right and has contributed to
 Singapore's reputation as a city in a garden [@Henderson2017;@Newman2014;@AT2016].
 
-![](assets/Figure_17.3.4.png){width=100%}
+![](assets/Figure_17.3.4.png)
 
 **Figure 17.3.4:** Singapore's Changi Airport includes multiple gardens
 and an open dome to allow rainfall to be captured by an indoor waterfall
@@ -274,7 +256,7 @@ and forest, which provides cooling and energy savings to the airport,
 saving the airport money whilst supporting regulation of the indoor
 microclimate. Photograph from Unsplash.
 
-# Integrating nature-based solutions into energy and digital transmission line networks
+## Integrating nature-based solutions into energy and digital transmission line networks
 
 Transmission networks provide essential services to people, through
 facilitating the transmission of electricity and communications. NbS can
@@ -308,7 +290,7 @@ project was shown to break even in 3-12 years and become 1.4-3.9 times
 cheaper (depending on the NbS) than traditional methods after 30 years
 [@EuropeanCommission2019;@LifeElia2021;@LifeElia].
 
-![](assets/Figure_17.3.5.png){width=100%}
+![](assets/Figure_17.3.5.png)
 
 **Figure 17.3.5:** The LIFE ELIA project restored 130km of different
 ecosystems in ecological corridors under overhead electricity
@@ -316,14 +298,14 @@ transmission networks (2011-2017). It delivered additional benefits
 including pollination, carbon storage, increased amenity value
 [@EuropeanCommission2019; @LifeElia2021]. Photograph from Unsplash.
 
-# Integrating nature-based solutions into the energy sector
+## Integrating nature-based solutions into the energy sector
 
 While grey infrastructure solutions will continue to have a fundamental
 role in the delivery of energy services going forward, NbS can
 complement and enhance energy sector service delivery, and enable
 electricity provision at lower cost [@Arias2011].
 
-## Services to hydropower
+### Services to hydropower
 
 NbS can provide multiple benefits to hydropower electricity service
 provision. For example, the restoration of forests and riparian
@@ -336,12 +318,12 @@ turbidity within reservoirs, leading to reduced downtime and protecting
 the grey infrastructure asset from turbidity-induced wear and tear
 (Figure 17.3.6) [@Browder2019].
 
-![](assets/Figure_17.3.6.png){width=100%}
+![](assets/Figure_17.3.6.png)
 
 **Figure 17.3.6:** NbS can increase the lifespan of built infrastructure
 through reducing erosion. Photograph from @Browder2019.
 
-## Services to solar power
+### Services to solar power
 
 By maintaining ecosystems, such as wetlands, around solar panels, energy
 service providers can benefit from increased energy efficiency of solar
@@ -351,19 +333,19 @@ of green roofs can enhance solar power service delivery, by acting as a
 substrate to anchor solar panels and increasing their energy efficiency
 by as much as 20% (Figure 17.3.7) [@Enzi2017; @Semeraro2020].
 
-![](assets/Figure_17.3.7.png){width=100%}
+![](assets/Figure_17.3.7.png)
 
 **Figure 17.3.7:** Green roofs can anchor
 on green roofs, protect panels from weather impacts and support energy
 efficiency. Photograph from @Enzi2017.
 
-## Services to fixed assets
+### Services to fixed assets
 
 The restoration, management or creation of new ecosystems around fixed
 energy assets can protect grey infrastructure assets and safeguard
 service delivery in a changing climate [@Semeraro2020].
 
-# Summary
+## Summary
 
 Built infrastructure networks, such as transport (road, rail, water and
 air), energy and digital communications, typically rely on grey

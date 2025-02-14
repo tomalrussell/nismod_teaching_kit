@@ -1,13 +1,4 @@
----
-title: Mini-Lecture 8.1 -- Introduction to infrastructure risk and
-  resilience
-keywords:
--   Infrastructure systems
--   Resilience
--   Climate adaptation
-authors:
--   Prof Jim W Hall
----
+# Mini-Lecture 8.1 -- Introduction to infrastructure risk and resilience
 
 This mini-lecture provides an overview of the climate challenges facing
 infrastructure systems around the world and briefly reviews the options
@@ -15,13 +6,13 @@ for adapting infrastructure systems in response to these challenges. It
 sets the scene for the analysis of climate risks to infrastructure which
 is presented in the following lectures.
 
-# Learning objectives
+Learning objectives
 
--   Gain an understanding of climate risks to infrastructure systems
--   Recall options for adapting infrastructure systems in the context of a changing climate
--   Explain how risk analysis fits into adaptation decision-making.
+- Gain an understanding of climate risks to infrastructure systems
+- Recall options for adapting infrastructure systems in the context of a changing climate
+- Explain how risk analysis fits into adaptation decision-making.
 
-# Introduction
+## Introduction
 
 Infrastructure systems (energy, transport, digital communications, water
 and waste management) sustain civilisations. Many of these systems are
@@ -55,7 +46,7 @@ approaches and tools for assessing climate risk to infrastructure
 systems and how to make infrastructure more resilient for
 climate-compatible growth.
 
-# Types of climate risks to infrastructure systems
+## Types of climate risks to infrastructure systems
 
 Given their central importance to the functioning of economies and
 societies, networked infrastructure systems represent particular points
@@ -93,12 +84,12 @@ categorised into three predominant types of climate risks
     adaptation will be needed in the future. These development patterns
     then further influence the provision of infrastructure.
 
-![](assets/Figure_8.1.1.jpeg){width=100%}
+![](assets/Figure_8.1.1.jpeg)
 
 **Figure 8.1:** Examples of climate hazards to infrastructure sectors
 [@Hall2019;@Dawson2016]
 
-# Priorities for adapting infrastructure systems
+## Priorities for adapting infrastructure systems
 
 Decisions about adapting infrastructure assets and networks need to be
 taken at a range of different scales. Design decisions for individual
@@ -127,224 +118,224 @@ Lectures 15-18) [@Hall2019].
 energy sub-sectors [@Hall2019]
 
 +----------------------+----------------------+----------------------+
-| **Energy             | **Technology and     | **Management and     |
-| sub-sector**         | structural           | siting measures**    |
-|                      | measures**           |                      |
+| **Energy | **Technology and | **Management and |
+| sub-sector** | structural | siting measures** |
+| | measures** | |
 +======================+======================+======================+
-| Thermal and nuclear  | -   Adopt            | -   Site plants      |
-| power                |     alternative      |     based on water   |
-|                      |     cooling          |     access and away  |
-|                      |     technologies     |     from high-risk   |
-|                      |     such as closed   |     areas            |
-|                      |     loop and dry     |                      |
-|                      |     cooling          | -   Use alternative  |
-|                      |                      |     water sources,   |
-|                      |                      |     including grey   |
-|                      |                      |     water or         |
-|                      |                      |     seawater         |
+| Thermal and nuclear | - Adopt | - Site plants |
+| power | alternative | based on water |
+| | cooling | access and away |
+| | technologies | from high-risk |
+| | such as closed | areas |
+| | loop and dry | |
+| | cooling | - Use alternative |
+| | | water sources, |
+| | | including grey |
+| | | water or |
+| | | seawater |
 +----------------------+----------------------+----------------------+
-| Hydropower           | -   Enhance          | -   Modify           |
-|                      |     reservoir        |     management       |
-|                      |     capacity         |     procedures for   |
-|                      |                      |     water storage    |
-|                      | -   Improve design   |                      |
-|                      |     and location of  | -   Site plants      |
-|                      |     spillways to     |     based on         |
-|                      |     manage changing  |     projections of   |
-|                      |     water levels     |     hydrological     |
-|                      |                      |     conditions       |
-|                      | -   Culvert and      |                      |
-|                      |     drainage sizing  | -   Enhance debris   |
-|                      |     revised for      |     removal          |
-|                      |     hydrological     |                      |
-|                      |     uncertainty      | -   Demand-side      |
-|                      |                      |     management to    |
-|                      | -   Development of   |     reduce water     |
-|                      |     upstream         |     consumption and  |
-|                      |     sediment control |     enhance water    |
-|                      |     facilities or    |     re-use           |
-|                      |     sediment bypass  |                      |
-|                      |                      | -   Creation of      |
-|                      |   tunnels/facilities |     regulatory       |
-|                      |                      |     bodies that are  |
-|                      | -   Reassessment of  |     mandated to      |
-|                      |     dam type to      |     develop and      |
-|                      |     allow            |     apply improved   |
-|                      |     overtopping      |     operating        |
-|                      |     (i.e. concrete   |     strategies       |
-|                      |     dam)             |                      |
-|                      |                      |                      |
-|                      | -   Adapt concrete   |                      |
-|                      |     mix design to    |                      |
-|                      |     withstand more   |                      |
-|                      |     temperature      |                      |
-|                      |     variations       |                      |
-|                      |                      |                      |
-|                      | -   Additional slope |                      |
-|                      |     protection and   |                      |
-|                      |     stabilisation    |                      |
-|                      |     measures         |                      |
-|                      |                      |                      |
-|                      | -   Installation of  |                      |
-|                      |     variable speed   |                      |
-|                      |     turbines or      |                      |
-|                      |     turbines with    |                      |
-|                      |     higher           |                      |
-|                      |     efficiency for a |                      |
-|                      |     wide range of    |                      |
-|                      |     discharges       |                      |
+| Hydropower | - Enhance | - Modify |
+| | reservoir | management |
+| | capacity | procedures for |
+| | | water storage |
+| | - Improve design | |
+| | and location of | - Site plants |
+| | spillways to | based on |
+| | manage changing | projections of |
+| | water levels | hydrological |
+| | | conditions |
+| | - Culvert and | |
+| | drainage sizing | - Enhance debris |
+| | revised for | removal |
+| | hydrological | |
+| | uncertainty | - Demand-side |
+| | | management to |
+| | - Development of | reduce water |
+| | upstream | consumption and |
+| | sediment control | enhance water |
+| | facilities or | re-use |
+| | sediment bypass | |
+| | | - Creation of |
+| | tunnels/facilities | regulatory |
+| | | bodies that are |
+| | - Reassessment of | mandated to |
+| | dam type to | develop and |
+| | allow | apply improved |
+| | overtopping | operating |
+| | (i.e. concrete | strategies |
+| | dam) | |
+| | | |
+| | - Adapt concrete | |
+| | mix design to | |
+| | withstand more | |
+| | temperature | |
+| | variations | |
+| | | |
+| | - Additional slope | |
+| | protection and | |
+| | stabilisation | |
+| | measures | |
+| | | |
+| | - Installation of | |
+| | variable speed | |
+| | turbines or | |
+| | turbines with | |
+| | higher | |
+| | efficiency for a | |
+| | wide range of | |
+| | discharges | |
 +----------------------+----------------------+----------------------+
-| Solar energy         | -   Modify surface   | -   Site solar PV    |
-|                      |     material for PV  |     panels based on  |
-|                      |     panels for       |     projected        |
-|                      |     improved light   |     changes in cloud |
-|                      |     diffusion        |     cover and air    |
-|                      |                      |     temperature      |
-|                      | -   Adapt material   |                      |
-|                      |     durability to    | -   Site CSP based   |
-|                      |     extreme wind and |     on water         |
-|                      |     precipitation    |     availability     |
-|                      |                      |                      |
-|                      |                      | -   Adjust design of |
-|                      |                      |     buildings with   |
-|                      |                      |     passive and      |
-|                      |                      |     active solar     |
-|                      |                      |     heating          |
-|                      |                      |                      |
-|                      |                      | -   Demand-side      |
-|                      |                      |     flexibility --   |
-|                      |                      |     enhance the      |
-|                      |                      |     installation of  |
-|                      |                      |     rooftop solar PV |
+| Solar energy | - Modify surface | - Site solar PV |
+| | material for PV | panels based on |
+| | panels for | projected |
+| | improved light | changes in cloud |
+| | diffusion | cover and air |
+| | | temperature |
+| | - Adapt material | |
+| | durability to | - Site CSP based |
+| | extreme wind and | on water |
+| | precipitation | availability |
+| | | |
+| | | - Adjust design of |
+| | | buildings with |
+| | | passive and |
+| | | active solar |
+| | | heating |
+| | | |
+| | | - Demand-side |
+| | | flexibility -- |
+| | | enhance the |
+| | | installation of |
+| | | rooftop solar PV |
 +----------------------+----------------------+----------------------+
-| Wind power           | -   Alter turbine    | -   Site turbines    |
-|                      |     design to        |     based on         |
-|                      |     withstand high   |     projected        |
-|                      |     winds            |     changes in wind  |
-|                      |                      |     speed and        |
-|                      | -   Improve material |     direction, and   |
-|                      |     durability       |     exposure to      |
-|                      |                      |     extreme weather  |
-|                      | -   Fortify          |     events           |
-|                      |     off-shore        |                      |
-|                      |     potential for    |                      |
-|                      |     wind energy      |                      |
-|                      |                      |                      |
-|                      | -   Taller and       |                      |
-|                      |     larger wind      |                      |
-|                      |     turbines to      |                      |
-|                      |     improve          |                      |
-|                      |     efficiency       |                      |
+| Wind power | - Alter turbine | - Site turbines |
+| | design to | based on |
+| | withstand high | projected |
+| | winds | changes in wind |
+| | | speed and |
+| | - Improve material | direction, and |
+| | durability | exposure to |
+| | | extreme weather |
+| | - Fortify | events |
+| | off-shore | |
+| | potential for | |
+| | wind energy | |
+| | | |
+| | - Taller and | |
+| | larger wind | |
+| | turbines to | |
+| | improve | |
+| | efficiency | |
 +----------------------+----------------------+----------------------+
-| Transportation,      | -   Increase T&D     | -   Place T&D lines  |
-| transmission and     |     line capacity    |     underground      |
-| distribution (T&D)   |     and ability to   |                      |
-|                      |     withstand higher | -   Improve          |
-|                      |     snow and ice     |     vegetation       |
-|                      |     load             |     management       |
-|                      |                      |     around wires     |
-|                      | -   Modify pipeline  |                      |
-|                      |     materials to be  | -   Site pipelines   |
-|                      |     waterproof and   |     away from areas  |
-|                      |     able to          |     of high flood    |
-|                      |     withstand        |     risk, extreme    |
-|                      |     freeze-thaw      |     freeze-thaw      |
-|                      |     cycles           |     cycles, and      |
-|                      |                      |     melting          |
-|                      | -   Replace wooden   |     permafrost       |
-|                      |     utility poles    |                      |
-|                      |     with steel poles |                      |
+| Transportation, | - Increase T&D | - Place T&D lines |
+| transmission and | line capacity | underground |
+| distribution (T&D) | and ability to | |
+| | withstand higher | - Improve |
+| | snow and ice | vegetation |
+| | load | management |
+| | | around wires |
+| | - Modify pipeline | |
+| | materials to be | - Site pipelines |
+| | waterproof and | away from areas |
+| | able to | of high flood |
+| | withstand | risk, extreme |
+| | freeze-thaw | freeze-thaw |
+| | cycles | cycles, and |
+| | | melting |
+| | - Replace wooden | permafrost |
+| | utility poles | |
+| | with steel poles | |
 +----------------------+----------------------+----------------------+
-| Ocean energy         | -   Combination of   | -   A comprehensive  |
-|                      |     offshore wind    |     set of policies  |
-|                      |     power plants     |     is required to   |
-|                      |     with wave or     |     encourage        |
-|                      |     tidal energy     |     investments in   |
-|                      |     production       |     ocean energy     |
-|                      |                      |                      |
-|                      | -   Continuous       |                      |
-|                      |     development of   |                      |
-|                      |     wave, ocean      |                      |
-|                      |     current and      |                      |
-|                      |     ocean thermal    |                      |
-|                      |     energy           |                      |
-|                      |     production       |                      |
-|                      |     potential        |                      |
-|                      |                      |                      |
-|                      | -   Development of   |                      |
-|                      |     offshore tidal   |                      |
-|                      |     lagoons          |                      |
-|                      |                      |                      |
-|                      | -   Turbine          |                      |
-|                      |     efficiency       |                      |
-|                      |     improvements in  |                      |
-|                      |     bi-directional   |                      |
-|                      |     flows for tidal  |                      |
-|                      |     energy           |                      |
-|                      |     production       |                      |
-|                      |                      |                      |
-|                      | -   Installation of  |                      |
-|                      |     variable speed   |                      |
-|                      |     turbines or      |                      |
-|                      |     turbines with    |                      |
-|                      |     higher           |                      |
-|                      |     efficiency for a |                      |
-|                      |     wide range of    |                      |
-|                      |     flows            |                      |
+| Ocean energy | - Combination of | - A comprehensive |
+| | offshore wind | set of policies |
+| | power plants | is required to |
+| | with wave or | encourage |
+| | tidal energy | investments in |
+| | production | ocean energy |
+| | | |
+| | - Continuous | |
+| | development of | |
+| | wave, ocean | |
+| | current and | |
+| | ocean thermal | |
+| | energy | |
+| | production | |
+| | potential | |
+| | | |
+| | - Development of | |
+| | offshore tidal | |
+| | lagoons | |
+| | | |
+| | - Turbine | |
+| | efficiency | |
+| | improvements in | |
+| | bi-directional | |
+| | flows for tidal | |
+| | energy | |
+| | production | |
+| | | |
+| | - Installation of | |
+| | variable speed | |
+| | turbines or | |
+| | turbines with | |
+| | higher | |
+| | efficiency for a | |
+| | wide range of | |
+| | flows | |
 +----------------------+----------------------+----------------------+
-| Hydrogen production  | -   Link together    | -   A comprehensive  |
-|                      |     with other       |     set of policies  |
-|                      |     energy sources,  |     is required to   |
-|                      |     to compensate    |     encourage        |
-|                      |     when energy      |     private          |
-|                      |     production is    |     investments in   |
-|                      |     low              |     hydrogen         |
-|                      |                      |                      |
-|                      |                      | -   Large scale      |
-|                      |                      |     storage          |
-|                      |                      |     requirements in  |
-|                      |                      |     salt caverns or  |
-|                      |                      |     storage tanks    |
+| Hydrogen production | - Link together | - A comprehensive |
+| | with other | set of policies |
+| | energy sources, | is required to |
+| | to compensate | encourage |
+| | when energy | private |
+| | production is | investments in |
+| | low | hydrogen |
+| | | |
+| | | - Large scale |
+| | | storage |
+| | | requirements in |
+| | | salt caverns or |
+| | | storage tanks |
 +----------------------+----------------------+----------------------+
 
-# **Systemic resilience across infrastructure networks**
+## **Systemic resilience across infrastructure networks**
 
 In addition to these asset-based adaptations, it is important to look at
 the big picture of how systemic resilience can be achieved
 [@Hall2019]:
 
--   **Enhancing system resilience**: The ways in which services are
-    provided by infrastructure networks can often be made more
-    resilient, in order to cope with and recover from extreme and
-    disruptive events, for example through the development and operation
-    of forecasting, warning and emergency management systems.
-    Diversified supply chains with stocks that are sufficient to cope
-    through an emergency are inherently more resilient than many of
-    today's just-in-time systems. Managing demand for water and energy
-    enhances system resilience and saves the costs and impacts of
-    consuming these resources. Financial instruments like direct
-    payments and well-designed insurance can help people and asset
-    owners to cope in extreme events.
+- **Enhancing system resilience**: The ways in which services are
+  provided by infrastructure networks can often be made more
+  resilient, in order to cope with and recover from extreme and
+  disruptive events, for example through the development and operation
+  of forecasting, warning and emergency management systems.
+  Diversified supply chains with stocks that are sufficient to cope
+  through an emergency are inherently more resilient than many of
+  today's just-in-time systems. Managing demand for water and energy
+  enhances system resilience and saves the costs and impacts of
+  consuming these resources. Financial instruments like direct
+  payments and well-designed insurance can help people and asset
+  owners to cope in extreme events.
 
--   **Planning for sustainable infrastructure development**: Often the
-    greatest opportunities for managing climate risks exist in the early
-    stages of planning and designing infrastructure systems. Questions
-    of climate risk and adaptation need to be brought 'upstream' in
-    long-term development and spatial planning, becoming mainstreamed in
-    development policies and plans from the outset. Climate risks to
-    infrastructure need to be considered on a broad spatial scale, which
-    will open up more resilient options and help to avoid locking in
-    vulnerability. Planning climate-resilient infrastructure development
-    involves systems thinking for the long-term and exploring diverse
-    options in a range of possible futures -- which is a process that
-    will yield better and more sustainable infrastructure worldwide.
+- **Planning for sustainable infrastructure development**: Often the
+  greatest opportunities for managing climate risks exist in the early
+  stages of planning and designing infrastructure systems. Questions
+  of climate risk and adaptation need to be brought 'upstream' in
+  long-term development and spatial planning, becoming mainstreamed in
+  development policies and plans from the outset. Climate risks to
+  infrastructure need to be considered on a broad spatial scale, which
+  will open up more resilient options and help to avoid locking in
+  vulnerability. Planning climate-resilient infrastructure development
+  involves systems thinking for the long-term and exploring diverse
+  options in a range of possible futures -- which is a process that
+  will yield better and more sustainable infrastructure worldwide.
 
-# Summary
+## Summary
 
 This lecture has examined the nature of climate risks to infrastructure
 systems and the options available for adapting to those risks. There are
 many ways in which infrastructure can be adapted. Each approach requires
-considerations of *how much* adaptation to do, *where* and *when*. These
+considerations of _how much_ adaptation to do, _where_ and _when_. These
 are difficult decisions. Answering them properly relies upon the
 quantification of climate risks to infrastructure systems, both in the
 absence of adaptation and the residual risk that will inevitably remain

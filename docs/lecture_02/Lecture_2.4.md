@@ -1,12 +1,4 @@
----
-title: Mini-Lecture 2.4 - Saint Lucia Case Study
-keywords:
--   Case Study
--   Saint Lucia
--   Nationally Determined Contributions (NDCs)
-authors:
--   Sapphire Vital
----
+# Mini-Lecture 2.4 - Saint Lucia Case Study
 
 This mini-lecture, the last in Lecture block 2, brings all the
 information from the previous mini-lectures together via a case study on
@@ -14,16 +6,16 @@ the small island developing state of Saint Lucia. To do this, the case
 study applies the approach to developing infrastructure targets within
 NDCs presented in mini-lecture 2.2 step by step.
 
-# Learning objectives
+Learning objectives
 
--   Describe Saint Lucia's national priorities, greenhouse gas
-    emissions, implementation capacity, mitigation co-benefits, and
-    Nationally Determined Contribution (NDC) targets
--   Synthesise the material covered in Lecture block 2 mini-lectures
--   Apply the approach to developing infrastructure targets within NDCs
-    to a desired country context.
+- Describe Saint Lucia's national priorities, greenhouse gas
+  emissions, implementation capacity, mitigation co-benefits, and
+  Nationally Determined Contribution (NDC) targets
+- Synthesise the material covered in Lecture block 2 mini-lectures
+- Apply the approach to developing infrastructure targets within NDCs
+  to a desired country context.
 
-# Step 1: Assess national infrastructure development priorities and identify key infrastructure systems
+## Step 1: Assess national infrastructure development priorities and identify key infrastructure systems
 
 This case study provides a walkthrough of each step (outlined in
 mini-lecture 2.2) using relevant information from Saint Lucia. The
@@ -42,7 +34,7 @@ Medium-Term Development Strategy, development measures focus on the
 healthcare, education, citizen security, agriculture, infrastructure,
 and tourism sectors [@GoSL2020].
 
-![](assets/Figure_2.4.1.png){width=100%}
+![](assets/Figure_2.4.1.png)
 
 **Figure 2.4.1:** Map of the Caribbean and Saint Lucia [@Vital2019]
 
@@ -62,7 +54,7 @@ efficiency as a critical cross-cutting development area [@GoSL2020].
 These two areas can therefore be considered as Saint Lucia's priority
 infrastructure systems.
 
-# Step 2: Estimate the mitigation potential of infrastructure systems
+## Step 2: Estimate the mitigation potential of infrastructure systems
 
 Saint Lucia's 2010 greenhouse gas inventory was conducted in line with
 the IPCC Revised Guidelines for National Greenhouse Gas Inventories
@@ -85,12 +77,12 @@ produced 69% of Saint Lucia's greenhouse gas emissions [@GoSL2015a].
 Therefore, given their high carbon intensity, the energy and
 transportation sectors have immense mitigation potential.
 
-![](assets/Figure_2.4.2.png){width=100%}
+![](assets/Figure_2.4.2.png)
 
 **Figure 2.4.2:** Sectoral breakdown of Saint Lucia's total greenhouse
 gas emissions (excluding LULUCF) [@GoSL2015a]
 
-# Step 3: Evaluate resiliency and adaptation needs within infrastructure systems
+## Step 3: Evaluate resiliency and adaptation needs within infrastructure systems
 
 Saint Lucia is vulnerable to several hazards due to its seismic
 location, position in the tropical cyclone belt, small size, mountainous
@@ -123,9 +115,9 @@ water sectors would therefore safeguard against the loss of these
 services and the indirect impact on interconnected areas such as
 economic growth and healthcare.
 
-# Steps 4-7: Assess implementation capacity; ascertain sustainable development co-benefits; finalise all information; and devise NDC targets
+## Steps 4-7: Assess implementation capacity; ascertain sustainable development co-benefits; finalise all information; and devise NDC targets
 
-[Step 4:]{.ul}
+[Step 4:]
 
 As a SIDS with limited resources, Saint Lucia's INDC was conditional.
 The INDC estimated the cost of achieving its mitigation targets by 2030
@@ -135,7 +127,7 @@ government further expressed their intention to pursue a mix of
 financing options including private sector financing, regional agency
 and programme support, bilateral support, and concessional finance.
 
-[Step 5:]{.ul}
+[Step 5:]
 
 Saint Lucia's INDC recognised the sustainable development benefits of
 adaptation and mitigation action. As seen in Table 2.4.1, the INDC
@@ -145,16 +137,18 @@ poverty eradication [@GoSL2015b].
 **Table 2.4.1:** Sustainable development co-benefits identified in Saint
 Lucia's INDC
 
-  **INDC**
-  ------------------------------------------ ---------------------------
-  **Sustainable Development Co-benefits**    **Directly Related SDGs**
-  Investment and technological advancement      8
-  Employment generation                         1, 8
-  Fuel foreign exchange savings                 8
-  Energy cost savings across sectors            1, 8
-  Human health                                  3
+**INDC**
 
-[Step 6:]{.ul}
+---
+
+**Sustainable Development Co-benefits** **Directly Related SDGs**
+Investment and technological advancement 8
+Employment generation 1, 8
+Fuel foreign exchange savings 8
+Energy cost savings across sectors 1, 8
+Human health 3
+
+[Step 6:]
 
 Saint Lucia submitted its updated NDC in January of 2021. The new NDC
 brings the country's national priorities, mitigation potential,
@@ -166,7 +160,7 @@ and transportation systems are national infrastructure development
 priorities, high greenhouse gas emitters, most at risk to hazards, and
 lead to sector-wide economic benefits.
 
-[Step 7:]{.ul}
+[Step 7:]
 
 The updated NDC commits to an absolute greenhouse gas emissions
 reduction target of 7% relative to 2010 levels by 2030 in the energy
@@ -174,43 +168,43 @@ sector given international support. This percentage is an increase from
 the INDC's conditional commitment to 2% greenhouse gas emission
 reduction within the same constraints [@GoSL2021].
 
-# Step 8: Finalise the previous information addressed and present the NDC based on the requirements laid out by the Paris Agreement
+## Step 8: Finalise the previous information addressed and present the NDC based on the requirements laid out by the Paris Agreement
 
 Saint Lucia's NDC provided additional updates and all information
 required for clarity, transparency, and understanding. The following
 points summarise the major updates:
 
--   The Government of Saint Lucia plans to develop a Long-Term Strategy
-    to 2050 for decarbonisation across all sectors. The strategy will
-    inform subsequent NDCs.
+- The Government of Saint Lucia plans to develop a Long-Term Strategy
+  to 2050 for decarbonisation across all sectors. The strategy will
+  inform subsequent NDCs.
 
--   A 2018 greenhouse gas inventory was conducted in 2020. Its
-    publication is currently under development.
+- A 2018 greenhouse gas inventory was conducted in 2020. Its
+  publication is currently under development.
 
--   Under the NAP, Sectoral Adaptation Strategy and Action Plans
-    (SASAPs) have been developed for the agriculture, fisheries, and
-    water sectors, and for resilient ecosystems. Additional SASAPs are
-    to be developed for the other key areas: tourism, infrastructure and
-    spatial planning, education, and health.
+- Under the NAP, Sectoral Adaptation Strategy and Action Plans
+  (SASAPs) have been developed for the agriculture, fisheries, and
+  water sectors, and for resilient ecosystems. Additional SASAPs are
+  to be developed for the other key areas: tourism, infrastructure and
+  spatial planning, education, and health.
 
--   The Government of Saint Lucia has developed an Implementation Plan,
-    Financing Strategy, and Partnership Plan for the NDC. The total cost
-    of implementing the NDC was estimated to be USD368 million. This
-    cost includes the operation, maintenance, fuel expenses, and energy
-    savings from the mitigation initiatives. The NDC highlighted the
-    need for financial support to enable the implementation of both
-    mitigation and adaptation measures. Additionally, the NDC introduced
-    adaptation limitations brought about by insurmountable climate
-    change impacts such as extreme weather events and slow onset events.
-    These limitations lead to the need for financial support for loss
-    and damage costs incurred.
+- The Government of Saint Lucia has developed an Implementation Plan,
+  Financing Strategy, and Partnership Plan for the NDC. The total cost
+  of implementing the NDC was estimated to be USD368 million. This
+  cost includes the operation, maintenance, fuel expenses, and energy
+  savings from the mitigation initiatives. The NDC highlighted the
+  need for financial support to enable the implementation of both
+  mitigation and adaptation measures. Additionally, the NDC introduced
+  adaptation limitations brought about by insurmountable climate
+  change impacts such as extreme weather events and slow onset events.
+  These limitations lead to the need for financial support for loss
+  and damage costs incurred.
 
--   The updated NDC, following from the INDC, highlighted sector-wide
-    sustainable development co-benefits. The NDC specifically mentioned
-    benefits to education, health, food security, water and sanitation,
-    housing and social protection, economic growth, gender, and youth.
+- The updated NDC, following from the INDC, highlighted sector-wide
+  sustainable development co-benefits. The NDC specifically mentioned
+  benefits to education, health, food security, water and sanitation,
+  housing and social protection, economic growth, gender, and youth.
 
-# Summary
+## Summary
 
 This mini-lecture walked through the basic information required to
 develop NDCs using Saint Lucia as a case study. The mini-lecture sought

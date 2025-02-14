@@ -1,20 +1,4 @@
----
-title: Mini-Lecture 19.4 -- The basics of finance in infrastructure
-
-
-keywords:
-
--   Types of finance
-
--   Asset lifecycles
-
--   Infrastructure investments
-
-authors:
-
--   Nicholas Chow
-
----
+# Mini-Lecture 19.4 -- The basics of finance in infrastructure
 
 This mini-lecture introduces the different types of infrastructure
 financing and describes their relative benefits and drawbacks. It goes
@@ -23,14 +7,14 @@ different types of financing and closes by highlighting how
 infrastructure financing changes across the lifecycle of an
 infrastructure project.
 
-# Learning objectives
+Learning objectives
 
--   Recognise the different types of infrastructure financing and
-    distinguish which types of projects might attract each
--   Understand the lifecycle of infrastructure assets and when financing
-    and debt service takes place.
+- Recognise the different types of infrastructure financing and
+  distinguish which types of projects might attract each
+- Understand the lifecycle of infrastructure assets and when financing
+  and debt service takes place.
 
-# Introduction
+## Introduction
 
 Traditional economists are of the opinion that infrastructure is at the
 core of any economy, as it represents development, critical service for
@@ -61,13 +45,13 @@ covering the ideas of who finances, why they do so, and when then do so:
 2. The attraction of infrastructure investments
 3. Financing across asset lifecycles.
 
-# Sources of infrastructure financing
+## Sources of infrastructure financing
 
 Financing for infrastructure projects can arise from any number of
 sources, with each type having its own benefits and drawbacks (Figure
 19.4.1).
 
-![](assets/19.4.1.png){width=100%}
+![](assets/19.4.1.png)
 
 **Figure 19.4.1:** A simplified layout of major funding sources in
 infrastructure finance and the benefits and drawbacks most often
@@ -106,7 +90,7 @@ and due to their bureaucratic nature, require oversight and contractual
 inflexibility. These funders tend to hold large technical capacity and
 expertise, and sometimes provide this in lieu of direct financing.
 
-# The attraction of infrastructure investments
+## The attraction of infrastructure investments
 
 Financiers are motivated to invest in projects that they believe can
 provide a return on investment. Examining the benefits and customers of
@@ -115,37 +99,37 @@ infrastructure projects and what kinds of financing they might attract.
 From this perspective, there are three types of infrastructure projects:
 social, economic, and commercial [@Juneja2015].
 
--   **Social projects** are those that may not see immediate financial
-    returns or have net negative overall costs but are a necessary
-    project benefiting the entire society. These projects rarely have a
-    specific beneficiary and are predominantly financed using public
-    funds. Some examples of these projects include public safety and
-    road infrastructure programmes.
+- **Social projects** are those that may not see immediate financial
+  returns or have net negative overall costs but are a necessary
+  project benefiting the entire society. These projects rarely have a
+  specific beneficiary and are predominantly financed using public
+  funds. Some examples of these projects include public safety and
+  road infrastructure programmes.
 
--   **Economic projects** are those that have an explicit economic
-    benefit to the market that is shared among society, and between the
-    public and private sector. Private investors can identify the value
-    of this project to their own operations and may choose to invest if
-    it was economically viable. Examples of economic projects are ports
-    and airports that encourage trade.
+- **Economic projects** are those that have an explicit economic
+  benefit to the market that is shared among society, and between the
+  public and private sector. Private investors can identify the value
+  of this project to their own operations and may choose to invest if
+  it was economically viable. Examples of economic projects are ports
+  and airports that encourage trade.
 
--   **Commercial projects** are similar to economic projects in that
-    they generate net positive economic benefits to stakeholders and the
-    economy, however they also benefit a specific subset of users with
-    their service. With a specific user class to levee fees towards,
-    these projects show the clearest economic returns and thus draw the
-    greatest private investments. Examples of commercial projects
-    include toll roads and metro rail projects. Supra-national
-    financiers tend also to invest in commercially viable projects.
+- **Commercial projects** are similar to economic projects in that
+  they generate net positive economic benefits to stakeholders and the
+  economy, however they also benefit a specific subset of users with
+  their service. With a specific user class to levee fees towards,
+  these projects show the clearest economic returns and thus draw the
+  greatest private investments. Examples of commercial projects
+  include toll roads and metro rail projects. Supra-national
+  financiers tend also to invest in commercially viable projects.
 
-![](assets/19.4.2.png){width=100%}
+![](assets/19.4.2.png)
 
 **Figure 19.4.2:** Proportion of 2014 U.S. public and private spending
 by infrastructure project type noting commercial projects towards the
 top and social projects towards the bottom [@Chen2017;
 @U.S.BureauofEconomicAnalysis2015]
 
-# Financing across asset lifecycles
+## Financing across asset lifecycles
 
 While the single largest cost of an asset is incurred during its use
 phase for maintenance and operations (Figure 19.4.3), early project
@@ -156,7 +140,7 @@ costs. Large infrastructure assets typically have lifecycles of between
 30-100 years, and across this period, different kinds of financing and
 financiers will be engaged with the project.
 
-![](assets/19.4.3.jpg){width=100%}
+![](assets/19.4.3.jpg)
 
 **Figure 19.4.3:** A comparison of the magnitude of costs incurred
 throughout the lifecycle of a physical infrastructure asset (adapted
@@ -181,7 +165,7 @@ put towards paying back the entities that financed earlier phases of the
 project. After debt services are fully paid off, capital financing
 practices have little role to play in the asset's Disposal Phase.
 
-# Summary
+## Summary
 
 In this mini-lecture, we learned that infrastructure financing plays a
 crucial role in providing upfront capital costs for constructing and

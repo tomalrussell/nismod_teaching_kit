@@ -1,15 +1,12 @@
----
-title: "Mini-Lecture 1.4 -- Case study: Infrastructure challenges in a
-  small-island context"
-keywords:
--   Small islands
--   Infrastructure vision
--   Infrastructure systems modelling
-authors:
--   Daniel Adshead
----
+# Mini-Lecture 1.4 -- Case study: Infrastructure challenges in a
 
-## Short description
+small-island context"
+
+- Small islands
+- Infrastructure vision
+- Infrastructure systems modelling
+  authors:
+- Daniel Adshead
 
 This lecture will introduce infrastructure assessment in the context of
 country-specific challenges and will provide a brief background to a
@@ -18,15 +15,13 @@ focusing on key infrastructure challenges in the small island context.
 This study will be drawn upon throughout many of the following lectures
 and throughout the hands-on sessions in this module.
 
-## Learning objectives
+Learning objectives
 
--   To describe, with examples, how infrastructure challenges vary in
-    different country contexts
+- To describe, with examples, how infrastructure challenges vary in
+  different country contexts
 
--   To list types of infrastructure challenges that often affect small
-    island countries.
-
-# Lecture content
+- To list types of infrastructure challenges that often affect small
+  island countries.
 
 ## Introduction: Identifying infrastructure challenges in various national contexts
 
@@ -44,7 +39,7 @@ country or region will define which infrastructure policies,
 investments, and projects may be feasibly implemented, or be most
 effective to meet these future objectives.
 
-![](assets/Fig_1.4.1.png){width=100%}
+![](assets/Fig_1.4.1.png)
 
 **Figure 1.4.1:** Examples of infrastructure-related challenges. Photos:
 Unsplash.
@@ -61,9 +56,9 @@ assessed independently for each country or region.
 Recent examples of unique infrastructure challenges assessed in
 different country contexts are shown in Figure 1.4.2.
 
-![](assets/Fig_1.4.2a.png){width=30%}
-![](assets/Fig_1.4.2b.png){width=30%}
-![](assets/Fig_1.4.2c.png){width=30%}
+![](assets/Fig_1.4.2a.png)
+![](assets/Fig_1.4.2b.png)
+![](assets/Fig_1.4.2c.png)
 
 **Figure 1.4.2:** Examples of specific infrastructure challenges in a
 post-conflict (Palestine), small-island (Curacao), and advanced economy
@@ -98,7 +93,7 @@ capacity is increased, demand is reduced, or efficiencies are integrated
 into the network. Water supply, wastewater treatment, and solid waste
 management capacity are all below current needs [@Adshead2021].
 
-![](assets/Fig_1.4.3.png){width=100%}
+![](assets/Fig_1.4.3.png)
 
 **Figure 1.4.3:** Current and projected infrastructure capacity in
 relation to needs to 2030 across four key sectors in Saint Lucia
@@ -111,7 +106,7 @@ pose a major threat to social and economic development on the island
 examples from the case study, in the course lecture blocks on risk and
 resilience (e.g. 13.4).
 
-![](assets/Fig_1.4.4.png){width=100%}
+![](assets/Fig_1.4.4.png)
 
 **Figure 1.4.4:** Climate-related hazards
 affecting Saint Lucia's built infrastructure and natural environment
@@ -130,36 +125,36 @@ several of Saint Lucia's infrastructure sectors were identified (Figure
 environmental, economic, and political factors that define small island
 countries:
 
--   **Energy sector:** Saint Lucia relies almost entirely on diesel,
-    which supplies approximately 97% of the island's electricity needs.
-    This fuel must be imported, with a cost to the government of around
-    10% of GDP annually, and is subject to fluctuating global energy
-    prices. Residential electricity tariffs are high -- nearly triple
-    the average price in the United States.
+- **Energy sector:** Saint Lucia relies almost entirely on diesel,
+  which supplies approximately 97% of the island's electricity needs.
+  This fuel must be imported, with a cost to the government of around
+  10% of GDP annually, and is subject to fluctuating global energy
+  prices. Residential electricity tariffs are high -- nearly triple
+  the average price in the United States.
 
--   **Water sector:** Saint Lucia faces large water security challenges
-    in the dry season due to reduced river flows, low volumes of
-    storage, and high demand from tourists. Siltation of the island's
-    only dam has led to a reduction in reservoir storage capacity,
-    reducing supply to treatment plants. Additionally, approximately 30%
-    of total water supply is lost through physical leaks in the
-    transmission system, and a further 26% from theft or metering
-    inaccuracies.
+- **Water sector:** Saint Lucia faces large water security challenges
+  in the dry season due to reduced river flows, low volumes of
+  storage, and high demand from tourists. Siltation of the island's
+  only dam has led to a reduction in reservoir storage capacity,
+  reducing supply to treatment plants. Additionally, approximately 30%
+  of total water supply is lost through physical leaks in the
+  transmission system, and a further 26% from theft or metering
+  inaccuracies.
 
--   **Wastewater sector:** Current treatment levels are inadequate with
-    the island's only treatment plant operating under-capacity. High
-    levels of bacteria and the transmission of water-borne diseases are
-    public health risks, and uncontrolled discharge threatens the safety
-    of public and tourist beaches, as well as terrestrial and marine
-    ecosystems.
+- **Wastewater sector:** Current treatment levels are inadequate with
+  the island's only treatment plant operating under-capacity. High
+  levels of bacteria and the transmission of water-borne diseases are
+  public health risks, and uncontrolled discharge threatens the safety
+  of public and tourist beaches, as well as terrestrial and marine
+  ecosystems.
 
--   **Waste sector:** As a small island, Saint Lucia's landfill capacity
-    is limited, with its one remaining landfill site reaching the end of
-    its lifespan within the next five years. This necessitates increased
-    dumping and informal waste incineration -- or the need to export
-    waste at a high cost.
+- **Waste sector:** As a small island, Saint Lucia's landfill capacity
+  is limited, with its one remaining landfill site reaching the end of
+  its lifespan within the next five years. This necessitates increased
+  dumping and informal waste incineration -- or the need to export
+  waste at a high cost.
 
-![](assets/Fig_1.4.5.png){width=100%}
+![](assets/Fig_1.4.5.png)
 
 **Figure 1.4.5:** Key challenges across four of Saint Lucia's main
 infrastructure sectors -- water, electricity, solid waste management,
@@ -173,35 +168,35 @@ resources and innovative solutions available to the small island (e.g.
 Figure 1.4.7). As with the key challenges, these were defined according
 to sector:
 
--   **Energy sector:** Embrace modern renewables such as solar, wind,
-    and geothermal to reduce long-term costs, emissions, and pollution​.
-    On the demand and efficiency side, incorporate high-tech
-    efficiencies into new housing, government buildings, and tourist
-    facilities to reduce energy needs.
+- **Energy sector:** Embrace modern renewables such as solar, wind,
+  and geothermal to reduce long-term costs, emissions, and pollution​.
+  On the demand and efficiency side, incorporate high-tech
+  efficiencies into new housing, government buildings, and tourist
+  facilities to reduce energy needs.
 
--   **Water sector:** Develop a secure, reliable, and efficient water
-    supply system that provides for all communities, particularly during
-    the dry season, by implementing a mix of water treatment and storage
-    capacity​. Pursue demand and water efficiency initiatives that
-    utilise available resources to meet increased demand from tourists
-    and the agricultural sector, creating economic opportunities for the
-    island's residents​.
+- **Water sector:** Develop a secure, reliable, and efficient water
+  supply system that provides for all communities, particularly during
+  the dry season, by implementing a mix of water treatment and storage
+  capacity​. Pursue demand and water efficiency initiatives that
+  utilise available resources to meet increased demand from tourists
+  and the agricultural sector, creating economic opportunities for the
+  island's residents​.
 
--   **Wastewater sector:** Provide safe levels of collection and
-    treatment of the island's wastewater, using centralised and
-    community-based options and building on synergies with the water
-    supply sector​. Limit terrestrial and marine ecosystem deterioration
-    caused by untreated wastewater discharge, harnessing opportunities
-    for long-term employment and economic growth from the tourism
-    sector​.
+- **Wastewater sector:** Provide safe levels of collection and
+  treatment of the island's wastewater, using centralised and
+  community-based options and building on synergies with the water
+  supply sector​. Limit terrestrial and marine ecosystem deterioration
+  caused by untreated wastewater discharge, harnessing opportunities
+  for long-term employment and economic growth from the tourism
+  sector​.
 
--   **Waste sector:** Preserve Saint Lucia's natural environment for
-    locals and tourists by sustainably managing waste and creating
-    economic opportunities for local residents. Harness waste to grow
-    Saint Lucia's circular economy by supporting the recycling and
-    compost industries​.
+- **Waste sector:** Preserve Saint Lucia's natural environment for
+  locals and tourists by sustainably managing waste and creating
+  economic opportunities for local residents. Harness waste to grow
+  Saint Lucia's circular economy by supporting the recycling and
+  compost industries​.
 
-![](assets/Fig_1.4.6.png){width=100%}
+![](assets/Fig_1.4.6.png)
 
 **Figure 1.4.6:** Saint Lucia's vision for national infrastructure is
 based around the government's national priorities, which include reaping
@@ -210,7 +205,7 @@ developing other sectors, such as agriculture, to ensure
 self-sufficiency and food security. Photos: FFelix (UNOPS); Pexels;
 Unsplash
 
-![](assets/Fig_1.4.7.png){width=100%}
+![](assets/Fig_1.4.7.png)
 
 **Figure 1.4.7:** Examples of effective infrastructure solutions in a
 small-island context. For example, regional (inter-island) waste
@@ -222,7 +217,7 @@ Photos: FFelix (UNOPS); LUCELEC; Saint Lucia News Online
 
 The case study took the form of a participatory national infrastructure assessment consisting of a series of analysis steps discussed further in the next lectures: the identification and quantification of drivers of future infrastructure needs; the aggregation of investment and policy options to increase supply capacity or reduce demand; the targets that define optimal performance achievement; and the interdependent modelling that brings these components together. These steps are represented in Figure 1.4.8.
 
-![](assets/Fig_1.4.8.png){width=100%}
+![](assets/Fig_1.4.8.png)
 
 **Figure 1.4.8:** Schematic overview of the components within the
 National Infrastructure Systems Model (NISMOD) [@Adshead2020]

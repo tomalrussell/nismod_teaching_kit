@@ -1,12 +1,4 @@
----
-title: Mini-Lecture 12.3 - Projecting future hazards
-keywords:
--   Future hazards
--   Infrastructure exposure
--   Model uncertainty
-authors:
--   Jasper Verschuur
----
+# Mini-Lecture 12.3 - Projecting future hazards
 
 In this lecture we will discuss how climate model outputs can be used to
 predict future changes in hazards that can impact infrastructure. We
@@ -14,14 +6,14 @@ will distinguish between short-term extreme events (flooding,
 hurricanes, storm surges, landslides) and more long-term chronic changes
 (temperature rise, sea-level rise).
 
-# Learning objectives
+Learning objectives
 
--   Understand how climate change might change the occurrence of hazards
--   Summarise how infrastructure exposure can change in the future
--   Evaluate what the different uncertainties are when predicting future
-    hazards.
+- Understand how climate change might change the occurrence of hazards
+- Summarise how infrastructure exposure can change in the future
+- Evaluate what the different uncertainties are when predicting future
+  hazards.
 
-# Introduction
+## Introduction
 
 In mini-lecture 12.2, we identified that climate change might alter the
 occurrence of hazards in the future. When evaluating changes in future
@@ -32,16 +24,16 @@ shown in in Figure 12.3.1 [@Vitousek2017].
 
 Some key concepts to define include:
 
--   **Frequency:** Frequency changes describe the increase or decrease
-    of the occurrence of an event with a certain magnitude (horizontal
-    line in Figure 12.3.1). In this example, a 100-year event becomes a
-    25-year event, meaning that the frequency increases by a factor
-    four.
+- **Frequency:** Frequency changes describe the increase or decrease
+  of the occurrence of an event with a certain magnitude (horizontal
+  line in Figure 12.3.1). In this example, a 100-year event becomes a
+  25-year event, meaning that the frequency increases by a factor
+  four.
 
--   **Magnitude:** Magnitude changes describe the increase or decrease
-    of the severity of an event with a certain frequency (vertical line
-    in Figure 12.3.1). In this example, the magnitude of a 100-year
-    event changes from 5m to 6m (increases by 20%).
+- **Magnitude:** Magnitude changes describe the increase or decrease
+  of the severity of an event with a certain frequency (vertical line
+  in Figure 12.3.1). In this example, the magnitude of a 100-year
+  event changes from 5m to 6m (increases by 20%).
 
 In addition, we often differentiate between changes in the occurrence of
 short-term extreme events and more long-term chronic changes. For
@@ -55,13 +47,13 @@ infrastructure design, it is important to identify what hazards are
 affecting your infrastructure system and how the underlying drivers
 might change in the future.
 
-![](assets/Figure_12.3.1.png){width=100%}
+![](assets/Figure_12.3.1.png)
 
 **Figure 12.3.1:** The change in frequency (horizontal line) and
 magnitude (vertical line) of different return periods of coastal
 flooding [@Vitousek2017]
 
-# Hazard sensitivity to climate change
+## Hazard sensitivity to climate change
 
 Some hazards are more sensitive to climate change than others. This
 reflects the differences in the underlying physical processes that drive
@@ -96,47 +88,47 @@ estimated at around 3mm per year [@Nerem2018].
 Earthquakes are unaffected by climate and will not change in the future
 because of climate change.
 
-# Expected changes in hazard occurrence
+## Expected changes in hazard occurrence
 
 We will discuss some of the mean trends identified in the literature on
 expected changes in extreme hazards. These estimates are derived by
 using the output from climate models and including them in a hazard
 model.
 
--   Hirabayashi et al. analysed changes in frequency of flooding for the
-    21^st^ century (see Figure 12.3.2) by comparing the changes in
-    100-year return period. A larger increase in flood hazard (lower
-    return period) is found for Asia, Africa and South America, while
-    parts of Europe will experience less frequent floods
-    [@Hirabayashi2021].
+- Hirabayashi et al. analysed changes in frequency of flooding for the
+  21^st^ century (see Figure 12.3.2) by comparing the changes in
+  100-year return period. A larger increase in flood hazard (lower
+  return period) is found for Asia, Africa and South America, while
+  parts of Europe will experience less frequent floods
+  [@Hirabayashi2021].
 
--   Sea-level rise will make coastal flooding more likely. In most areas
-    a doubling of flood frequency is expected, while in some areas (e.g.
-    Tropics) a doubling of flooding is already expected in 2050
-    [@Vitousek2017].
+- Sea-level rise will make coastal flooding more likely. In most areas
+  a doubling of flood frequency is expected, while in some areas (e.g.
+  Tropics) a doubling of flooding is already expected in 2050
+  [@Vitousek2017].
 
--   Changes in tropical cyclones are harder to predict. Currently, it is
-    expected that the global frequency of occurrence of tropical
-    cyclones will either decrease or remain unchanged, while wind speed
-    and precipitation rates are expected to increase [@Knutson2020].
+- Changes in tropical cyclones are harder to predict. Currently, it is
+  expected that the global frequency of occurrence of tropical
+  cyclones will either decrease or remain unchanged, while wind speed
+  and precipitation rates are expected to increase [@Knutson2020].
 
--   How droughts might change depends on the definition of a drought
-    adopted. An increasing frequency of drought is expected over large
-    land areas resulting from either decreased and/or increased
-    evaporation [@Dai2013].
+- How droughts might change depends on the definition of a drought
+  adopted. An increasing frequency of drought is expected over large
+  land areas resulting from either decreased and/or increased
+  evaporation [@Dai2013].
 
--   Landslides might also become more frequent due to the increase in
-    intense precipitation events. For instance, a recent study showed
-    that landslide activity in China and Nepal could see a 30 to 70%
-    increase in the future [@NASA2020].
+- Landslides might also become more frequent due to the increase in
+  intense precipitation events. For instance, a recent study showed
+  that landslide activity in China and Nepal could see a 30 to 70%
+  increase in the future [@NASA2020].
 
-![](assets/Figure_12.3.2.png){width=100%}
+![](assets/Figure_12.3.2.png)
 
 **Figure 12.3.2:** The multi-modal mean change in the global 100-year
 flood return period over the 21^st^ century for Representative
 Concentration Pathway (RCP) 8.5 [@Hirabayashi2021]
 
-# Future infrastructure exposure
+## Future infrastructure exposure
 
 Using the modelled hazard output, we can project the increase in the
 exposure and risk of people and infrastructure in the future due to
@@ -167,13 +159,13 @@ increase, but are more region-specific. Figure 12.3.3. shows the
 evolution of expected annual damages over time and the geographical
 distribution of infrastructure damages.
 
-![](assets/Figure_12.3.3.png){width=100%}
+![](assets/Figure_12.3.3.png)
 
 **Figure 12.3.3:** The expected annual damages to infrastructure assets
 for multiple hazards. The figures show the baseline scenario and the
 change in risk for 2020, 2050 and 2080 [@Forzieri2018]
 
-# Future hazard uncertainties
+## Future hazard uncertainties
 
 As discussed, the way in which climate change affects hazard occurrence
 can be projected using climate scenarios that feed into climate models.
@@ -209,7 +201,7 @@ distribution shifts to the right. The example highlights the sources and
 magnitude of climate change uncertainties that need to be considered for
 infrastructure design. In Lecture 14 we will come back to this.
 
-![](assets/Figure_12.3.4.png){width=100%}
+![](assets/Figure_12.3.4.png)
 
 **Figure 12.3.4:** The probability density functions (left) and survival
 functions (right) of the expected sea-level rise in 2065 in Louisiana
@@ -217,7 +209,7 @@ functions (right) of the expected sea-level rise in 2065 in Louisiana
 scenarios, the model spread and additional uncertainties surrounding the
 rapid disintegration of the Antarctic ice sheet (FD) [@Wong2017]
 
-# Summary
+## Summary
 
 In this lecture we have discussed how to use the climate scenarios and
 climate models to predict the future occurrence of hazards and the

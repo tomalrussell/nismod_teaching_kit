@@ -1,37 +1,21 @@
----
-title: Mini-Lecture 17.4 - Integrating nature-based solutions (NbS) in
-  the built environment
-
-keywords:
-
--   Nature-based solutions in buildings
-
--   Nature-based solutions in cities
-
--   Nature-based solutions in the urban environment
-
-authors:
-
--   Robyn Haggis
-
----
+# Mini-Lecture 17.4 - Integrating nature-based solutions (NbS) in the built environment
 
 This lecture will consider how nature-based solutions (NbS) can be
 integrated into different aspects of the urban environment. It will
 provide examples of how NbS can be integrated into buildings and cities,
 and other aspects of urban contexts.
 
-# Learning objectives
+Learning objectives
 
--   Recall how NbS can be integrated to enhance building sector services
+- Recall how NbS can be integrated to enhance building sector services
 
--   Recall how NbS can be integrated to promote positive outcomes in
-    urban environments
+- Recall how NbS can be integrated to promote positive outcomes in
+  urban environments
 
--   Consider the ways in which NbS can benefit occupants across
-    different sectors.
+- Consider the ways in which NbS can benefit occupants across
+  different sectors.
 
-# Introduction to nature-based solutions in the built environment
+## Introduction to nature-based solutions in the built environment
 
 Nature-based solutions (NbS) can be strategically integrated into
 buildings across all infrastructure sectors, including residential,
@@ -68,122 +52,121 @@ Various cities are integrating green roofs and urban farming, including
 New York, Berlin, Hong Kong and Singapore, and sectors including air
 transport, schools and hospitals [@Newman2014].
 
-![](assets/Figure_17.4.1.png){width=100%}
+![](assets/Figure_17.4.1.png)
 
 **Figure 17.4.1:** Rooftop farming in Vienna. Green roofs can enhance
 building durability whilst doubling as space for activities that support
 economic, societal and environmental health [@Enzi2017]
 
-![](assets/Figure_17.4.2.png){width=100%}
+![](assets/Figure_17.4.2.png)
 
 **Figure 17.4.2:** Green roof on a gym in Paris. Green roofs can enhance
 durability of building structures whilst delivering co-benefits
 including air quality, mental health and well-being, space for
 recreation and aesthetic value [@Enzi2017]
 
-
 **Table 17.4.1:** Examples of economic benefits of integrating NbS into
 buildings [@EuropeanCommission2013; @GMCA2019]
 
 +----------------------------------+----------------------------------+
-| Economic benefit                 | Description                      |
+| Economic benefit | Description |
 +==================================+==================================+
-| Increased lifespan of engineered | -   Green roofs can increase the |
-| infrastructure                   |     lifespan of engineered       |
-|                                  |     roofs. For example,          |
-|                                  |     @Liu&Baskaran2003 report an |
-|                                  |     increased lifespan of 44.4%, |
-|                                  |     while @Wong2003 find        |
-|                                  |     vegetative roofs can last    |
-|                                  |     three times longer.          |
-|                                  |                                  |
-|                                  | -   Fewer roof replacements      |
-|                                  |     required means reduced       |
-|                                  |     expenditure on replacement   |
-|                                  |     costs.                       |
+| Increased lifespan of engineered | - Green roofs can increase the |
+| infrastructure | lifespan of engineered |
+| | roofs. For example, |
+| | @Liu&Baskaran2003 report an |
+| | increased lifespan of 44.4%, |
+| | while @Wong2003 find |
+| | vegetative roofs can last |
+| | three times longer. |
+| | |
+| | - Fewer roof replacements |
+| | required means reduced |
+| | expenditure on replacement |
+| | costs. |
 +----------------------------------+----------------------------------+
-| Reduced maintenance costs        | -   The maintenance costs of     |
-|                                  |     green roofs are reported to  |
-|                                  |     be lower than those of grey  |
-|                                  |     infrastructure.              |
+| Reduced maintenance costs | - The maintenance costs of |
+| | green roofs are reported to |
+| | be lower than those of grey |
+| | infrastructure. |
 +----------------------------------+----------------------------------+
-| Increased property prices        | -   Inclusion of NbS, such as    |
-|                                  |     street trees and urban       |
-|                                  |     parks, can lead to increased |
-|                                  |     residential and commercial   |
-|                                  |     property prices.             |
-|                                  |                                  |
-|                                  | -   Incorporation of NbS can     |
-|                                  |     help to make sites and       |
-|                                  |     premises easier to sell or   |
-|                                  |     rent and help to retain      |
-|                                  |     occupants.                   |
+| Increased property prices | - Inclusion of NbS, such as |
+| | street trees and urban |
+| | parks, can lead to increased |
+| | residential and commercial |
+| | property prices. |
+| | |
+| | - Incorporation of NbS can |
+| | help to make sites and |
+| | premises easier to sell or |
+| | rent and help to retain |
+| | occupants. |
 +----------------------------------+----------------------------------+
-| Additional economic              | -   Green roofs can support      |
-| opportunities                    |     income generation activities |
-|                                  |     through increased demand for |
-|                                  |     green building materials and |
-|                                  |     urban farming opportunities. |
+| Additional economic | - Green roofs can support |
+| opportunities | income generation activities |
+| | through increased demand for |
+| | green building materials and |
+| | urban farming opportunities. |
 +----------------------------------+----------------------------------+
-| Reduced wastewater treatment     | -   Rain gardens and bioswales   |
-| costs                            |     on buildings reduce          |
-|                                  |     stormwater runoff,           |
-|                                  |     minimising the amount of     |
-|                                  |     water requiring treatment.   |
-|                                  |                                  |
-|                                  | -   Cost savings arise from      |
-|                                  |     reducing energy cost         |
-|                                  |     expenditure due to reduced   |
-|                                  |     consumption needs for water  |
-|                                  |     treatment.                   |
+| Reduced wastewater treatment | - Rain gardens and bioswales |
+| costs | on buildings reduce |
+| | stormwater runoff, |
+| | minimising the amount of |
+| | water requiring treatment. |
+| | |
+| | - Cost savings arise from |
+| | reducing energy cost |
+| | expenditure due to reduced |
+| | consumption needs for water |
+| | treatment. |
 +----------------------------------+----------------------------------+
-| Reduced energy costs             | -   Green walls and street trees |
-|                                  |     can provide shading to       |
-|                                  |     buildings, while green roofs |
-|                                  |     can promote thermal          |
-|                                  |     performance of roof          |
-|                                  |     membranes, enhancing         |
-|                                  |     evaporative cooling. This    |
-|                                  |     reduces cooling needs in     |
-|                                  |     summer and expenditure on    |
-|                                  |     ventilation.                 |
-|                                  |                                  |
-|                                  | -   In winter, through seasonal  |
-|                                  |     leaf fall, the building can  |
-|                                  |     profit from warming sun      |
-|                                  |     energy, leading to reduced   |
-|                                  |     costs on heating.            |
-|                                  |                                  |
-|                                  | -   Studies show energy savings  |
-|                                  |     from green roofs in the      |
-|                                  |     range of 15-45% (for cool    |
-|                                  |     and white roofs up to 65%),  |
-|                                  |     through lower cooling needs. |
-|                                  |                                  |
-|                                  | -   @Karteris2016 found green   |
-|                                  |     roofs led to 16% reduction   |
-|                                  |     in energy used for cooling,  |
-|                                  |     and 5% for heating.          |
-|                                  |                                  |
-|                                  | -   In Singapore, the energy     |
-|                                  |     consumption of the KTP       |
-|                                  |     hospital is 30% less than    |
-|                                  |     comparable new hospitals,    |
-|                                  |     saving USD1million per year. |
+| Reduced energy costs | - Green walls and street trees |
+| | can provide shading to |
+| | buildings, while green roofs |
+| | can promote thermal |
+| | performance of roof |
+| | membranes, enhancing |
+| | evaporative cooling. This |
+| | reduces cooling needs in |
+| | summer and expenditure on |
+| | ventilation. |
+| | |
+| | - In winter, through seasonal |
+| | leaf fall, the building can |
+| | profit from warming sun |
+| | energy, leading to reduced |
+| | costs on heating. |
+| | |
+| | - Studies show energy savings |
+| | from green roofs in the |
+| | range of 15-45% (for cool |
+| | and white roofs up to 65%), |
+| | through lower cooling needs. |
+| | |
+| | - @Karteris2016 found green |
+| | roofs led to 16% reduction |
+| | in energy used for cooling, |
+| | and 5% for heating. |
+| | |
+| | - In Singapore, the energy |
+| | consumption of the KTP |
+| | hospital is 30% less than |
+| | comparable new hospitals, |
+| | saving USD1million per year. |
 +----------------------------------+----------------------------------+
-| Reduced building expenditure     | -   Green roofs have a reduced   |
-|                                  |     payback time and increased   |
-|                                  |     return on investment (ROI).  |
-|                                  |                                  |
-|                                  | -   Green roofs and walls act as |
-|                                  |     buffers for extreme          |
-|                                  |     temperatures which can cause |
-|                                  |     damage to building           |
-|                                  |     structures, leading to       |
-|                                  |     recurring maintenance costs. |
+| Reduced building expenditure | - Green roofs have a reduced |
+| | payback time and increased |
+| | return on investment (ROI). |
+| | |
+| | - Green roofs and walls act as |
+| | buffers for extreme |
+| | temperatures which can cause |
+| | damage to building |
+| | structures, leading to |
+| | recurring maintenance costs. |
 +----------------------------------+----------------------------------+
 
-# Nature-based solutions in cities
+## Nature-based solutions in cities
 
 Integrating NbS in urban landscapes such as cities can provide multiple
 social, environmental and economic benefits to the urban context
@@ -195,7 +178,7 @@ sanitation and hygiene in urban areas by regulating water quantity,
 reducing stormwater runoff, reducing pollutant loads and preventing
 sewer system overflows, safeguarding urban water supplies.
 
-![](assets/Figure_17.4.3.png){width=100%}
+![](assets/Figure_17.4.3.png)
 
 **Figure 17.4.3:** Green roofs can reduce annual stormwater runoff by up
 to 50-90% for smaller storms (up to 25mm) and at least 30% for larger
@@ -227,26 +210,26 @@ whole footprint coverage of a building with green space (e.g. green
 roofs, walls, balconies). In this way, the whole city is designed to
 have access to nature [@Newman2014].
 
-![](assets/Figure_17.4.4.png){width=100%}
+![](assets/Figure_17.4.4.png)
 
 **Figure 17.4.4:** Green spaces can provide benefits to the physical and
 mental health of populations, through opportunities for exercise,
 reduction in the urban heat island effect and improving air quality, as
 well as aesthetic appeal. Photograph from @Browder2019.
 
-![](assets/Figure_17.4.5.png){width=100%}
+![](assets/Figure_17.4.5.png)
 
 **Figure 17.4.5:** Green spaces in cities can shield buildings from
 weather impacts. Photograph from @Kapos2019.
 
-![](assets/Figure_17.4.6.jpg){width=100%}
+![](assets/Figure_17.4.6.jpg)
 
 **Figure 17.4.6:** NbS can form part of a larger network of wildlife
 corridors in urban and suburban areas, supporting wider biodiversity
 goals, and contribute to carbon sequestration. Photographs from
 Unsplash.
 
-# Strategically integrating NbS to benefit offices, finance and retail
+## Strategically integrating NbS to benefit offices, finance and retail
 
 Integration of NbS has been shown to increase the effectiveness and
 productivity of workforces. Studies show that high quality accessible
@@ -277,13 +260,13 @@ spending of visitors in local restaurants. Similarly, lack of nature or
 degraded natural spaces can lead to poor perceptions of an area, and act
 as a barrier to investment, recruitment and staff retention.
 
-![](assets/Figure_17.4.7.png){width=100%}
+![](assets/Figure_17.4.7.png)
 
 **Figure 17.4.7:** A green roof on top of a car park and rail yard in
 Illinois. The roof helps slow stormwater runoff and provides the
 surrounding offices with a view of nature [@Browder2019]
 
-# Strategically integrating NbS to benefit industrial sectors
+## Strategically integrating NbS to benefit industrial sectors
 
 NbS can be integrated into industrial sectors, including solid waste,
 wastewater and manufacturing and production, to generate cost savings
@@ -313,15 +296,15 @@ living walls, could help to regulate the urban heat island effect and
 local environment, leading to benefits for surrounding communities
 [@TurhanAkkurt2018].
 
-![](assets/Figure_17.4.8.png){width=100%}
+![](assets/Figure_17.4.8.png)
 
 **Figure 17.4.8:** NbS could be integrated in and around factory
 buildings for various benefits including increasing the health,
 well-being and productivity of workers. Photograph from Unsplash.
 
-# Strategically integrating NbS to benefit health and education
+## Strategically integrating NbS to benefit health and education
 
-## Health
+### Health
 
 Integrating NbS into urban areas can provide a variety of services which
 improve mental health and well-being. These include (but are not limited
@@ -337,7 +320,7 @@ respiratory illnesses, purifying the environment, provisioning
 nutritious food, reducing disease and maintaining quality water supplies
 [@Blicharska2019; @CNT2010].
 
-![](assets/Figure_17.4.9.png){width=100%}
+![](assets/Figure_17.4.9.png)
 
 **Figure 17.4.9:** Natural ecosystems provide various benefits which
 contribute to good health outcomes [@LivingPlanetReport2020]
@@ -352,7 +335,7 @@ healing views, that help to reduce blood pressure and heart rates.
 a view of trees from their hospital room, rather than a view of a wall,
 through restorative influences.
 
-## Education
+### Education
 
 NbS can also support education outcomes, by increasing cognitive
 functioning, attention spans and providing opportunities for students to
@@ -363,7 +346,7 @@ university buildings, students can have access to food and water,
 supporting the reduction in malnutrition, enable learning about
 vegetable growing, and take part in educational planting projects.
 
-# Summary
+## Summary
 
 This lecture has provided an overview of some of the ways in which
 nature-based solutions can be integrated into urban contexts. There are
