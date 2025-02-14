@@ -1,4 +1,6 @@
-## NISMOD: Teaching Kit
+# NISMOD: Teaching Kit
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14871989.svg)](https://doi.org/10.5281/zenodo.14871989)
 
 This repository contains the teaching material developed by University of Oxford
 for the course "Infrastructure and Climate Resilience" developed under the
@@ -13,7 +15,7 @@ attribution. Please use the following citation:
 
     Amelie Paszkowski, Daniel Adshead, Sapphire Vital, Orlando Roman, Lena Fuldauer, Prof Jim W Hall, Raghav Pant, Sarah Gall, Olivia Becher, Aman Majid, Jasper Verschuur, Robyn Haggis, Yu Mo, & Nicholas Chow. (2021, August 6). ClimateCompatibleGrowth/nismod_teaching_kit: Initial release of lecture blocks. Zenodo. https://doi.org/10.5281/zenodo.5166742
 
-### Creating the teaching material
+## Creating the teaching material
 
 The teaching material is rendered to HTML using a bash script.
 A key dependency is [pandoc](https://pandoc.org/), which is used to convert the markdown lecture block files into HTML.
@@ -34,3 +36,7 @@ To copy all assets up to a common directory:
 To generate `outline.pdf`:
 
     pdflatex outline.tex
+
+Output available at:
+
+> Paszkowski, A., Adshead, D., Vital, S., Roman, O., Fuldauer, L., Hall, J. W., Pant, R., Gall, S., Becher, O., Majid, A., Russell, T., Verschuur, J., Haggis, R., Mo, Y., & Chow, N. (2021, August 6). Infrastructure and Climate Resilience Teaching Materials. Zenodo. https://doi.org/10.5281/zenodo.14871989
