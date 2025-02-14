@@ -3,3 +3,6 @@ docs/.DS_Store
 docs/*/.DS_Store
 _build
 _deploy/*.zip
+*.aux
+*.log
+assets

@@ -19,9 +19,9 @@ for filename in $lecture/*.md; do
         # Render citations and write bibliography to HTML
         echo "" >> $MD_TMP
         echo "# Bibliography" >> $MD_TMP
-        pandoc --mathjax --standalone --css $PAN --css $CSL --citeproc $MD_TMP --bibliography $BIBFILE -o $OUTPUT/$MD_NAME.html  --csl $CITESTYLE
+        pandoc --mathjax --standalone --css $PAN --css $CSL --citeproc $MD_TMP --bibliography $BIBFILE -o $OUTPUT/$MD_NAME.tex  --csl $CITESTYLE
     else
-        pandoc --mathjax --standalone --css $PAN --css $CSL $MD_TMP -o $OUTPUT/$MD_NAME.html
+        pandoc --mathjax --standalone --css $PAN --css $CSL $MD_TMP -o $OUTPUT/$MD_NAME.tex
     fi
     if test -d "$OUTPUT/assets"; then
         rm -r $OUTPUT/assets/*
@@ -31,4 +31,3 @@ for filename in $lecture/*.md; do
     rm $MD_TMP
 done;
 done;
-# Clean up

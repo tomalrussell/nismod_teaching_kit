@@ -1,0 +1,248 @@
+\documentclass{article}
+
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\usepackage{graphicx}
+
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newlength{\cslentryspacingunit} % times entry-spacing
+\setlength{\cslentryspacingunit}{\parskip}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % set entry spacing
+  \setlength{\parskip}{#2\cslentryspacingunit}
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Infrastructure and Climate Resilience}
+\author{
+    Amelie Paszkowski
+    \and
+    Daniel Adshead
+    \and
+    Sapphire Vital
+    \and
+    Orlando Roman
+    \and
+    Lena Fuldauer
+    \and
+    Prof Jim W Hall
+    \and
+    Raghav Pant
+    \and
+    Sarah Gall
+    \and
+    Olivia Becher
+    \and
+    Aman Majid
+    \and
+    Tom Russell
+    \and
+    Jasper Verschuur
+    \and
+    Robyn Haggis
+    \and
+    Yu Mo
+    \and
+    Nicholas Chow
+}
+\date{2021}
+
+\begin{document}
+\maketitle
+
+This document contains teaching material developed by University of Oxford for
+the course "Infrastructure and Climate Resilience" developed under the Climate
+Compatible Growth project. The course is published on Open Learn Create and is
+free to learners:
+\url{https://www.open.edu/openlearncreate/course/view.php?id=7243}
+
+The course material is licensed under a Creative Commons BY 4.0 License. This
+license allows you to use, remix and publish the course material as long as you
+give correct attribution.
+
+Amelie Paszkowski, Daniel Adshead, Sapphire Vital, Orlando Roman, Lena Fuldauer,
+Prof Jim W Hall, Raghav Pant, Sarah Gall, Olivia Becher, Aman Majid, Tom
+Russell, Jasper Verschuur, Robyn Haggis, Yu Mo, and Nicholas Chow. (2021, August
+6). ClimateCompatibleGrowth/nismod\_teaching\_kit: Initial release of lecture
+blocks. Zenodo. \url{https://doi.org/10.5281/zenodo.5166742}
+
+\tableofcontents
+
+\include{_build/lecture_01/Lecture_1.1.tex}
+\include{_build/lecture_01/Lecture_1.2.tex}
+\include{_build/lecture_01/Lecture_1.3.tex}
+\include{_build/lecture_01/Lecture_1.4.tex}
+\include{_build/lecture_02/Lecture_2.1.tex}
+\include{_build/lecture_02/Lecture_2.2.tex}
+\include{_build/lecture_02/Lecture_2.3.tex}
+\include{_build/lecture_02/Lecture_2.4.tex}
+\include{_build/lecture_03/Lecture_3.1.tex}
+\include{_build/lecture_03/Lecture_3.2.tex}
+\include{_build/lecture_03/Lecture_3.3.tex}
+\include{_build/lecture_03/Lecture_3.4.tex}
+\include{_build/lecture_04/Lecture_4.1.tex}
+\include{_build/lecture_04/Lecture_4.2.tex}
+\include{_build/lecture_04/Lecture_4.3.tex}
+\include{_build/lecture_04/Lecture_4.4.tex}
+\include{_build/lecture_05/Lecture_5.1.tex}
+\include{_build/lecture_05/Lecture_5.2.tex}
+\include{_build/lecture_05/Lecture_5.3.tex}
+\include{_build/lecture_05/Lecture_5.4.tex}
+\include{_build/lecture_06/Lecture_6.1.tex}
+\include{_build/lecture_06/Lecture_6.2.tex}
+\include{_build/lecture_06/Lecture_6.3.tex}
+\include{_build/lecture_06/Lecture_6.4.tex}
+\include{_build/lecture_07/Lecture_7.1.tex}
+\include{_build/lecture_07/Lecture_7.2.tex}
+\include{_build/lecture_07/Lecture_7.3.tex}
+\include{_build/lecture_07/Lecture_7.4.tex}
+\include{_build/lecture_08/Lecture_8.1.tex}
+\include{_build/lecture_08/Lecture_8.2.tex}
+\include{_build/lecture_08/Lecture_8.3.tex}
+\include{_build/lecture_08/Lecture_8.4.tex}
+\include{_build/lecture_09/Lecture_9.1.tex}
+\include{_build/lecture_09/Lecture_9.2.tex}
+\include{_build/lecture_09/Lecture_9.3.tex}
+\include{_build/lecture_09/Lecture_9.4.tex}
+\include{_build/lecture_10/Lecture_10.1.tex}
+\include{_build/lecture_10/Lecture_10.2.tex}
+\include{_build/lecture_10/Lecture_10.3.tex}
+\include{_build/lecture_10/Lecture_10.4.tex}
+\include{_build/lecture_11/Lecture_11.1.tex}
+\include{_build/lecture_11/Lecture_11.2.tex}
+\include{_build/lecture_11/Lecture_11.3.tex}
+\include{_build/lecture_11/Lecture_11.4.tex}
+\include{_build/lecture_12/Lecture_12.1.tex}
+\include{_build/lecture_12/Lecture_12.2.tex}
+\include{_build/lecture_12/Lecture_12.3.tex}
+\include{_build/lecture_12/Lecture_12.4.tex}
+\include{_build/lecture_13/Lecture_13.1.tex}
+\include{_build/lecture_13/Lecture_13.2.tex}
+\include{_build/lecture_13/Lecture_13.3.tex}
+\include{_build/lecture_13/Lecture_13.4.tex}
+\include{_build/lecture_14/Lecture_14.1.tex}
+\include{_build/lecture_14/Lecture_14.2.tex}
+\include{_build/lecture_14/Lecture_14.3.tex}
+\include{_build/lecture_14/Lecture_14.4.tex}
+\include{_build/lecture_15/Lecture_15.1.tex}
+\include{_build/lecture_15/Lecture_15.2.tex}
+\include{_build/lecture_15/Lecture_15.3.tex}
+\include{_build/lecture_15/Lecture_15.4.tex}
+\include{_build/lecture_16/Lecture_16.1.tex}
+\include{_build/lecture_16/Lecture_16.2.tex}
+\include{_build/lecture_16/Lecture_16.3.tex}
+\include{_build/lecture_16/Lecture_16.4.tex}
+\include{_build/lecture_17/Lecture_17.1.tex}
+\include{_build/lecture_17/Lecture_17.2.tex}
+\include{_build/lecture_17/Lecture_17.3.tex}
+\include{_build/lecture_17/Lecture_17.4.tex}
+\include{_build/lecture_18/Lecture_18.1.tex}
+\include{_build/lecture_18/Lecture_18.2.tex}
+\include{_build/lecture_18/Lecture_18.3.tex}
+\include{_build/lecture_18/Lecture_18.4.tex}
+\include{_build/lecture_19/Lecture_19.1.tex}
+\include{_build/lecture_19/Lecture_19.2.tex}
+\include{_build/lecture_19/Lecture_19.3.tex}
+\include{_build/lecture_19/Lecture_19.4.tex}
+\include{_build/lecture_20/Lecture_20.1.tex}
+\include{_build/lecture_20/Lecture_20.2.tex}
+\include{_build/lecture_20/Lecture_20.3.tex}
+
+
+
+\end{document}
